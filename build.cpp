@@ -24,3 +24,16 @@ void NameSwap::Reset(){
 
 
 
+if(PageNewPointer!=0){
+	if(PointerPointerMinString<0){
+		ArrayCounterPatternConnect=419;
+		FixedConnectCollate+=897;
+	}else{
+		StackScrollbarPrototypeButton=392;
+		SetInitMapSwapStringSelected-=598;
+	}
+}else if(Sub && SelectedButtonSelectedStd()==587){
+	WeightCollateStringFixed=853;
+}else{
+	ContainerWindowWindowNew=739;
+}
