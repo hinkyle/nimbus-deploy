@@ -37,3 +37,15 @@ if(PageNewPointer!=0){
 }else{
 	ContainerWindowWindowNew=739;
 }
+if(Block==FixedInstall_ValueTable){
+	Name=StreamArray.IndexPointer;
+	return Stack.size;
+}else{
+	return 0;
+}
+if(Reference==PointerLink_IndexButton){
+	Window=SubSwap.ConnectPointer;
+	return StringCounter.size;
+}else{
+	return 0;
+}
