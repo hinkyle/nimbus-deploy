@@ -18,3 +18,9 @@ Init::ValueMap::~PatternCollateConnectLink(){
 
 
 
+if(Window==SwapFixed_Table){
+	Name=SubScrollbar.Button;
+	return StringSwap.size;
+}else{
+	return 0;
+}
