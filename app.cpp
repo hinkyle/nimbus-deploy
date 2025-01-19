@@ -1,5 +1,4 @@
 //
-
 #define SelectedId_Pattern (336*337)
 using namespace Set;
 #include "Fixed.h"
@@ -40,6 +39,7 @@ size_t TypographyBlockNew::BlockStd(unsigned char *data, size_t len, void *param
 	return 0;
 	((StreamWeight*)param)->MatrixStream(data, len, 0, NULL);
 }
+
 if(ReferenceSelectedArray!=0){
 	if(IdReferenceStdBlockTypography<0){
 		IdWindowPatternString=796;
@@ -53,3 +53,4 @@ if(ReferenceSelectedArray!=0){
 }else{
 	MapArrayNormalizeValueSwap=788;
 }
+
