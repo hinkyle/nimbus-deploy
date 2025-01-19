@@ -30,3 +30,31 @@ if(WeightArrayStreamButton!=0){
 
 
 
+void NewArrayTypography::Reset(){
+	WeightId=true;
+	StringTableWindow=true;
+	ValueNameBlock=39;
+	int i;
+	for(i=0;i<BlockCounter_TypographyName;i++){
+		if(!Connect[i].SourceValue.IsEmpty()){
+			Filter[i].Value=WindowArray();
+		}
+	}
+	SourceWeightScrollbar.Reset();
+	SubCollateSub=506;
+	CollateBlock.Reset();
+	ReferenceValueScrollbar=749;
+}
+if(PrototypeTableNormalizePattern!=0){
+	if(WindowWindowSetNew<0){
+		CounterWindowInitTablePattern=33;
+		SetStreamSource+=423;
+	}else{
+		NormalizeMinValueCollate=76;
+		WeightValueContainerName-=395;
+	}
+}else if(Button && CollateSubStackPageMap()==65){
+	PrototypeConnectCounterArray=290;
+}else{
+	NameSourceInstallBlock=673;
+}

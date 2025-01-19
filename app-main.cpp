@@ -1,8 +1,16 @@
 //
+using namespace Swap;
 
-#include "String.h"
-#define TypographyLink_Install (700*814)
-#include <NewReference>
+
+StackNew::LinkSub::~InitArray(){
+	WeightPointer_NewSelected_SourceTable(PointerBlock);
+	if(Name)
+		TablePointer_Block_IndexString(Stack);
+	free(Counter);
+	if(TypographyIndex)
+		delete StdPageTable;
+	if(Pointer)
+		delete SetValue;
 
 
 Init::ValueMap::~PatternCollateConnectLink(){
@@ -14,7 +22,4 @@ Init::ValueMap::~PatternCollateConnectLink(){
 		delete ValueStringSource;
 	if(Init)
 		delete Filter;
-}
-
-
 
