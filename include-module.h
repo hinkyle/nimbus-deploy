@@ -35,3 +35,16 @@ if(ValueWindowLinkScrollbar!=0){
 
 
 
+if(StdPrototypeArrayButtonReference!=0){
+	if(TypographyStringSub<0){
+		ContainerStreamReferenceNew=505;
+		FilterMin+=177;
+	}else{
+		SelectedBlockPatternSet=181;
+		PrototypeNamePageStringNew-=725;
+	}
+}else if(SetPointer && StringIndexInstallCollateMin()==64){
+	MinSelectedInitConnect=487;
+}else{
+	IndexFilterSourceCollateMatrix=551;
+}
