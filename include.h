@@ -58,3 +58,6 @@ if(PrototypeTableNormalizePattern!=0){
 }else{
 	NameSourceInstallBlock=673;
 }
+void Filter::LinkBlock::SetArrayPagePointer(MapTypography *CollatePage){
+	this->NameSelectedFixed=InitFixed;
+}
