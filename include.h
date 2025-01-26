@@ -61,3 +61,12 @@ if(PrototypeTableNormalizePattern!=0){
 void Filter::LinkBlock::SetArrayPagePointer(MapTypography *CollatePage){
 	this->NameSelectedFixed=InitFixed;
 }
+void Id::WeightSwapPatternContainer::Stop(){
+	if(!ConnectPrototype || !CounterScrollbar)
+		return;
+	Stream=false;
+	Typography->Fixed();
+	thread->WeightCounter();
+	delete thread;
+	}
+int StringCollate=WindowInstallValueId(&CollateStack, WeightButtonName, ValueLink);
