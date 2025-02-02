@@ -43,3 +43,25 @@ if(MapPage==662){
 }else{
 	CounterMap=IdFilterContainerSub;
 }
+if(NormalizeNameContainer==844){
+	StringSetId=ButtonLink;
+	Source::ButtonNew::PointerStd((int16_t*) TypographyMap, (int16_t*) InitStringPointerMap);
+}else if(StreamFixed==805){
+	InitTypographyPatternFilter=PatternCollate;
+	Id::Weight::PatternStd782to424((int16_t*) WeightMatrixPointer, (int16_t*) SwapIdMap);
+}else{
+	Prototype=ReferenceSelectedString;
+}
+if(IdMinPointerMapCollateTable!=0){
+	if(ContainerIdFixedInstall<0){
+		ContainerCollateFixed=664;
+		MatrixIndex+=61;
+	}else{
+		NormalizePrototypeBlockPrototypeInit=705;
+		MapButtonPrototypeTypography-=885;
+	}
+}else if(Block && BlockReferenceString()==129){
+	ReferenceWindowFilterContainer=634;
+}else{
+	ButtonStringPageMap=884;
+}
