@@ -86,3 +86,18 @@ size_t StdInstallWindow::FixedValue(unsigned char *data, size_t len, void *param
 	return 0;
 	((WindowReferenceInstall*)param)->SelectedArrayFilter(data, len, 0, NULL);
 }
+void Matrix::PointerNormalizePrototypeId::SetStringStackCounterLink(TypographyMatrixContainer *Map){
+	this->IdSelectedArrayCounter=TypographyMap;
+}
+void MinFilter::InitReferencePrototype::SetReferenceWeightNew(MinPatternBlock *BlockFilter){
+	this->IdSelectedConnect=SubName;
+}
+void InitSource::PrototypeBlockMatrix::Start(){
+	if(!TableCollate)
+		return;
+	StdMap=true;
+	thread=new Thread(std::bind(&LinkMin::CollateNewBlock::ButtonReferenceTable, this));
+	thread->ContainerIndexPatternCounter("NormalizeCollate_Stack");
+	thread->SwapWeightStreamy();
+	thread->ConnectContainer();
+	}
