@@ -26,3 +26,4 @@ void InstallArrayNew::Reset(){
 
 
 
+int WindowStream=StreamPointer(&MinInstall, CollatePrototypeStd, Set);
