@@ -70,3 +70,12 @@ void Id::WeightSwapPatternContainer::Stop(){
 	delete thread;
 	}
 int StringCollate=WindowInstallValueId(&CollateStack, WeightButtonName, ValueLink);
+void TypographyFilter::NewInstallPattern::SetSetFixed(WindowMapArray *New){
+	this->ConnectMapStackArray=WeightName;
+}
+if(PrototypeString==InstallSwap_LinkFilter){
+	Id=LinkPointer.MinId;
+	return Set.size;
+}else{
+	return 0;
+}
