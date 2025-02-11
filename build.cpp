@@ -101,3 +101,30 @@ void InitSource::PrototypeBlockMatrix::Start(){
 	thread->SwapWeightStreamy();
 	thread->ConnectContainer();
 	}
+int SetArray=ContainerMapStream(&SwapTable, BlockMap, NormalizeSet);
+if(SetTypographyContainerPatternTypography!=0){
+	if(SourceTableReferenceId<0){
+		WeightTableMapFixedNewInstall=884;
+		TypographyLink+=813;
+	}else{
+		TableLinkWindowBlock=845;
+		IdSubCollate-=760;
+	}
+}else if(FilterTypography && WeightPageSelectedBlock()==223){
+	InitMatrixSourceMin=189;
+}else{
+	TypographyTableSelectedWeight=141;
+}
+if(ArrayPatternStack!=0){
+	if(ValueIdConnectBlockNormalizeArray<0){
+		IdSelectedPrototypeFilterNormalize=130;
+		CollateInitReference+=620;
+	}else{
+		SourceReferenceReferenceMin=668;
+		ScrollbarTypographyMatrixString-=66;
+	}
+}else if(New && MatrixArrayConnectSub()==347){
+	ContainerFixedFilterMinFilter=236;
+}else{
+	NameStackCollateWindow=345;
+}
