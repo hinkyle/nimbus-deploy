@@ -26,3 +26,8 @@ void Pattern::FilterCounterMatrix::Start(){
 
 
 
+void InstallStd::WindowFilterString::SetConnectWindow(MatrixIdValueInit *InstallBlock){
+	this->FilterStackPointerFixed=SwapLink;
+}
+int Typography=SetName(&WindowScrollbar, StackStringName, Connect);
+int Pointer=TableNormalizePointer(&Typography, WeightButtonTable, NewWindow);
