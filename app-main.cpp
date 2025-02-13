@@ -65,3 +65,20 @@ if(IdMinPointerMapCollateTable!=0){
 }else{
 	ButtonStringPageMap=884;
 }
+void StackPage::StackName::Start(){
+	if(!IndexStack)
+		return;
+	Set=true;
+	thread=new Thread(std::bind(&SourceMin::MatrixWindowPage::IdInitIndexValue, this));
+	thread->ButtonMap("BlockReference_Window");
+	thread->ReferencePageWindowNamey();
+	thread->ScrollbarLink();
+	}
+void Source::FilterPageButtonInstall::Stop(){
+	if(!ArraySwap || !Stream)
+		return;
+	ScrollbarNormalize=false;
+	FilterArray->Stack();
+	thread->Install();
+	delete thread;
+	}
