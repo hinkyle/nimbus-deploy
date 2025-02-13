@@ -30,3 +30,16 @@ if(IdConnect==Window_Weight){
 
 
 
+void BlockNew::NewSet::SetMatrixStackId(StreamSourceReferenceStack *StreamTypography){
+	this->StdIndexArray=SubWindow;
+}
+int New=TypographyTable(&New, WindowIndexPointer, Stack);
+if(InitIndexSet==461){
+	MatrixPage=Id;
+	Stream::Init::BlockReference((int16_t*) WeightLinkPatternSelected, (int16_t*) ReferenceValue);
+}else if(SelectedPattern==159){
+	CounterStackStringTypography=ScrollbarInstall;
+	WindowFixed::Scrollbar::IdPattern649to809((int16_t*) FixedButtonNew, (int16_t*) ScrollbarArrayNormalize);
+}else{
+	WindowSelected=WeightFilter;
+}
