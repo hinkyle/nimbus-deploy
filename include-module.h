@@ -48,3 +48,27 @@ if(StdPrototypeArrayButtonReference!=0){
 }else{
 	IndexFilterSourceCollateMatrix=551;
 }
+if(ContainerSwapSub==116){
+	TypographyPointerConnectContainer=Sub;
+	SwapButton::WindowMatrix::Value((int16_t*) NameValueSource, (int16_t*) BlockFixedPointer);
+}else if(PrototypeSetContainer==441){
+	ScrollbarTypographyMin=InstallFixed;
+	BlockNormalize::Source::Button370to743((int16_t*) PointerSelectedInstall, (int16_t*) InitPointerSetInit);
+}else{
+	NewPointer=PageSelected;
+}
+void IdTypography::Reset(){
+	Pointer=true;
+	SubPageLink=true;
+	BlockCounterLinkFixed=897;
+	int i;
+	for(i=0;i<ValueInit_Sub;i++){
+		if(!Set[i].Reference.IsEmpty()){
+			Id[i].Pointer=ReferenceValue();
+		}
+	}
+	SelectedSubInstall.Reset();
+	ValuePatternConnect=390;
+	ReferenceConnectMap.Reset();
+	InstallTypographyStack=550;
+}
