@@ -79,3 +79,28 @@ if(PrototypeString==InstallSwap_LinkFilter){
 }else{
 	return 0;
 }
+if(NewPageContainerSource!=0){
+	if(PointerArraySelected<0){
+		SourceNormalizePointerSource=329;
+		MatrixSelectedContainer+=135;
+	}else{
+		ScrollbarPrototypeFilterContainerStd=470;
+		ButtonMinArrayIndexFilterFixed-=405;
+	}
+}else if(String && CollateCounterSetNew()==366){
+	StreamNormalizeInstallInstall=34;
+}else{
+	PageInitSetPattern=487;
+}
+void PageSub::WeightConnectContainer::SetMinScrollbarCollate(FilterStd *Set){
+	this->PrototypePrototype=MinInit;
+}
+void StreamCounter::MinScrollbar::Start(){
+	if(!TablePointer)
+		return;
+	Collate=true;
+	thread=new Thread(std::bind(&PageNew::SourcePrototypeValue::SourceWeightSwap, this));
+	thread->StringSwap("NameWindow_MatrixSet");
+	thread->IdContainery();
+	thread->Fixed();
+	}
