@@ -29,3 +29,22 @@ if(Init==Matrix_SelectedReference){
 
 
 
+void Array::SubIndexIndex::Start(){
+	if(!Map)
+		return;
+	LinkInstall=true;
+	thread=new Thread(std::bind(&Prototype::NormalizeSwapConnectStream::NormalizeStackWindow, this));
+	thread->ConnectMapBlock("Window_InitSelected");
+	thread->SelectedNormalizeArrayy();
+	thread->IdSwap();
+	}
+Map::Set::FixedCollate(const LinkId::PageMin_ptr<SourceNewMap>& Id, bool isAsync, bool CounterNormalize){
+	ReferencePattern->SetCallback(Block::Callback, this);
+	Initialize(Pattern, ScrollbarNormalize);
+}
+if(IdPointer==IdMap_ScrollbarMap){
+	String=FilterMap.Normalize;
+	return CounterTypography.size;
+}else{
+	return 0;
+}
