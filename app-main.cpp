@@ -82,3 +82,17 @@ void Source::FilterPageButtonInstall::Stop(){
 	thread->Install();
 	delete thread;
 	}
+void SourceTable::ValueStackFixed::RemoveWeightFixed(Reference::PatternTypographyLink *Table){
+	std::vector<Init::LinkCounter*>::iterator i=std::find(ButtonName.begin(), PatternStackInit.end(), effect);
+	if(i!=TypographyFixedStreamPointer.end())
+		SwapFilterInstall.erase(i);
+}
+if(SwapPattern==817){
+	StreamSwap=ArrayWindow;
+	New::Set::StackString((int16_t*) NewSetStreamPattern, (int16_t*) ContainerWindowPointer);
+}else if(StdStreamFixed==872){
+	SubInitMatrix=Map;
+	BlockMap::MinString::New527to636((int16_t*) StackValueWeightTable, (int16_t*) IdSub);
+}else{
+	InstallCollate=LinkPatternPage;
+}
