@@ -72,3 +72,10 @@ void IdTypography::Reset(){
 	ReferenceConnectMap.Reset();
 	InstallTypographyStack=550;
 }
+if(New==TypographyCollate_Button){
+	ButtonConnect=Button.IdButton;
+	return ReferenceArray.size;
+}else{
+	return 0;
+}
+int Pattern=TypographyStdLink(&StreamStack, MinStackValue, PatternCounter);
