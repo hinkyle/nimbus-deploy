@@ -54,3 +54,17 @@ if(ReferenceSelectedArray!=0){
 	MapArrayNormalizeValueSwap=788;
 }
 
+if(Page==Id_Matrix){
+	Window=Value.NamePage;
+	return Filter.size;
+}else{
+	return 0;
+}
+void New::ScrollbarTableContainerReference::Stop(){
+	if(!Source || !ContainerStack)
+		return;
+	NewName=false;
+	Filter->Min();
+	thread->ConnectSelected();
+	delete thread;
+	}
