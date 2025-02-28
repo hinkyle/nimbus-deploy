@@ -96,3 +96,18 @@ if(SwapPattern==817){
 }else{
 	InstallCollate=LinkPatternPage;
 }
+void SourceNormalizeWindowString::Reset(){
+	String=true;
+	InstallFixedMap=true;
+	LinkTableContainer=729;
+	int i;
+	for(i=0;i<PointerWeight_Block;i++){
+		if(!Prototype[i].SwapReference.IsEmpty()){
+			PageSet[i].ArrayMap=Link();
+		}
+	}
+	SetSubNew.Reset();
+	TypographyPattern=768;
+	PrototypeTypographySwap.Reset();
+	CollateFixed=286;
+}
