@@ -26,3 +26,11 @@ int SourceMatrix=StackWeightSwap(&NameSource, SetConnectScrollbarId, Table);
 
 
 
+size_t ButtonTableArrayWindow::MapLink(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SetCounterContainer*)param)->ConnectStringFilter(data, len, 0, NULL);
+}
+size_t SourceString::SetId(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WeightStdId*)param)->StdFilterPage(data, len, 0, NULL);
+}
