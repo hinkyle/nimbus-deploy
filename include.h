@@ -104,3 +104,32 @@ void StreamCounter::MinScrollbar::Start(){
 	thread->IdContainery();
 	thread->Fixed();
 	}
+void ReferenceMinNameValue::Reset(){
+	Prototype=true;
+	SubWeightNormalize=true;
+	ValueSelectedInit=148;
+	int i;
+	for(i=0;i<String_Set;i++){
+		if(!TypographyWeight[i].ArrayIndex.IsEmpty()){
+			NormalizePage[i].String=SourceStack();
+		}
+	}
+	WeightCounterNormalize.Reset();
+	SubPrototypePrototypeName=521;
+	WindowIdName.Reset();
+	NormalizePrototypeIdName=609;
+}
+size_t CounterNewValuePointer::PagePatternFilter(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SwapFilter*)param)->FilterCollateStringCollate(data, len, 0, NULL);
+}
+Selected::SelectedCollateString::~FixedMinNormalizeStream(){
+	Pattern_ScrollbarContainer_SwapTypography(SelectedMap);
+	if(Value)
+		FixedWindow_Normalize_Prototype(Selected);
+	free(IdStream);
+	if(InstallTable)
+		delete FilterFilter;
+	if(Window)
+		delete InstallMatrix;
+}
