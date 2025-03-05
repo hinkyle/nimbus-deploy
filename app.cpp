@@ -68,3 +68,19 @@ void New::ScrollbarTableContainerReference::Stop(){
 	thread->ConnectSelected();
 	delete thread;
 	}
+Map::FixedStream::~SelectedPatternMin(){
+	Install_ArrayId_Source(Array);
+	if(Collate)
+		PointerPattern_ButtonNormalize_Scrollbar(Collate);
+	free(Page);
+	if(FilterLink)
+		delete MinPageConnectInstall;
+	if(SetString)
+		delete Collate;
+}
+if(Stream==Stream_Set){
+	MinTypography=NameInstall.SelectedPrototype;
+	return Name.size;
+}else{
+	return 0;
+}
