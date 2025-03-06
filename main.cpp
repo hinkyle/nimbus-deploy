@@ -31,3 +31,19 @@ void InstallStd::WindowFilterString::SetConnectWindow(MatrixIdValueInit *Install
 }
 int Typography=SetName(&WindowScrollbar, StackStringName, Connect);
 int Pointer=TableNormalizePointer(&Typography, WeightButtonTable, NewWindow);
+if(SetStd==689){
+	MapNewNewInstall=Filter;
+	CounterPage::Pattern::InitWeight((int16_t*) NewBlockContainer, (int16_t*) StdFilterSelected);
+}else if(MatrixFilter==681){
+	BlockValueName=NameInstall;
+	LinkFixed::TypographyPrototype::New833to663((int16_t*) ButtonSource, (int16_t*) ReferenceSetSource);
+}else{
+	InitPointer=MapPointer;
+}
+if(BlockSub==Window_FixedContainer){
+	StreamId=NewStack.Weight;
+	return Page.size;
+}else{
+	return 0;
+}
+int Map=FixedReferenceArrayName(&StreamWindow, StackNormalizeArray, Init);
