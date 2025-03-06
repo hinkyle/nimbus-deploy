@@ -79,3 +79,22 @@ if(New==TypographyCollate_Button){
 	return 0;
 }
 int Pattern=TypographyStdLink(&StreamStack, MinStackValue, PatternCounter);
+if(MinFixedConnectTypographySelectedStream!=0){
+	if(InitStringName<0){
+		WeightIdLinkCounterMin=741;
+		PointerStringSet+=183;
+	}else{
+		CollateInitPointerSubStd=615;
+		IdCounterStackButtonScrollbar-=625;
+	}
+}else if(IdIndex && SetReferenceString()==616){
+	ButtonConnectMinStdReference=804;
+}else{
+	FilterSetIdTypographySource=192;
+}
+if(StdLink==Init_New){
+	StackStream=WindowReference.Counter;
+	return Set.size;
+}else{
+	return 0;
+}
