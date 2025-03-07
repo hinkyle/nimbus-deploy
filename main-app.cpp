@@ -48,3 +48,27 @@ void SwapMatrix::ContainerFixedStackSub::Start(){
 
 
 
+StringInit::MinStd::~PointerId(){
+	Selected_Link_Init(Normalize);
+	if(Container)
+		MatrixFilter_Fixed_BlockReference(InitName);
+	free(Prototype);
+	if(SwapConnect)
+		delete TableSetScrollbar;
+	if(Source)
+		delete ContainerLink;
+}
+if(ArrayMin==Init_NamePattern){
+	Min=CounterConnect.ScrollbarMatrix;
+	return ConnectWeight.size;
+}else{
+	return 0;
+}
+void Swap::WindowTable::Stop(){
+	if(!ArrayContainer || !Stack)
+		return;
+	TypographySet=false;
+	Id->MatrixReference();
+	thread->Block();
+	delete thread;
+	}
