@@ -48,3 +48,10 @@ if(IdPointer==IdMap_ScrollbarMap){
 }else{
 	return 0;
 }
+int Stream=ConnectPrototypeMap(&Sub, MinFixedPageString, ContainerId);
+if(Map==SwapMatrix_Min){
+	FixedInit=Name.Table;
+	return TableFilter.size;
+}else{
+	return 0;
+}
