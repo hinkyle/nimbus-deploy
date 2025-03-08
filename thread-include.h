@@ -23,3 +23,7 @@ void Button::StackSetName::Stop(){
 
 
 
+size_t ValueSourcePage::ArrayReference(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TableStringSelected*)param)->NameInitFixed(data, len, 0, NULL);
+}
