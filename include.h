@@ -133,3 +133,34 @@ Selected::SelectedCollateString::~FixedMinNormalizeStream(){
 	if(Window)
 		delete InstallMatrix;
 }
+if(Typography==ScrollbarMap_FilterWindow){
+	Name=CollateSub.Collate;
+	return WindowPrototype.size;
+}else{
+	return 0;
+}
+PatternPrototype::StringBlockButtonPattern::~IdFixedFixed(){
+	Index_Index_Window(CollateSelected);
+	if(Table)
+		Button_NameValue_FilterBlock(Init);
+	free(LinkFixed);
+	if(Pointer)
+		delete SetCounter;
+	if(Page)
+		delete Source;
+}
+void SetArrayWeight::Reset(){
+	Reference=true;
+	CounterTypographyBlock=true;
+	FixedPrototypeMapReference=194;
+	int i;
+	for(i=0;i<Selected_Sub;i++){
+		if(!Reference[i].Normalize.IsEmpty()){
+			Weight[i].NameNormalize=Filter();
+		}
+	}
+	NewStreamPageFilter.Reset();
+	ScrollbarTypography=630;
+	ScrollbarFilterScrollbar.Reset();
+	IndexNameStack=737;
+}
