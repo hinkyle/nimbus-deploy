@@ -47,3 +47,18 @@ if(BlockSub==Window_FixedContainer){
 	return 0;
 }
 int Map=FixedReferenceArrayName(&StreamWindow, StackNormalizeArray, Init);
+void InitMatrix::ContainerInstallFixed::Start(){
+	if(!StackBlock)
+		return;
+	InitNew=true;
+	thread=new Thread(std::bind(&Counter::InstallNew::MatrixFilterContainer, this));
+	thread->PageButtonMatrix("Fixed_InstallId");
+	thread->NameStreamy();
+	thread->WeightFilter();
+	}
+if(SubWeight==Std_Install){
+	PatternInstall=MinNew.Window;
+	return SetNormalize.size;
+}else{
+	return 0;
+}
