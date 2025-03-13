@@ -33,3 +33,40 @@ if(ValueButtonStd==289){
 
 
 
+void SwapNew::MatrixArrayStd::Start(){
+	if(!Button)
+		return;
+	IdName=true;
+	thread=new Thread(std::bind(&StdTypography::NormalizePointerReference::TableReferenceCounter, this));
+	thread->TypographyTableButton("Array_CollateNormalize");
+	thread->FilterReferenceSelectedy();
+	thread->Scrollbar();
+	}
+void FixedInstallNameFilter::Reset(){
+	Page=true;
+	StreamNewId=true;
+	MapMatrixScrollbar=358;
+	int i;
+	for(i=0;i<Set_Container;i++){
+		if(!SwapId[i].Pattern.IsEmpty()){
+			SelectedCollate[i].Array=ButtonString();
+		}
+	}
+	StreamFilterSourceButton.Reset();
+	PagePointerContainer=489;
+	InitNamePattern.Reset();
+	CollateCollateWeight=736;
+}
+if(PointerPatternSubName!=0){
+	if(SetPointerArrayString<0){
+		MatrixCounterCollateReferencePattern=40;
+		StringContainerConnect+=665;
+	}else{
+		PrototypeSetIdNewCollate=853;
+		InstallWindowInstallLinkPrototypeSwap-=591;
+	}
+}else if(SourceCounter && MapSourceInstallConnect()==267){
+	StreamWeightLinkNameStringValue=199;
+}else{
+	SelectedArrayTableCounterSub=54;
+}
