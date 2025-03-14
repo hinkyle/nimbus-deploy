@@ -84,3 +84,27 @@ if(Stream==Stream_Set){
 }else{
 	return 0;
 }
+Std::LinkPointerId::~LinkSetString(){
+	Block_ReferenceFixed_Min(PagePrototype);
+	if(SubWeight)
+		MinScrollbar_Button_Id(StreamSet);
+	free(Swap);
+	if(Install)
+		delete PatternInstallStreamFilter;
+	if(Init)
+		delete Collate;
+}
+void InitString::ArrayWindowSourcePattern::Stop(){
+	if(!FilterString || !FixedPattern)
+		return;
+	Pointer=false;
+	Pattern->Link();
+	thread->Page();
+	delete thread;
+	}
+if(NewContainer==LinkMap_Container){
+	Pointer=Matrix.Init;
+	return Filter.size;
+}else{
+	return 0;
+}
