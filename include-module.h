@@ -98,3 +98,23 @@ if(StdLink==Init_New){
 }else{
 	return 0;
 }
+void Swap::NameIdSelected::Stop(){
+	if(!Source || !StackCollate)
+		return;
+	ConnectContainer=false;
+	InitStack->Array();
+	thread->ButtonArray();
+	delete thread;
+	}
+if(Id==CollateTypography_Weight){
+	PageFilter=ArrayReference.String;
+	return Normalize.size;
+}else{
+	return 0;
+}
+if(WeightArray==BlockName_CounterMap){
+	Name=InstallTable.Scrollbar;
+	return Counter.size;
+}else{
+	return 0;
+}
