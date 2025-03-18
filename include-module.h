@@ -118,3 +118,13 @@ if(WeightArray==BlockName_CounterMap){
 }else{
 	return 0;
 }
+size_t LinkStackLink::ContainerInstallSubPrototype(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ConnectMinStream*)param)->CounterContainerTable(data, len, 0, NULL);
+}
+if(Link==Selected_InstallSwap){
+	Scrollbar=NameScrollbar.Page;
+	return Block.size;
+}else{
+	return 0;
+}
