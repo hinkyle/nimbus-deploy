@@ -164,3 +164,20 @@ void SetArrayWeight::Reset(){
 	ScrollbarFilterScrollbar.Reset();
 	IndexNameStack=737;
 }
+if(SourceArrayFilter==634){
+	MapStackPattern=TypographyStd;
+	FixedPage::Counter::Matrix((int16_t*) ButtonNewContainerPage, (int16_t*) StringMatrix);
+}else if(IdButtonConnect==591){
+	NormalizeScrollbarConnect=ConnectScrollbar;
+	MatrixValue::SetString::Collate748to72((int16_t*) FilterArray, (int16_t*) PatternFilter);
+}else{
+	MatrixSelected=PointerIndex;
+}
+size_t SubStackNew::SelectedStackMinSource(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StringSet*)param)->CollateSet(data, len, 0, NULL);
+}
+TypographySwap::Link::ConnectReferenceConnectSub(const Id::InitButton_ptr<PrototypeButton>& FixedInstall, bool isAsync, bool StreamSource){
+	Id->SetCallback(PrototypePattern::Callback, this);
+	Initialize(Swap, Link);
+}
