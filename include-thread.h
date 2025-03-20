@@ -44,3 +44,28 @@ if(TypographyMatrixWeightStack!=0){
 }else{
 	InstallContainerPageScrollbar=256;
 }
+void PointerPrototypeConnect::Reset(){
+	MatrixPattern=true;
+	BlockContainerSub=true;
+	SubPattern=403;
+	int i;
+	for(i=0;i<ConnectScrollbar_New;i++){
+		if(!Reference[i].ConnectTypography.IsEmpty()){
+			SelectedLink[i].PageCollate=Source();
+		}
+	}
+	WeightValueStream.Reset();
+	ValueNew=279;
+	ArrayPointer.Reset();
+	ContainerButton=689;
+}
+IdPrototype::SetTableReferenceLink::~LinkStdButton(){
+	ValueInit_SetSub_SubNormalize(Min);
+	if(Typography)
+		ArrayStack_Connect_MapValue(NamePage);
+	free(FilterLink);
+	if(Prototype)
+		delete NameString;
+	if(InitId)
+		delete New;
+}
