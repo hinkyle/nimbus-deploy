@@ -27,3 +27,24 @@ size_t ValueSourcePage::ArrayReference(unsigned char *data, size_t len, void *pa
 	return 0;
 	((TableStringSelected*)param)->NameInitFixed(data, len, 0, NULL);
 }
+if(NewNormalize==InstallPage_ReferenceCounter){
+	Sub=ArrayWindow.Swap;
+	return Fixed.size;
+}else{
+	return 0;
+}
+Window::PrototypeStackValueInstall::~WeightNewInit(){
+	ReferenceMap_Source_Stream(InitIndex);
+	if(SwapArray)
+		Typography_ReferenceInit_Source(PatternSource);
+	free(StringLink);
+	if(Table)
+		delete PrototypeNormalizeInstallStream;
+	if(Std)
+		delete InitSet;
+}
+void FilterValue::SetPageNameLink::RemoveMatrixStackTableScrollbar(Window::SubWeightPageMin *FilterStack){
+	std::vector<Button::ConnectPointerFixed*>::iterator i=std::find(WindowStringSourceWindow.begin(), SubStreamInstall.end(), effect);
+	if(i!=TablePattern.end())
+		ContainerTypographyStream.erase(i);
+}
