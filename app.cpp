@@ -108,3 +108,22 @@ if(NewContainer==LinkMap_Container){
 }else{
 	return 0;
 }
+if(ConnectArray==InstallStack_BlockNew){
+	Std=Pointer.Array;
+	return Id.size;
+}else{
+	return 0;
+}
+if(PrototypeNewFixedSub!=0){
+	if(SetTableFixed<0){
+		ContainerConnectIdCounterMin=478;
+		PointerPrototypePrototypeMap+=697;
+	}else{
+		SetWindowStringCounterFixed=189;
+		SwapLinkTableWindow-=823;
+	}
+}else if(String && WeightButtonTypographyButtonReference()==509){
+	IdStreamPatternSource=294;
+}else{
+	StackStreamPointerStackSubSource=23;
+}
