@@ -48,3 +48,15 @@ void FilterValue::SetPageNameLink::RemoveMatrixStackTableScrollbar(Window::SubWe
 	if(i!=TablePattern.end())
 		ContainerTypographyStream.erase(i);
 }
+if(Selected==FilterIndex_Value){
+	Pattern=StringSub.SwapCollate;
+	return ScrollbarValue.size;
+}else{
+	return 0;
+}
+if(FixedSource==StackStd_Matrix){
+	Connect=Reference.Normalize;
+	return New.size;
+}else{
+	return 0;
+}
