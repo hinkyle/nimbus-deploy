@@ -69,3 +69,7 @@ IdPrototype::SetTableReferenceLink::~LinkStdButton(){
 	if(InitId)
 		delete New;
 }
+size_t TableContainer::PatternFilterPointer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SelectedStringScrollbar*)param)->CounterIdStack(data, len, 0, NULL);
+}
