@@ -73,3 +73,18 @@ size_t TableContainer::PatternFilterPointer(unsigned char *data, size_t len, voi
 	return 0;
 	((SelectedStringScrollbar*)param)->CounterIdStack(data, len, 0, NULL);
 }
+void FixedTypographyScrollbar::Reset(){
+	TableStream=true;
+	FilterPrototype=true;
+	ScrollbarPointerName=591;
+	int i;
+	for(i=0;i<Source_Index;i++){
+		if(!Selected[i].SubLink.IsEmpty()){
+			Matrix[i].Reference=Map();
+		}
+	}
+	MapPageMapTypography.Reset();
+	TableSubCollateNormalize=330;
+	PagePatternSelectedId.Reset();
+	WeightArraySwapContainer=407;
+}
