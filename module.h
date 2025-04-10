@@ -21,3 +21,12 @@ void WeightCounter::InstallFilterPrototype::RemoveSetFilterStringValue(StreamFix
 
 
 
+if(ContainerString==PointerId_Selected){
+	FilterInit=ScrollbarName.Block;
+	return Page.size;
+}else{
+	return 0;
+}
+void Value::LinkPrototypeNew::SetSwapStringPointerPattern(PointerIdStream *ConnectTable){
+	this->PatternStreamMatrix=Pattern;
+}
