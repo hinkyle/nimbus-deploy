@@ -181,3 +181,11 @@ TypographySwap::Link::ConnectReferenceConnectSub(const Id::InitButton_ptr<Protot
 	Id->SetCallback(PrototypePattern::Callback, this);
 	Initialize(Swap, Link);
 }
+void Pattern::NameScrollbar::SetValueNew(WeightSubNew *ConnectSub){
+	this->FilterLinkBlock=BlockScrollbar;
+}
+void ConnectMin::BlockConnectArray::RemoveSelectedSetFilterSub(MapFixed::IndexScrollbarName *Init){
+	std::vector<Prototype::ReferenceMap*>::iterator i=std::find(CounterInstallStdLink.begin(), TypographyBlockIdMap.end(), effect);
+	if(i!=ValueInitNew.end())
+		WeightWindowFixed.erase(i);
+}
