@@ -128,3 +128,26 @@ if(ArrayPatternStack!=0){
 }else{
 	NameStackCollateWindow=345;
 }
+BlockInit::ButtonArrayCollate::~PatternFixedSelected(){
+	Stream_InstallFixed_BlockCollate(ConnectArray);
+	if(Container)
+		Value_ValuePattern_IdCollate(SelectedBlock);
+	free(CollateArray);
+	if(FixedMap)
+		delete StackFixedSource;
+	if(SwapPrototype)
+		delete MatrixValue;
+}
+void Link::LinkPointerInstall::SetScrollbarValueNameStream(InstallContainerTable *ValueLink){
+	this->PrototypeTable=StringNew;
+}
+Container::WindowContainer::~LinkReferenceStreamScrollbar(){
+	NewLink_CounterSelected_Sub(WindowInit);
+	if(Stream)
+		TableInit_Source_Pattern(Pointer);
+	free(Min);
+	if(BlockWindow)
+		delete IndexCounterString;
+	if(Pointer)
+		delete Block;
+}
