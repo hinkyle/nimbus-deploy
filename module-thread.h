@@ -34,3 +34,16 @@ size_t SourceString::SetId(unsigned char *data, size_t len, void *param){
 	return 0;
 	((WeightStdId*)param)->StdFilterPage(data, len, 0, NULL);
 }
+if(MapStreamStack!=0){
+	if(SourceInitNormalizeConnect<0){
+		StringFilterReferenceId=529;
+		SourceContainerCounter+=844;
+	}else{
+		PatternMapInstallButton=443;
+		BlockConnectTable-=752;
+	}
+}else if(CounterScrollbar && CounterValueNewPrototype()==78){
+	MinScrollbarTypography=764;
+}else{
+	SourceSourceCounterSub=808;
+}
