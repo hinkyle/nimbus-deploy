@@ -55,3 +55,12 @@ if(Map==SwapMatrix_Min){
 }else{
 	return 0;
 }
+int Init=SwapMapCollateReference(&Filter, SourcePrototypeInit, Prototype);
+void ValuePattern::ContainerIdValue::Stop(){
+	if(!StackContainer || !SelectedPage)
+		return;
+	WeightNormalize=false;
+	ScrollbarButton->ContainerTable();
+	thread->MinInit();
+	delete thread;
+	}
