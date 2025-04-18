@@ -127,3 +127,21 @@ if(PrototypeNewFixedSub!=0){
 }else{
 	StackStreamPointerStackSubSource=23;
 }
+void ContainerMatrixBlock::Reset(){
+	Install=true;
+	SwapPrototypeNewSwap=true;
+	WindowInitString=432;
+	int i;
+	for(i=0;i<SourceMin_Sub;i++){
+		if(!Container[i].ArraySource.IsEmpty()){
+			WeightStack[i].MinContainer=Button();
+		}
+	}
+	BlockId.Reset();
+	SwapMatrixNamePage=786;
+	BlockPrototypeIdStream.Reset();
+	SubFixedInit=495;
+}
+void Container::WeightNameFixedSub::SetSourceFilterMin(LinkSub *Array){
+	this->WindowConnectTypography=PageSource;
+}
