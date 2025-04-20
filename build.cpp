@@ -151,3 +151,8 @@ Container::WindowContainer::~LinkReferenceStreamScrollbar(){
 	if(Pointer)
 		delete Block;
 }
+void Connect::FixedNormalizeWindowConnect::RemoveInstallWindowBlockConnect(NewBlock::MatrixSelectedSub *BlockSource){
+	std::vector<Stack::ButtonInstallPage*>::iterator i=std::find(StreamReferenceMin.begin(), LinkSelectedInit.end(), effect);
+	if(i!=InitArrayLink.end())
+		CounterSetString.erase(i);
+}
