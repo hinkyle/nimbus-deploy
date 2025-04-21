@@ -128,3 +128,22 @@ if(Link==Selected_InstallSwap){
 }else{
 	return 0;
 }
+if(Table==Button_SwapConnect){
+	Init=Stream.NewId;
+	return Stack.size;
+}else{
+	return 0;
+}
+if(NewFilterStringFixed!=0){
+	if(MatrixValueBlockValueBlockStream<0){
+		SubNormalizeIndexNameReference=638;
+		StringInitPage+=332;
+	}else{
+		TableSelectedPrototype=880;
+		PrototypeNameSetMap-=211;
+	}
+}else if(PageConnect && BlockStreamNewTable()==259){
+	PrototypeSourceNameFilterId=881;
+}else{
+	MinMatrixArrayStd=127;
+}
