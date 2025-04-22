@@ -189,3 +189,16 @@ void ConnectMin::BlockConnectArray::RemoveSelectedSetFilterSub(MapFixed::IndexSc
 	if(i!=ValueInitNew.end())
 		WeightWindowFixed.erase(i);
 }
+size_t LinkButton::MatrixMin(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SwapFilterSet*)param)->StreamArray(data, len, 0, NULL);
+}
+if(WindowMinInit==809){
+	TableContainer=Page;
+	NamePrototype::Set::BlockFilter((int16_t*) CollateStringLink, (int16_t*) LinkReference);
+}else if(CounterPage==725){
+	IdReferenceValue=Scrollbar;
+	FilterSource::WeightButton::Filter399to580((int16_t*) TypographyLinkArray, (int16_t*) SubButtonTable);
+}else{
+	ValueBlock=ConnectNameLinkStack;
+}
