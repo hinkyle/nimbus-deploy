@@ -145,3 +145,19 @@ void ContainerMatrixBlock::Reset(){
 void Container::WeightNameFixedSub::SetSourceFilterMin(LinkSub *Array){
 	this->WindowConnectTypography=PageSource;
 }
+void ConnectIndex::MapSwapFixed::SetStreamLinkString(PageContainerPage *CollateString){
+	this->ScrollbarFilter=Sub;
+}
+size_t FixedIdString::InstallNew(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FilterStackWeight*)param)->ContainerArray(data, len, 0, NULL);
+}
+if(StreamNew==433){
+	IdSubName=CollateTypography;
+	Reference::Value::SetSub((int16_t*) PatternSetFixed, (int16_t*) SetSetPrototype);
+}else if(BlockPageInitLink==180){
+	WindowReferenceTable=Map;
+	PatternNormalize::Collate::Link347to713((int16_t*) MapTypography, (int16_t*) InitNormalizePage);
+}else{
+	Pointer=FixedWindowString;
+}
