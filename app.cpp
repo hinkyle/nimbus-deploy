@@ -161,3 +161,12 @@ if(StreamNew==433){
 }else{
 	Pointer=FixedWindowString;
 }
+if(PageFilterNew==327){
+	NewName=InstallString;
+	Swap::Id::MinCounter((int16_t*) CounterStream, (int16_t*) ValuePage);
+}else if(FixedPointer==546){
+	ScrollbarStream=New;
+	InstallMatrix::InitScrollbar::Table59to27((int16_t*) TypographyArrayCounter, (int16_t*) StringConnectWindow);
+}else{
+	Window=StringCollateSet;
+}
