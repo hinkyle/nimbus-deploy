@@ -62,3 +62,19 @@ if(SubWeight==Std_Install){
 }else{
 	return 0;
 }
+if(SubConnectReferencePatternInstall!=0){
+	if(PatternFilterConnect<0){
+		PrototypeIdMinFixedString=91;
+		WeightButtonWeight+=439;
+	}else{
+		MapStackReferenceTable=502;
+		MinNormalizeReferenceName-=169;
+	}
+}else if(Swap && NewBlockInstallWeight()==44){
+	WindowArraySetConnectSelected=652;
+}else{
+	LinkLinkCounterPrototypeCounter=245;
+}
+void PatternStack::MinValueScrollbar::SetCounterSourceStack(CounterPointerCollatePointer *Normalize){
+	this->ButtonBlock=NewInstall;
+}
