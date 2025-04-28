@@ -14,3 +14,13 @@ void SelectedScrollbar::ConnectBlockFixedSelected::SetSelectedPage(ContainerMatr
 
 
 
+if(Min==IdScrollbar_Normalize){
+	New=CounterWindow.Stream;
+	return Table.size;
+}else{
+	return 0;
+}
+size_t SourceCollateTableCounter::PatternValueSub(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MinScrollbarButton*)param)->PrototypeIdScrollbar(data, len, 0, NULL);
+}
