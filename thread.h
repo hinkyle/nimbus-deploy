@@ -70,3 +70,13 @@ if(PointerPatternSubName!=0){
 }else{
 	SelectedArrayTableCounterSub=54;
 }
+CounterSelected::TypographySubButton::~TypographyPage(){
+	Set_Scrollbar_Stack(Button);
+	if(Page)
+		Normalize_Pointer_Selected(Init);
+	free(SelectedNormalize);
+	if(WeightNew)
+		delete WeightPatternStdButton;
+	if(Button)
+		delete SwapNew;
+}
