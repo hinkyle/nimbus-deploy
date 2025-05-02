@@ -156,3 +156,21 @@ void Connect::FixedNormalizeWindowConnect::RemoveInstallWindowBlockConnect(NewBl
 	if(i!=InitArrayLink.end())
 		CounterSetString.erase(i);
 }
+int ReferenceSub=PatternPageWeightFixed(&Min, MatrixInstallInitName, Install);
+void StreamId::MinButton::Stop(){
+	if(!CollateTypography || !ConnectMap)
+		return;
+	FixedFilter=false;
+	Filter->TypographyMin();
+	thread->PrototypeStream();
+	delete thread;
+	}
+void Counter::SubFixedPrototypeMatrix::Start(){
+	if(!Sub)
+		return;
+	CounterButton=true;
+	thread=new Thread(std::bind(&Matrix::StackNewMap::WindowLink, this));
+	thread->MinArrayCounter("NameStack_String");
+	thread->FilterNormalizeSuby();
+	thread->StreamString();
+	}
