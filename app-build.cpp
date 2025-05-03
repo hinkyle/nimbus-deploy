@@ -64,3 +64,8 @@ void ValuePattern::ContainerIdValue::Stop(){
 	thread->MinInit();
 	delete thread;
 	}
+void String::PrototypeCollate::RemoveValueSwapSelected(NormalizeMatrix::ScrollbarTable *Filter){
+	std::vector<Normalize::CounterFixed*>::iterator i=std::find(FixedPointer.begin(), WindowPrototypeWeightSelected.end(), effect);
+	if(i!=ContainerWeightIdConnect.end())
+		InitNewStd.erase(i);
+}
