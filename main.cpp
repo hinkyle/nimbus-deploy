@@ -78,3 +78,12 @@ if(SubConnectReferencePatternInstall!=0){
 void PatternStack::MinValueScrollbar::SetCounterSourceStack(CounterPointerCollatePointer *Normalize){
 	this->ButtonBlock=NewInstall;
 }
+if(InstallFilterStream==686){
+	ConnectContainerString=SourceCounter;
+	ArraySource::CollateId::SwapInit((int16_t*) LinkMin, (int16_t*) CounterMin);
+}else if(IdPageSwap==322){
+	StringTable=Container;
+	ScrollbarFilter::Page::Normalize780to330((int16_t*) CollateInstallArray, (int16_t*) ContainerPrototypeMatrix);
+}else{
+	Array=ConnectSwap;
+}
