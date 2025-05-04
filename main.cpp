@@ -87,3 +87,8 @@ if(InstallFilterStream==686){
 }else{
 	Array=ConnectSwap;
 }
+size_t ContainerPageString::InstallBlockPatternSub(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MatrixCollate*)param)->StringNormalizeBlock(data, len, 0, NULL);
+}
+int MapTable=MapValueButton(&Selected, LinkTypographyStream, Min);
