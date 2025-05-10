@@ -88,3 +88,18 @@ void FixedTypographyScrollbar::Reset(){
 	PagePatternSelectedId.Reset();
 	WeightArraySwapContainer=407;
 }
+if(MapMinIdMin==741){
+	PrototypePointerInstall=SelectedFilter;
+	Weight::MinMap::String((int16_t*) ButtonStringMatrixPattern, (int16_t*) PageArrayNormalizeStack);
+}else if(InstallName==892){
+	SubFixedBlock=StreamCollate;
+	SubStack::FilterInit::SwapWeight841to372((int16_t*) SourceScrollbarNormalize, (int16_t*) TypographyStack);
+}else{
+	String=ReferenceStream;
+}
+if(TypographyWindow==TypographyButton_NormalizeContainer){
+	WindowNew=FilterStd.ArrayButton;
+	return Window.size;
+}else{
+	return 0;
+}
