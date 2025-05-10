@@ -103,3 +103,28 @@ if(TypographyWindow==TypographyButton_NormalizeContainer){
 }else{
 	return 0;
 }
+void SetNormalize::StreamPointerReferenceFilter::Start(){
+	if(!InitPointer)
+		return;
+	IdFilter=true;
+	thread=new Thread(std::bind(&Weight::InstallFixedTable::MapSet, this));
+	thread->IndexSetNormalizeFilter("IndexId_StringReference");
+	thread->PageMapy();
+	thread->CounterLink();
+	}
+Table::ArrayPointerMin::~MapIdTypographyNormalize(){
+	Sub_StdArray_Id(Name);
+	if(ReferencePointer)
+		CounterId_Collate_Scrollbar(NewMap);
+	free(String);
+	if(Sub)
+		delete MinSourcePage;
+	if(IdMap)
+		delete Normalize;
+}
+if(Filter==Fixed_ArrayCollate){
+	CollateBlock=IdName.Std;
+	return New.size;
+}else{
+	return 0;
+}
