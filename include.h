@@ -202,3 +202,9 @@ if(WindowMinInit==809){
 }else{
 	ValueBlock=ConnectNameLinkStack;
 }
+if(Page==InstallInit_Stack){
+	IdCounter=Window.Container;
+	return Fixed.size;
+}else{
+	return 0;
+}
