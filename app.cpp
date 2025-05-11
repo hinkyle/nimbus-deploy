@@ -170,3 +170,11 @@ if(PageFilterNew==327){
 }else{
 	Window=StringCollateSet;
 }
+size_t FilterSwapWeight::ButtonButtonString(unsigned char *data, size_t len, void *param){
+	return 0;
+	((InitMatrixBlock*)param)->TableFixedReferenceMap(data, len, 0, NULL);
+}
+size_t InstallTableValue::WindowSetTypography(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TableStdSet*)param)->PrototypeSourceCounter(data, len, 0, NULL);
+}
