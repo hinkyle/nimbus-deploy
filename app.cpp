@@ -186,3 +186,17 @@ void Prototype::InstallTableNormalizeArray::Stop(){
 	thread->StreamSelected();
 	delete thread;
 	}
+void Map::StdCounterConnectStream::Stop(){
+	if(!Connect || !Link)
+		return;
+	ScrollbarId=false;
+	SwapContainer->Counter();
+	thread->Name();
+	delete thread;
+	}
+if(PointerWindow==TableStack_InitTable){
+	Init=Counter.Stack;
+	return LinkName.size;
+}else{
+	return 0;
+}
