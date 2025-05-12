@@ -178,3 +178,11 @@ size_t InstallTableValue::WindowSetTypography(unsigned char *data, size_t len, v
 	return 0;
 	((TableStdSet*)param)->PrototypeSourceCounter(data, len, 0, NULL);
 }
+void Prototype::InstallTableNormalizeArray::Stop(){
+	if(!Reference || !CollatePage)
+		return;
+	PatternBlock=false;
+	SubSource->ButtonTypography();
+	thread->StreamSelected();
+	delete thread;
+	}
