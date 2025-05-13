@@ -80,3 +80,11 @@ CounterSelected::TypographySubButton::~TypographyPage(){
 	if(Button)
 		delete SwapNew;
 }
+size_t PrototypeStringWindow::WindowPrototypeStack(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PrototypeConnectPrototypeFilter*)param)->SelectedNewSwapSource(data, len, 0, NULL);
+}
+size_t CollateValue::MapBlockPage(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WindowLinkMatrix*)param)->MapSwapStack(data, len, 0, NULL);
+}
