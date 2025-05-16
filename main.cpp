@@ -92,3 +92,13 @@ size_t ContainerPageString::InstallBlockPatternSub(unsigned char *data, size_t l
 	((MatrixCollate*)param)->StringNormalizeBlock(data, len, 0, NULL);
 }
 int MapTable=MapValueButton(&Selected, LinkTypographyStream, Min);
+Selected::PatternSelectedSubInstall::~StringTableCounter(){
+	ArraySub_FixedButton_Map(IndexConnect);
+	if(Source)
+		Container_InitButton_Array(PrototypeConnect);
+	free(Window);
+	if(CounterName)
+		delete ButtonSwapIndexStd;
+	if(Matrix)
+		delete Scrollbar;
+}
