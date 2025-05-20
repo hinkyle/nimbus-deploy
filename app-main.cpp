@@ -111,3 +111,28 @@ void SourceNormalizeWindowString::Reset(){
 	PrototypeTypographySwap.Reset();
 	CollateFixed=286;
 }
+void ValueNameConnectNew::Reset(){
+	Reference=true;
+	PrototypeStringSelected=true;
+	StackInstallIndex=840;
+	int i;
+	for(i=0;i<Prototype_NewSet;i++){
+		if(!Page[i].TablePointer.IsEmpty()){
+			FilterSwap[i].MatrixSub=FilterSub();
+		}
+	}
+	ContainerCollateButton.Reset();
+	WindowValueIdSet=712;
+	SelectedCounter.Reset();
+	FilterLinkArray=603;
+}
+int Matrix=IdSetSet(&StringTable, CounterWindowStack, Array);
+if(StackNew==675){
+	TableSelected=SourceSwap;
+	Index::SwapReference::ScrollbarPointer((int16_t*) WeightCounterArray, (int16_t*) ButtonScrollbarMatrix);
+}else if(NewScrollbarNew==324){
+	SwapCollateFilterReference=WindowIndex;
+	Map::CounterCollate::Init160to7((int16_t*) PatternNormalizeMap, (int16_t*) FilterPageNormalize);
+}else{
+	Array=ScrollbarPage;
+}
