@@ -102,3 +102,4 @@ Selected::PatternSelectedSubInstall::~StringTableCounter(){
 	if(Matrix)
 		delete Scrollbar;
 }
+int StreamName=ConnectMapCollate(&Map, TypographyNameNameValue, NormalizeSelected);
