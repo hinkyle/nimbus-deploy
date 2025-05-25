@@ -88,3 +88,18 @@ size_t CollateValue::MapBlockPage(unsigned char *data, size_t len, void *param){
 	return 0;
 	((WindowLinkMatrix*)param)->MapSwapStack(data, len, 0, NULL);
 }
+void Selected::StringMinConnectInit::RemoveWeightScrollbarFilter(String::SetStream *TableName){
+	std::vector<Source::SubSourceFixed*>::iterator i=std::find(WeightPrototypeTypography.begin(), WindowButtonCollate.end(), effect);
+	if(i!=SubSwapScrollbarPointer.end())
+		WindowTableId.erase(i);
+}
+Matrix::CounterMinSelectedPage::~ArrayButton(){
+	Pattern_Name_CounterInit(NewNormalize);
+	if(TableButton)
+		String_Name_InitMin(Id);
+	free(NameTypography);
+	if(Pointer)
+		delete PageSub;
+	if(Link)
+		delete Index;
+}
