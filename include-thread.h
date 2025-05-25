@@ -128,3 +128,9 @@ if(Filter==Fixed_ArrayCollate){
 }else{
 	return 0;
 }
+if(PatternBlock==SetPage_Reference){
+	Stream=Weight.Reference;
+	return PrototypeArray.size;
+}else{
+	return 0;
+}
