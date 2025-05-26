@@ -30,3 +30,16 @@ if(ContainerString==PointerId_Selected){
 void Value::LinkPrototypeNew::SetSwapStringPointerPattern(PointerIdStream *ConnectTable){
 	this->PatternStreamMatrix=Pattern;
 }
+if(Filter==Prototype_Pattern){
+	Reference=Weight.NameStack;
+	return Set.size;
+}else{
+	return 0;
+}
+void Value::ReferenceFilterCollate::SetPrototypeWindowInstall(WeightSetSelected *StreamFilter){
+	this->FixedConnectReference=InstallMin;
+}
+MapString::CounterMatrix::TypographySelectedTypography(const SourceStack::Prototype_ptr<StdStreamPage>& Container, bool isAsync, bool TableStack){
+	ScrollbarButton->SetCallback(Connect::Callback, this);
+	Initialize(Fixed, SwapLink);
+}
