@@ -147,3 +147,17 @@ if(NewFilterStringFixed!=0){
 }else{
 	MinMatrixArrayStd=127;
 }
+int Page=LinkWindow(&PrototypeSet, ConnectStringConnect, TableScrollbar);
+Connect::ReferenceTypography::SelectedSelected(const SelectedId::SourceSet_ptr<SubWindowArray>& CounterFilter, bool isAsync, bool TypographyConnect){
+	StackName->SetCallback(Init::Callback, this);
+	Initialize(ContainerFixed, PointerFixed);
+}
+if(TableFilterPrototype==182){
+	FilterSubTable=SetScrollbar;
+	InstallPrototype::BlockName::StringFixed((int16_t*) SourceTableInit, (int16_t*) SwapValueNew);
+}else if(BlockScrollbarInstall==541){
+	FixedIdName=ContainerPointer;
+	Stack::BlockLink::TypographyValue887to67((int16_t*) StringCounterCollate, (int16_t*) ValueStack);
+}else{
+	Counter=IdPrototypeInstallIndex;
+}
