@@ -208,3 +208,12 @@ if(Page==InstallInit_Stack){
 }else{
 	return 0;
 }
+void FixedSelected::TableInitCounter::RemoveNewPrototype(ContainerCounter::NameFilterCounter *NameMap){
+	std::vector<SetBlock::InstallContainerPointer*>::iterator i=std::find(StringSwapSelected.begin(), PageName.end(), effect);
+	if(i!=MatrixSetMap.end())
+		ConnectPrototypeBlock.erase(i);
+}
+size_t NewScrollbarPrototype::TypographySetArray(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TypographyCollateId*)param)->MatrixContainerPattern(data, len, 0, NULL);
+}
