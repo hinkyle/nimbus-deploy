@@ -217,3 +217,33 @@ size_t NewScrollbarPrototype::TypographySetArray(unsigned char *data, size_t len
 	return 0;
 	((TypographyCollateId*)param)->MatrixContainerPattern(data, len, 0, NULL);
 }
+void WindowFixedInitPointer::Reset(){
+	Min=true;
+	InitSourceWeightPrototype=true;
+	LinkCollateName=804;
+	int i;
+	for(i=0;i<Value_InstallConnect;i++){
+		if(!Pattern[i].Reference.IsEmpty()){
+			Stack[i].Typography=TableWindow();
+		}
+	}
+	MapFixedBlockString.Reset();
+	IndexBlockFixedPattern=480;
+	NameInstallFixed.Reset();
+	NameSelectedInstall=872;
+}
+void ValueConnect::Reset(){
+	Block=true;
+	IdContainerMap=true;
+	NormalizeStringFixedWeight=288;
+	int i;
+	for(i=0;i<WeightSet_ArraySub;i++){
+		if(!MapStream[i].MatrixMin.IsEmpty()){
+			MatrixName[i].Block=TableString();
+		}
+	}
+	MinFilterStream.Reset();
+	MinSet=584;
+	IdTypographySwap.Reset();
+	PageCollateContainer=523;
+}
