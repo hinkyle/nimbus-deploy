@@ -161,3 +161,15 @@ if(TableFilterPrototype==182){
 }else{
 	Counter=IdPrototypeInstallIndex;
 }
+if(MatrixArray==ScrollbarCollate_MatrixString){
+	PrototypeInstall=Filter.Init;
+	return Block.size;
+}else{
+	return 0;
+}
+if(WindowName==TypographyCounter_CollateWeight){
+	IndexName=ArrayWeight.Prototype;
+	return ScrollbarFilter.size;
+}else{
+	return 0;
+}
