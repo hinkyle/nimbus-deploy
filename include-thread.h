@@ -134,3 +134,32 @@ if(PatternBlock==SetPage_Reference){
 }else{
 	return 0;
 }
+void MatrixSub::Reset(){
+	Value=true;
+	CounterValue=true;
+	ButtonMinButton=174;
+	int i;
+	for(i=0;i<StdId_MinNew;i++){
+		if(!Pattern[i].Typography.IsEmpty()){
+			Matrix[i].WindowSub=InitStd();
+		}
+	}
+	BlockSetSub.Reset();
+	InitTypographyWindow=22;
+	SwapValueValue.Reset();
+	WindowCollate=308;
+}
+size_t BlockWindowInitArray::InitTypographyCollate(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PagePointerPatternPointer*)param)->WeightPatternTable(data, len, 0, NULL);
+}
+String::InstallStreamSelected::~TypographyIdMin(){
+	BlockReference_Value_String(Set);
+	if(Source)
+		ArrayBlock_Install_NameReference(Index);
+	free(Button);
+	if(Stack)
+		delete PageMapPage;
+	if(Filter)
+		delete Connect;
+}
