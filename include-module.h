@@ -173,3 +173,24 @@ if(WindowName==TypographyCounter_CollateWeight){
 }else{
 	return 0;
 }
+void ConnectStackFixed::Reset(){
+	Stream=true;
+	CounterReferenceWeightValue=true;
+	FixedCounterArray=394;
+	int i;
+	for(i=0;i<Typography_IdMap;i++){
+		if(!NameArray[i].CollateTypography.IsEmpty()){
+			Stack[i].Link=StreamWeight();
+		}
+	}
+	MapSwap.Reset();
+	MinNameStd=356;
+	SetArrayMap.Reset();
+	StringNewMap=767;
+}
+if(Counter==Collate_Button){
+	Set=Stack.FilterValue;
+	return TypographyTable.size;
+}else{
+	return 0;
+}
