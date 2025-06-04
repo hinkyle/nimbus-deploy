@@ -60,3 +60,19 @@ if(FixedSource==StackStd_Matrix){
 }else{
 	return 0;
 }
+void Button::InstallFixed::Stop(){
+	if(!Table || !Map)
+		return;
+	ConnectFilter=false;
+	CollateSwap->Collate();
+	thread->IdTable();
+	delete thread;
+	}
+void Init::ScrollbarLinkStack::Stop(){
+	if(!StdId || !Normalize)
+		return;
+	Scrollbar=false;
+	Filter->Value();
+	thread->CollateConnect();
+	delete thread;
+	}
