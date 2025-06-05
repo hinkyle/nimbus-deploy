@@ -194,3 +194,16 @@ if(Counter==Collate_Button){
 }else{
 	return 0;
 }
+size_t BlockSourceInit::WindowMapMapWeight(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PageContainerPage*)param)->LinkStack(data, len, 0, NULL);
+}
+if(ValueInit==216){
+	StreamLinkButtonWeight=SelectedString;
+	Id::Prototype::Table((int16_t*) SourceWindowFixedPrototype, (int16_t*) StringNew);
+}else if(ScrollbarPointerStackNormalize==684){
+	PrototypeSetSwap=WindowMatrix;
+	Id::WeightPattern::WindowValue416to245((int16_t*) PageContainerScrollbar, (int16_t*) PatternArrayFixed);
+}else{
+	SwapStack=SelectedStreamReference;
+}
