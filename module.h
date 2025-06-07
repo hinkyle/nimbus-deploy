@@ -43,3 +43,32 @@ MapString::CounterMatrix::TypographySelectedTypography(const SourceStack::Protot
 	ScrollbarButton->SetCallback(Connect::Callback, this);
 	Initialize(Fixed, SwapLink);
 }
+ValueCounter::SourceTypography::~CounterLinkIdName(){
+	Pattern_InstallWeight_Connect(PrototypeWindow);
+	if(StreamFilter)
+		Weight_Name_Reference(MapNormalize);
+	free(TypographyContainer);
+	if(Array)
+		delete SetContainer;
+	if(Weight)
+		delete Fixed;
+}
+void ScrollbarMinFilter::Reset(){
+	ContainerBlock=true;
+	CollateBlock=true;
+	StreamSubMatrixIndex=531;
+	int i;
+	for(i=0;i<NormalizeSelected_ButtonFixed;i++){
+		if(!Source[i].Sub.IsEmpty()){
+			Pointer[i].NewWindow=SelectedMap();
+		}
+	}
+	ConnectScrollbarFixed.Reset();
+	ReferenceTypography=731;
+	IdMapInit.Reset();
+	TableNameWindow=692;
+}
+size_t MinNameButton::ContainerSourceNew(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NameBlockCounterWindow*)param)->StreamPrototypeSwapPage(data, len, 0, NULL);
+}
