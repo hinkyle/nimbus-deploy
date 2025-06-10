@@ -163,3 +163,27 @@ String::InstallStreamSelected::~TypographyIdMin(){
 	if(Filter)
 		delete Connect;
 }
+void Filter::SetStreamTable::Start(){
+	if(!Weight)
+		return;
+	Window=true;
+	thread=new Thread(std::bind(&Button::WeightMinPage::NewReference, this));
+	thread->TypographyButton("Selected_Source");
+	thread->PatternButtonReferencey();
+	thread->PatternNew();
+	}
+void SelectedStream::StdScrollbar::Start(){
+	if(!IndexSub)
+		return;
+	Set=true;
+	thread=new Thread(std::bind(&SubNormalize::BlockLinkId::NormalizeStackFilterConnect, this));
+	thread->NewPatternSelectedSwap("SwapCounter_ValueSource");
+	thread->SetFixedCounterWindowy();
+	thread->SourceContainer();
+	}
+if(CounterFixed==Array_Stack){
+	Collate=PatternCollate.SubMatrix;
+	return StreamConnect.size;
+}else{
+	return 0;
+}
