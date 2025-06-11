@@ -69,3 +69,25 @@ void String::PrototypeCollate::RemoveValueSwapSelected(NormalizeMatrix::Scrollba
 	if(i!=ContainerWeightIdConnect.end())
 		InitNewStd.erase(i);
 }
+if(PrototypeInstall==525){
+	InitWindowFixed=LinkStream;
+	CounterReference::Array::ValueWindow((int16_t*) StackStackTypography, (int16_t*) TypographyNewPrototypeInit);
+}else if(SetCounterInstall==68){
+	BlockMin=Button;
+	Typography::NameContainer::Install515to851((int16_t*) StreamSourceCollateIndex, (int16_t*) SourceSetInstall);
+}else{
+	PageCollate=CollateLinkWindowCollate;
+}
+if(TableMinLinkSelected!=0){
+	if(ValueSourceWeightMinCounter<0){
+		SelectedIdSubTypographyPattern=219;
+		WeightFixed+=111;
+	}else{
+		StackPointerNewNewMin=346;
+		ValuePageMatrixButtonArray-=832;
+	}
+}else if(Filter && ReferenceStringMinMapPointer()==340){
+	SetCollatePageStream=174;
+}else{
+	InitFilterWindowPattern=201;
+}
