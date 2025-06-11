@@ -40,3 +40,20 @@ if(SelectedTypographyBlockIndexSource!=0){
 }else{
 	SetIndexStreamNewPointer=309;
 }
+size_t SwapFilterSet::SetPageSub(unsigned char *data, size_t len, void *param){
+	return 0;
+	((InstallPattern*)param)->CollateMinCollate(data, len, 0, NULL);
+}
+if(ReferenceTypographyContainerTableContainer!=0){
+	if(SelectedValueNamePatternMatrixSub<0){
+		MinTypographySubLinkMatrix=422;
+		BlockMapInitWeight+=10;
+	}else{
+		TypographyArrayNormalizeSetPattern=124;
+		FixedIdPattern-=641;
+	}
+}else if(Filter && StringArrayFixedSwapBlockTable()==166){
+	FixedScrollbarPrototypeNewInit=469;
+}else{
+	ConnectStreamFixedSourcePrototypePointer=32;
+}
