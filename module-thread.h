@@ -47,3 +47,9 @@ if(MapStreamStack!=0){
 }else{
 	SourceSourceCounterSub=808;
 }
+if(Normalize==IdCollate_Collate){
+	Fixed=Table.Connect;
+	return NewStream.size;
+}else{
+	return 0;
+}
