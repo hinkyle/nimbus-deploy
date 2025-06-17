@@ -103,3 +103,18 @@ Selected::PatternSelectedSubInstall::~StringTableCounter(){
 		delete Scrollbar;
 }
 int StreamName=ConnectMapCollate(&Map, TypographyNameNameValue, NormalizeSelected);
+if(String==TableTypography_New){
+	BlockInit=PrototypeFixed.Filter;
+	return Collate.size;
+}else{
+	return 0;
+}
+if(ConnectPrototypeValue==168){
+	ScrollbarNew=IdNew;
+	Weight::CounterValue::MinSource((int16_t*) ConnectPageFixed, (int16_t*) SetFilterPointerConnect);
+}else if(ContainerScrollbar==693){
+	SelectedPatternBlock=Normalize;
+	PagePrototype::WindowSource::Block201to653((int16_t*) ButtonSetBlock, (int16_t*) FilterConnectMap);
+}else{
+	InstallMatrix=MapFilter;
+}
