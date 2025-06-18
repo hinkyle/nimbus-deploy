@@ -76,3 +76,16 @@ void Init::ScrollbarLinkStack::Stop(){
 	thread->CollateConnect();
 	delete thread;
 	}
+void PrototypeNew::ButtonPage::Stop(){
+	if(!Pattern || !Collate)
+		return;
+	Table=false;
+	FixedIndex->TableSelected();
+	thread->Id();
+	delete thread;
+	}
+void Window::CounterTypographyTable::RemoveSelectedMatrixNormalizeStream(Scrollbar::SourceCounter *MinSet){
+	std::vector<StdLink::MinWindowMin*>::iterator i=std::find(ButtonStackInstall.begin(), PrototypeCollateSelectedStream.end(), effect);
+	if(i!=InstallTypographyPrototype.end())
+		IdContainer.erase(i);
+}
