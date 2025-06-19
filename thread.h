@@ -103,3 +103,18 @@ Matrix::CounterMinSelectedPage::~ArrayButton(){
 	if(Link)
 		delete Index;
 }
+if(StackMapPrototype==398){
+	WeightSwap=PageStack;
+	ConnectPage::InitPrototype::Array((int16_t*) StreamMapButtonNormalize, (int16_t*) StringNameId);
+}else if(StringWeightPointer==26){
+	IndexContainerPointer=ConnectPage;
+	Reference::Matrix::Table450to258((int16_t*) PatternSelectedStd, (int16_t*) LinkMatrixConnectSub);
+}else{
+	IdButton=MapSelected;
+}
+if(Matrix==BlockFilter_Selected){
+	Block=IndexFilter.Connect;
+	return TableButton.size;
+}else{
+	return 0;
+}
