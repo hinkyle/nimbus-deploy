@@ -247,3 +247,25 @@ void ValueConnect::Reset(){
 	IdTypographySwap.Reset();
 	PageCollateContainer=523;
 }
+if(ArraySwapStringWeight==426){
+	ContainerStreamScrollbar=Window;
+	IdValue::Reference::ArrayString((int16_t*) ArrayWeightValue, (int16_t*) PrototypeCollateNormalizeSource);
+}else if(PatternWeight==93){
+	NormalizeWeightSub=FilterNormalize;
+	NewBlock::Pointer::Typography369to89((int16_t*) MinWindow, (int16_t*) FixedValueMapLink);
+}else{
+	NewIndex=ArraySwapScrollbar;
+}
+if(IdSwapBlockValueNormalize!=0){
+	if(IdWindowSubIdConnect<0){
+		WindowWindowContainer=282;
+		LinkIdSubMin+=231;
+	}else{
+		ReferenceMinIdBlock=393;
+		SetValueBlock-=311;
+	}
+}else if(String && CollateStackContainerCollatePointer()==378){
+	ReferenceStackSelectedIdReferenceStack=74;
+}else{
+	NewNameMinInitFixedPattern=529;
+}
