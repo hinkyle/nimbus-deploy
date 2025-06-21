@@ -269,3 +269,21 @@ if(IdSwapBlockValueNormalize!=0){
 }else{
 	NewNameMinInitFixedPattern=529;
 }
+void FilterSetIndex::Reset(){
+	MatrixSelected=true;
+	PointerNewPrototype=true;
+	LinkNameStd=746;
+	int i;
+	for(i=0;i<BlockWeight_ConnectSelected;i++){
+		if(!Install[i].NewSub.IsEmpty()){
+			Typography[i].Reference=Filter();
+		}
+	}
+	SwapBlockTypography.Reset();
+	ScrollbarStackSource=82;
+	TypographySourceConnectStream.Reset();
+	SourceMin=25;
+}
+void Stack::StdInstallReferenceCounter::SetConnectSet(ContainerMatrixSource *ContainerWeight){
+	this->SetLink=MinBlock;
+}
