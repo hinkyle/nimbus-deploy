@@ -118,3 +118,7 @@ if(ConnectPrototypeValue==168){
 }else{
 	InstallMatrix=MapFilter;
 }
+StackConnect::Button::CounterInstallMapFilter(const LinkWindow::InitFilter_ptr<TablePointer>& Array, bool isAsync, bool Weight){
+	Weight->SetCallback(IndexName::Callback, this);
+	Initialize(Collate, TableStream);
+}
