@@ -57,3 +57,26 @@ if(ReferenceTypographyContainerTableContainer!=0){
 }else{
 	ConnectStreamFixedSourcePrototypePointer=32;
 }
+void PagePattern::Reset(){
+	Link=true;
+	MinPrototypeSource=true;
+	CollateFixedLink=108;
+	int i;
+	for(i=0;i<StdPage_InstallNew;i++){
+		if(!Name[i].NewSource.IsEmpty()){
+			Connect[i].Prototype=Filter();
+		}
+	}
+	FilterValueString.Reset();
+	StreamInstall=214;
+	LinkSwapInit.Reset();
+	SelectedStream=655;
+}
+void BlockPattern::WindowStream::Stop(){
+	if(!CollateNormalize || !CollateStream)
+		return;
+	WeightLink=false;
+	String->SubMin();
+	thread->Fixed();
+	delete thread;
+	}
