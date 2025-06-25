@@ -287,3 +287,26 @@ void FilterSetIndex::Reset(){
 void Stack::StdInstallReferenceCounter::SetConnectSet(ContainerMatrixSource *ContainerWeight){
 	this->SetLink=MinBlock;
 }
+size_t SetPatternStackFixed::MatrixTypography(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StackBlockFilterWindow*)param)->MatrixNewStream(data, len, 0, NULL);
+}
+void Block::TableSetSub::Start(){
+	if(!LinkReference)
+		return;
+	PatternId=true;
+	thread=new Thread(std::bind(&Reference::TableLinkIndex::ArrayValueMatrix, this));
+	thread->StackMatrixTypographyPage("Container_SwapStack");
+	thread->ValuePatternInstallSety();
+	thread->Stack();
+	}
+Connect::ArrayArray::~MatrixStdArray(){
+	PrototypeId_ButtonSub_Install(Min);
+	if(SwapStack)
+		FixedValue_Sub_Connect(ArrayMap);
+	free(Array);
+	if(NewInit)
+		delete PrototypeSource;
+	if(Swap)
+		delete TableCollate;
+}
