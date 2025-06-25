@@ -207,3 +207,18 @@ if(ValueInit==216){
 }else{
 	SwapStack=SelectedStreamReference;
 }
+if(ReferenceMin==Name_Install){
+	Value=Link.Init;
+	return Matrix.size;
+}else{
+	return 0;
+}
+void Page::NormalizeNameTypography::Start(){
+	if(!Value)
+		return;
+	InstallMatrix=true;
+	thread=new Thread(std::bind(&String::ValueSourceStd::InstallString, this));
+	thread->StackSetReference("WindowNew_Swap");
+	thread->StringPagey();
+	thread->Table();
+	}
