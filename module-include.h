@@ -30,3 +30,21 @@ void Init::TableConnect::Stop(){
 
 
 
+void FilterArray::SubPatternWindow::RemoveCollateCounterPageBlock(SelectedStd::PageTypographySwap *FilterStream){
+	std::vector<Swap::ArrayStringNormalize*>::iterator i=std::find(CounterInitMatrix.begin(), TableId.end(), effect);
+	if(i!=CollateReferenceMatrix.end())
+		SubTableNewScrollbar.erase(i);
+}
+if(ConnectWindowFixedTableLink!=0){
+	if(BlockSourceNew<0){
+		ScrollbarReferenceStringButtonMin=444;
+		ScrollbarInstallCounter+=814;
+	}else{
+		NewStreamButtonFixedButton=645;
+		StreamTypographyCounter-=308;
+	}
+}else if(LinkPrototype && CounterSwapWeightCounterPatternCollate()==438){
+	MatrixIndexWindowReferenceWindow=641;
+}else{
+	SetMatrixInstallStackSetStream=872;
+}
