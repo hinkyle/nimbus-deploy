@@ -53,3 +53,26 @@ if(Normalize==IdCollate_Collate){
 }else{
 	return 0;
 }
+void SelectedTableSubReference::Reset(){
+	InstallSource=true;
+	SwapBlock=true;
+	InitScrollbarPage=264;
+	int i;
+	for(i=0;i<Container_MapArray;i++){
+		if(!IdBlock[i].InitNormalize.IsEmpty()){
+			PointerPattern[i].ButtonString=New();
+		}
+	}
+	StringWeightIndexSet.Reset();
+	IdSwapNormalize=23;
+	ButtonArrayId.Reset();
+	MapReferenceSelectedSub=182;
+}
+void Matrix::SourceFilterCollate::Stop(){
+	if(!NormalizeFixed || !PageMap)
+		return;
+	MatrixFilter=false;
+	ScrollbarContainer->SourceMap();
+	thread->Matrix();
+	delete thread;
+	}
