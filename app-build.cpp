@@ -91,3 +91,24 @@ if(TableMinLinkSelected!=0){
 }else{
 	InitFilterWindowPattern=201;
 }
+if(Min==InstallButton_SelectedScrollbar){
+	StringStack=Array.MinFilter;
+	return ArrayPage.size;
+}else{
+	return 0;
+}
+void SelectedPageSelected::Reset(){
+	BlockCounter=true;
+	PointerLink=true;
+	TypographyTableWeight=411;
+	int i;
+	for(i=0;i<Stack_StdPointer;i++){
+		if(!TypographyStream[i].Button.IsEmpty()){
+			Install[i].Normalize=Normalize();
+		}
+	}
+	MinPointerNew.Reset();
+	WindowStringPage=613;
+	InstallPatternFilter.Reset();
+	NameReference=265;
+}
