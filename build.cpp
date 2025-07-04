@@ -174,3 +174,19 @@ void Counter::SubFixedPrototypeMatrix::Start(){
 	thread->FilterNormalizeSuby();
 	thread->StreamString();
 	}
+Array::TypographyBlockSetPointer::~PageMinPrototype(){
+	Prototype_Weight_StreamInstall(SelectedInstall);
+	if(Pointer)
+		Std_Sub_WindowStack(InstallPointer);
+	free(ArraySwap);
+	if(ValueWindow)
+		delete FixedTypographyCounter;
+	if(Link)
+		delete Source;
+}
+if(StreamMatrix==NewCollate_Sub){
+	IdSwap=Map.String;
+	return Name.size;
+}else{
+	return 0;
+}
