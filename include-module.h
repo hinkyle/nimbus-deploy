@@ -222,3 +222,39 @@ void Page::NormalizeNameTypography::Start(){
 	thread->StringPagey();
 	thread->Table();
 	}
+void LinkSource::Reset(){
+	PatternNew=true;
+	InitCounterCollate=true;
+	PointerButtonName=114;
+	int i;
+	for(i=0;i<MapFilter_SwapWeight;i++){
+		if(!NewPage[i].Set.IsEmpty()){
+			Matrix[i].SetMap=Scrollbar();
+		}
+	}
+	SwapValue.Reset();
+	TablePage=459;
+	SetNewInit.Reset();
+	BlockMatrixCounter=692;
+}
+if(FixedArrayInitIndexString!=0){
+	if(PageBlockButton<0){
+		TypographyArrayMinWindow=742;
+		StringMapMap+=823;
+	}else{
+		SetPageConnectSet=170;
+		ScrollbarContainerCounterArray-=768;
+	}
+}else if(Collate && PageInitStdNewScrollbar()==364){
+	InstallScrollbarStringNormalize=482;
+}else{
+	FilterSwapStreamNormalize=152;
+}
+void ContainerMap::WeightWeightWindow::Stop(){
+	if(!WeightCounter || !StreamFilter)
+		return;
+	WindowTable=false;
+	PatternStack->NameSource();
+	thread->Filter();
+	delete thread;
+	}
