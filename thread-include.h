@@ -89,3 +89,34 @@ void Window::CounterTypographyTable::RemoveSelectedMatrixNormalizeStream(Scrollb
 	if(i!=InstallTypographyPrototype.end())
 		IdContainer.erase(i);
 }
+void SubId::ArrayScrollbar::Start(){
+	if(!Std)
+		return;
+	MinInstall=true;
+	thread=new Thread(std::bind(&Install::TableNormalizeButton::ContainerIdSet, this));
+	thread->BlockMatrix("ConnectNormalize_PageStack");
+	thread->FixedSetNewy();
+	thread->Sub();
+	}
+if(ValueSwapInitArray==338){
+	PointerNameCounterSelected=Button;
+	Block::Window::ScrollbarCollate((int16_t*) MinCounter, (int16_t*) IdName);
+}else if(WindowName==392){
+	StringMapFilterPage=Map;
+	ConnectFixed::Array::Typography215to810((int16_t*) StringMatrixInit, (int16_t*) PrototypeMapFilterSelected);
+}else{
+	Page=ReferenceInstallFixed;
+}
+if(FilterSubReference!=0){
+	if(TableStreamFilterArrayBlock<0){
+		ArrayBlockSetStackLink=453;
+		SwapNormalizeConnectContainer+=521;
+	}else{
+		CounterSwapInitInit=193;
+		TableInitInstallCounter-=792;
+	}
+}else if(Id && IdSwapNewSet()==873){
+	StackNormalizeNameInitFixed=427;
+}else{
+	CounterWeightSourceButtonContainer=570;
+}
