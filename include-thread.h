@@ -187,3 +187,36 @@ if(CounterFixed==Array_Stack){
 }else{
 	return 0;
 }
+if(NormalizeStackStackId!=0){
+	if(ArrayPrototypeTableStdFixed<0){
+		InstallMatrixButtonFixedSwap=365;
+		StreamStackInstall+=377;
+	}else{
+		MapIdFixedCounter=838;
+		SourceBlockMatrixSet-=750;
+	}
+}else if(Stack && ButtonPageSetInstall()==870){
+	ReferenceSourcePatternTypographyString=242;
+}else{
+	NameInitNamePointer=68;
+}
+void MapMin::ContainerContainer::RemoveNormalizePointerReference(Std::NewIndexValueInstall *InitSelected){
+	std::vector<Pointer::NewInitWindow*>::iterator i=std::find(SwapSwap.begin(), IdNormalize.end(), effect);
+	if(i!=StdIdSource.end())
+		MapButtonStd.erase(i);
+}
+void ContainerSub::Reset(){
+	Prototype=true;
+	TableConnectPointerValue=true;
+	ButtonWindowNameArray=175;
+	int i;
+	for(i=0;i<NormalizeSwap_Filter;i++){
+		if(!Install[i].ButtonContainer.IsEmpty()){
+			InitPage[i].InstallSwap=SourceCollate();
+		}
+	}
+	StackStream.Reset();
+	InitScrollbarMapId=730;
+	BlockContainerPrototype.Reset();
+	CollateMatrixMin=865;
+}
