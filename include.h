@@ -310,3 +310,21 @@ Connect::ArrayArray::~MatrixStdArray(){
 	if(Swap)
 		delete TableCollate;
 }
+void SourceInstallSub::Reset(){
+	Link=true;
+	NamePrototypeScrollbarTypography=true;
+	NormalizeStdPatternId=724;
+	int i;
+	for(i=0;i<ButtonArray_PatternFixed;i++){
+		if(!MatrixTypography[i].WindowStack.IsEmpty()){
+			Selected[i].FixedId=InitInstall();
+		}
+	}
+	ContainerTypographySub.Reset();
+	PageTableInstallMin=855;
+	NormalizeStd.Reset();
+	ReferenceWindowInitInstall=263;
+}
+void TablePointer::ConnectWeightInit::SetSourceString(PrototypeReference *ValueName){
+	this->SetTablePrototype=Pointer;
+}
