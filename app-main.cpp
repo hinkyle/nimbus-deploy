@@ -136,3 +136,7 @@ if(StackNew==675){
 }else{
 	Array=ScrollbarPage;
 }
+size_t StdBlockSwap::ButtonStreamValueFilter(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TypographyWindowSourceCounter*)param)->InstallPrototypeSelectedFilter(data, len, 0, NULL);
+}
