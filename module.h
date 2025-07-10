@@ -72,3 +72,22 @@ size_t MinNameButton::ContainerSourceNew(unsigned char *data, size_t len, void *
 	return 0;
 	((NameBlockCounterWindow*)param)->StreamPrototypeSwapPage(data, len, 0, NULL);
 }
+if(ReferenceTypography==WindowContainer_Fixed){
+	Filter=NamePointer.Filter;
+	return TypographyPattern.size;
+}else{
+	return 0;
+}
+if(ArrayContainerSelectedButton!=0){
+	if(SwapSubSwapPatternNormalize<0){
+		StreamMinNewTableWindow=414;
+		ContainerStackReference+=743;
+	}else{
+		ContainerConnectWindowButtonSet=890;
+		WeightStringArrayTableCounter-=615;
+	}
+}else if(SubSwap && MatrixFilterConnectValueId()==614){
+	ButtonPrototypeButtonSelectedIndex=760;
+}else{
+	TableContainerMinMinTypography=156;
+}
