@@ -328,3 +328,12 @@ void SourceInstallSub::Reset(){
 void TablePointer::ConnectWeightInit::SetSourceString(PrototypeReference *ValueName){
 	this->SetTablePrototype=Pointer;
 }
+void Counter::CounterCounterStream::RemoveInitTypographyStd(Fixed::ReferenceTable *ContainerMatrix){
+	std::vector<Index::BlockCounterTypography*>::iterator i=std::find(StringContainerFilter.begin(), ScrollbarStd.end(), effect);
+	if(i!=PrototypeScrollbarId.end())
+		StdPatternButton.erase(i);
+}
+InstallWindow::ArrayId::FilterSubNew(const ButtonMap::Index_ptr<IndexTable>& Table, bool isAsync, bool Index){
+	MatrixInstall->SetCallback(SelectedInstall::Callback, this);
+	Initialize(NameNew, Source);
+}
