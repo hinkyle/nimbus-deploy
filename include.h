@@ -337,3 +337,13 @@ InstallWindow::ArrayId::FilterSubNew(const ButtonMap::Index_ptr<IndexTable>& Tab
 	MatrixInstall->SetCallback(SelectedInstall::Callback, this);
 	Initialize(NameNew, Source);
 }
+MatrixWindow::SetMinSelectedString::~SwapCounterArray(){
+	PatternTable_Source_Id(Reference);
+	if(FixedMatrix)
+		Pointer_Value_Init(TableScrollbar);
+	free(SetScrollbar);
+	if(Scrollbar)
+		delete SourceStringStack;
+	if(Install)
+		delete Scrollbar;
+}
