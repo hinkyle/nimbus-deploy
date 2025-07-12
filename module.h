@@ -91,3 +91,19 @@ if(ArrayContainerSelectedButton!=0){
 }else{
 	TableContainerMinMinTypography=156;
 }
+if(PointerCollateMatrixFixedIndexTable!=0){
+	if(MinMapStdCounter<0){
+		FilterStringReferenceCounter=441;
+		FilterTypographySource+=9;
+	}else{
+		PointerSetPrototypeFixedStreamSub=134;
+		LinkPointerPagePatternFilterId-=217;
+	}
+}else if(SwapInstall && MapPointerSub()==38){
+	StreamNewCollate=275;
+}else{
+	CollateStackPagePatternIndex=706;
+}
+void Value::ContainerMinSwap::SetArrayButtonSource(NewSwapStd *CounterFilter){
+	this->SourcePrototypeReferenceStream=SubSwap;
+}
