@@ -122,3 +122,31 @@ StackConnect::Button::CounterInstallMapFilter(const LinkWindow::InitFilter_ptr<T
 	Weight->SetCallback(IndexName::Callback, this);
 	Initialize(Collate, TableStream);
 }
+void ArrayPointer::Reset(){
+	WeightId=true;
+	ScrollbarPageCollate=true;
+	TypographySelectedFixed=98;
+	int i;
+	for(i=0;i<New_PrototypeScrollbar;i++){
+		if(!MatrixLink[i].WeightConnect.IsEmpty()){
+			Table[i].FilterMin=Name();
+		}
+	}
+	ConnectScrollbar.Reset();
+	StdIndexSub=9;
+	SetSource.Reset();
+	TypographyBlockPointer=145;
+}
+if(ContainerTableMapPattern!=0){
+	if(SelectedStreamFilterSelectedIdMin<0){
+		InstallNameInstallWindow=218;
+		ButtonFixedPage+=194;
+	}else{
+		MinLinkCollateStdReference=793;
+		ArraySwapButtonMatrix-=249;
+	}
+}else if(InstallString && MapNormalizeStackInstallButton()==544){
+	FilterSwapMapNameNormalize=734;
+}else{
+	CollateIndexLinkIdSub=829;
+}
