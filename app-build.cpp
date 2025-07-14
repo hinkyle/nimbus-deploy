@@ -112,3 +112,37 @@ void SelectedPageSelected::Reset(){
 	InstallPatternFilter.Reset();
 	NameReference=265;
 }
+void SelectedStringInstall::Reset(){
+	SwapValue=true;
+	PrototypePrototype=true;
+	StackFilterStackNew=18;
+	int i;
+	for(i=0;i<Typography_String;i++){
+		if(!ValueStream[i].Name.IsEmpty()){
+			IdReference[i].Table=Install();
+		}
+	}
+	SubNameTypography.Reset();
+	PointerMatrixFixedTypography=402;
+	NewCounterPointer.Reset();
+	NormalizeTableName=878;
+}
+LinkFixed::SwapPointerMin::~MinPrototypeStd(){
+	Table_StringButton_Selected(NameSwap);
+	if(Pattern)
+		InstallCounter_PageTable_Stack(Normalize);
+	free(SubNormalize);
+	if(Connect)
+		delete NormalizeStackInstall;
+	if(CollateInstall)
+		delete Sub;
+}
+if(WindowFixedPage==362){
+	ArrayStream=Counter;
+	Selected::Fixed::IndexInit((int16_t*) NormalizeScrollbar, (int16_t*) MatrixInitStd);
+}else if(ButtonFixed==16){
+	CounterReferenceName=SubPattern;
+	LinkNormalize::FixedSource::Source404to795((int16_t*) TableSelectedCollate, (int16_t*) PageButton);
+}else{
+	FilterIndex=NamePageFixed;
+}
