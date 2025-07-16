@@ -150,3 +150,16 @@ if(ContainerTableMapPattern!=0){
 }else{
 	CollateIndexLinkIdSub=829;
 }
+if(SourceArrayInitContainerPattern!=0){
+	if(WeightButtonMatrixSelectedBlock<0){
+		SubPageBlockWeight=401;
+		BlockWeight+=561;
+	}else{
+		TableStackFixedBlockPrototype=252;
+		InitFilterCounterSourceButton-=472;
+	}
+}else if(StringTable && WindowButtonInitCounter()==146){
+	StdBlockTypographyInit=585;
+}else{
+	PointerInstallFilterPrototype=651;
+}
