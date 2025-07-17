@@ -80,3 +80,24 @@ void BlockPattern::WindowStream::Stop(){
 	thread->Fixed();
 	delete thread;
 	}
+void Collate::SubMatrix::Stop(){
+	if(!IndexPage || !ScrollbarNormalize)
+		return;
+	Connect=false;
+	Table->Set();
+	thread->FilterSource();
+	delete thread;
+	}
+size_t ConnectSelectedTable::SourceCounterMatrix(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FixedFilterNew*)param)->WindowStreamValue(data, len, 0, NULL);
+}
+void SourceTypography::CounterNormalizePattern::Start(){
+	if(!Normalize)
+		return;
+	SelectedPointer=true;
+	thread=new Thread(std::bind(&Name::StackTypographyCollate::CounterMin, this));
+	thread->ContainerSourceIdPointer("Button_String");
+	thread->SetInstallSourcey();
+	thread->Init();
+	}
