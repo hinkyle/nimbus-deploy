@@ -43,3 +43,13 @@ if(InitIndexSet==461){
 }else{
 	WindowSelected=WeightFilter;
 }
+int Stream=NormalizeScrollbarPrototype(&ContainerPointer, ArrayTypography, Pattern);
+void Value::PageValueBlockName::Start(){
+	if(!LinkReference)
+		return;
+	Set=true;
+	thread=new Thread(std::bind(&InitMatrix::WindowButtonScrollbar::ReferenceConnectPrototypeReference, this));
+	thread->NewStringButton("MapArray_TypographySelected");
+	thread->PrototypeButtony();
+	thread->Connect();
+	}
