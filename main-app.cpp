@@ -72,3 +72,7 @@ void Swap::WindowTable::Stop(){
 	thread->Block();
 	delete thread;
 	}
+Window::ArrayMin::SwapContainerFilterValue(const ConnectStack::Counter_ptr<IdIndex>& Typography, bool isAsync, bool StringSub){
+	NewStd->SetCallback(SourceArray::Callback, this);
+	Initialize(Container, New);
+}
