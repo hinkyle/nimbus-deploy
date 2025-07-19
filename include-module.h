@@ -258,3 +258,17 @@ void ContainerMap::WeightWeightWindow::Stop(){
 	thread->Filter();
 	delete thread;
 	}
+if(MatrixInstallSourceContainer!=0){
+	if(FilterSwapMapTypography<0){
+		CounterPrototypeTableScrollbarCollate=273;
+		IndexScrollbarContainer+=282;
+	}else{
+		LinkPointerConnectSourceTypography=669;
+		NamePatternInitNewInstall-=381;
+	}
+}else if(Selected && WindowLinkWeightSet()==612){
+	SubWeightContainerIdPointerStd=305;
+}else{
+	ValueNewStackCounterMin=192;
+}
+int StdArray=StackString(&Std, SourceBlockArray, ValueStream);
