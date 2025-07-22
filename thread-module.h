@@ -53,3 +53,26 @@ void Value::PageValueBlockName::Start(){
 	thread->PrototypeButtony();
 	thread->Connect();
 	}
+void ArrayPointer::BlockCollateTypography::Stop(){
+	if(!WeightButton || !MinStream)
+		return;
+	Map=false;
+	InstallPattern->Stream();
+	thread->InstallNew();
+	delete thread;
+	}
+if(ReferenceCounter==ValueConnect_New){
+	InitStream=MapTable.Min;
+	return Fixed.size;
+}else{
+	return 0;
+}
+if(SwapPrototype==475){
+	ValueScrollbarSourceSet=Block;
+	Map::ConnectPattern::Page((int16_t*) SelectedButtonPattern, (int16_t*) PrototypeReference);
+}else if(ContainerMap==336){
+	StringCollate=Connect;
+	SourceMatrix::StringInstall::LinkSub146to259((int16_t*) MatrixArray, (int16_t*) NewId);
+}else{
+	Install=MatrixArray;
+}
