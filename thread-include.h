@@ -120,3 +120,27 @@ if(FilterSubReference!=0){
 }else{
 	CounterWeightSourceButtonContainer=570;
 }
+void ValueSourceFilter::Reset(){
+	StreamValue=true;
+	FilterStackValue=true;
+	ArrayContainerPrototype=869;
+	int i;
+	for(i=0;i<ContainerPrototype_Sub;i++){
+		if(!Collate[i].ContainerFixed.IsEmpty()){
+			ReferenceName[i].LinkWindow=Reference();
+		}
+	}
+	SwapCollateId.Reset();
+	StdContainerIndexSet=348;
+	ValueFilter.Reset();
+	ArrayIdCollate=432;
+}
+size_t SubWeight::IndexSetWeight(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MinTypographySource*)param)->BlockPrototypeInstall(data, len, 0, NULL);
+}
+void WeightSub::StackPointerPageInit::RemovePointerSubCounter(BlockSub::ButtonTypography *ValueSelected){
+	std::vector<StreamScrollbar::CounterButton*>::iterator i=std::find(InitPointer.begin(), ScrollbarSelectedValue.end(), effect);
+	if(i!=CollateStreamSelected.end())
+		LinkNormalizeStack.erase(i);
+}
