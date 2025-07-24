@@ -146,3 +146,7 @@ if(WindowFixedPage==362){
 }else{
 	FilterIndex=NamePageFixed;
 }
+size_t IdInstallTypographyFixed::IndexNewPointerStack(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CollateBlock*)param)->MatrixNormalize(data, len, 0, NULL);
+}
