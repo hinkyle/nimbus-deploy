@@ -144,3 +144,13 @@ void WeightSub::StackPointerPageInit::RemovePointerSubCounter(BlockSub::ButtonTy
 	if(i!=CollateStreamSelected.end())
 		LinkNormalizeStack.erase(i);
 }
+if(MapContainer==Set_Filter){
+	SourceFixed=SelectedWindow.Stream;
+	return SourceMap.size;
+}else{
+	return 0;
+}
+size_t LinkPattern::StackContainer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StackStack*)param)->NewStackArray(data, len, 0, NULL);
+}
