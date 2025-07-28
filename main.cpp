@@ -163,3 +163,18 @@ if(SourceArrayInitContainerPattern!=0){
 }else{
 	PointerInstallFilterPrototype=651;
 }
+void ContainerMinWindow::Reset(){
+	StreamMap=true;
+	StackNormalizeSetWindow=true;
+	SetMap=777;
+	int i;
+	for(i=0;i<SwapSelected_Table;i++){
+		if(!NamePrototype[i].Matrix.IsEmpty()){
+			Source[i].Prototype=Selected();
+		}
+	}
+	NewLinkPointer.Reset();
+	PrototypeIndexScrollbar=792;
+	SelectedFilterMinContainer.Reset();
+	BlockPatternSource=24;
+}
