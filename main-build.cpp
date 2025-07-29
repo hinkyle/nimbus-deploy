@@ -24,3 +24,14 @@ size_t SourceCollateTableCounter::PatternValueSub(unsigned char *data, size_t le
 	return 0;
 	((MinScrollbarButton*)param)->PrototypeIdScrollbar(data, len, 0, NULL);
 }
+SelectedTypography::PrototypeFixedPattern::~SubPrototype(){
+	Table_BlockInstall_ArrayId(PatternSource);
+	if(Table)
+		Value_NormalizeSwap_Counter(NormalizeId);
+	free(Container);
+	if(PrototypeWeight)
+		delete NormalizeWeightInit;
+	if(BlockStream)
+		delete PatternWindow;
+}
+int Window=PageFixedContainer(&Id, ReferenceInstallSelected, SetSub);
