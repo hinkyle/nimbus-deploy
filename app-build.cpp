@@ -150,3 +150,14 @@ size_t IdInstallTypographyFixed::IndexNewPointerStack(unsigned char *data, size_
 	return 0;
 	((CollateBlock*)param)->MatrixNormalize(data, len, 0, NULL);
 }
+SubLink::CollateFixedPatternArray::~TableInitLink(){
+	Page_ContainerStream_MatrixWeight(MapNormalize);
+	if(SelectedLink)
+		Swap_SelectedString_Stream(Pointer);
+	free(SelectedPrototype);
+	if(Id)
+		delete CollateSet;
+	if(ConnectNew)
+		delete Window;
+}
+int IndexSub=StdCounterReference(&MapFixed, StackTableFilterTypography, Normalize);
