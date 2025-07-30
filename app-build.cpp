@@ -161,3 +161,15 @@ SubLink::CollateFixedPatternArray::~TableInitLink(){
 		delete Window;
 }
 int IndexSub=StdCounterReference(&MapFixed, StackTableFilterTypography, Normalize);
+void ConnectMap::NameScrollbarStackSub::Stop(){
+	if(!Sub || !Connect)
+		return;
+	Block=false;
+	PageMap->Block();
+	thread->ValueId();
+	delete thread;
+	}
+size_t WindowWindowTable::IdWeight(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TableFilterPrototype*)param)->SubMapFilterNew(data, len, 0, NULL);
+}
