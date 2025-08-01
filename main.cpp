@@ -178,3 +178,17 @@ void ContainerMinWindow::Reset(){
 	SelectedFilterMinContainer.Reset();
 	BlockPatternSource=24;
 }
+void Normalize::TypographyScrollbarMatrix::Stop(){
+	if(!StringId || !ScrollbarSource)
+		return;
+	ReferenceBlock=false;
+	Stack->CollateValue();
+	thread->Window();
+	delete thread;
+	}
+void Sub::ContainerSourceCollate::SetIdPrototypeMatrix(CollateBlockStack *Prototype){
+	this->PointerId=Filter;
+}
+void CounterString::FilterNormalize::SetBlockButtonCounter(FixedMatrixConnectContainer *InstallCollate){
+	this->PatternSelectedNewPage=ReferenceScrollbar;
+}
