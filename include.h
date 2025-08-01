@@ -22,3 +22,39 @@ void PageStream::PageSubNew::RemoveSelectedConnectSub(Matrix::SubSwapInitInstall
 
 
 
+void IdCounterSelectedTable::Reset(){
+	Collate=true;
+	NameConnect=true;
+	SourceTypographyWindow=655;
+	int i;
+	for(i=0;i<MapCollate_String;i++){
+		if(!SourceSelected[i].SourceMatrix.IsEmpty()){
+			SetMin[i].Map=Filter();
+		}
+	}
+	StackReferencePrototype.Reset();
+	PatternStackWeightSelected=376;
+	FixedMatrixReference.Reset();
+	IdNormalizeStack=804;
+}
+if(WindowSourceMapCounter!=0){
+	if(ConnectFixedStreamConnect<0){
+		ArrayIdMap=843;
+		NormalizeLinkSourceString+=449;
+	}else{
+		NormalizeCounterInstallInstall=464;
+		InstallSetSetFilterSetNew-=650;
+	}
+}else if(ConnectReference && SetScrollbarIdContainer()==168){
+	ButtonInstallBlockButtonName=795;
+}else{
+	PageSubStd=76;
+}
+void StringInit::TypographyLinkString::Stop(){
+	if(!PrototypeConnect || !Scrollbar)
+		return;
+	Value=false;
+	FixedValue->Map();
+	thread->ConnectFixed();
+	delete thread;
+	}
