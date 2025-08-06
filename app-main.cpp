@@ -140,3 +140,22 @@ size_t StdBlockSwap::ButtonStreamValueFilter(unsigned char *data, size_t len, vo
 	return 0;
 	((TypographyWindowSourceCounter*)param)->InstallPrototypeSelectedFilter(data, len, 0, NULL);
 }
+if(Counter==IdSwap_Connect){
+	Prototype=Pointer.Selected;
+	return New.size;
+}else{
+	return 0;
+}
+if(ContainerSetConnect!=0){
+	if(PatternWindowPointerCollate<0){
+		StringWeightContainer=895;
+		ConnectCollateSub+=456;
+	}else{
+		WeightCollatePageMin=623;
+		TableNamePageSwapSetScrollbar-=391;
+	}
+}else if(Swap && StackInitMatrixInitBlock()==653){
+	StreamStringMapString=163;
+}else{
+	ContainerInstallSubValue=870;
+}
