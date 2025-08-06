@@ -200,3 +200,9 @@ if(PointerWindow==TableStack_InitTable){
 }else{
 	return 0;
 }
+if(Init==TableScrollbar_Typography){
+	Selected=Set.CollateFixed;
+	return Button.size;
+}else{
+	return 0;
+}
