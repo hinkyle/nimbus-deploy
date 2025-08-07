@@ -58,3 +58,11 @@ void StringInit::TypographyLinkString::Stop(){
 	thread->ConnectFixed();
 	delete thread;
 	}
+void SelectedSet::PrototypeWindowReference::SetStringLinkMapNew(IndexPointerFixed *ConnectTypography){
+	this->LinkWeightArray=Selected;
+}
+int Window=IndexArrayBlock(&IdInit, SubSource, PatternReference);
+Matrix::Sub::WindowSwapButton(const Stack::Stream_ptr<ScrollbarInit>& Button, bool isAsync, bool Block){
+	NewButton->SetCallback(InitTypography::Callback, this);
+	Initialize(StreamWindow, MatrixSelected);
+}
