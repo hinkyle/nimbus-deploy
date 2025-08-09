@@ -159,3 +159,19 @@ if(ContainerSetConnect!=0){
 }else{
 	ContainerInstallSubValue=870;
 }
+void ConnectPointer::IdFilterButton::SetNamePage(ButtonLinkTypographySelected *CounterInstall){
+	this->StreamPointerPatternStack=PageNew;
+}
+if(ConnectFixedArrayPrototype!=0){
+	if(PointerStringStackMinTable<0){
+		PointerScrollbarPageSub=434;
+		InitWeightMatrix+=341;
+	}else{
+		SourceFixedNormalizeId=315;
+		IdWeightSelectedTypographyWindow-=435;
+	}
+}else if(Connect && SwapWeightStackTypographySwap()==385){
+	StreamNewSelectedSelected=25;
+}else{
+	SetLinkFilter=357;
+}
