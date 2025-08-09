@@ -206,3 +206,24 @@ if(Init==TableScrollbar_Typography){
 }else{
 	return 0;
 }
+if(Reference==Page_IdStd){
+	Map=String.StringNew;
+	return Collate.size;
+}else{
+	return 0;
+}
+if(Sub==Reference_Reference){
+	Typography=PatternInstall.SourceStream;
+	return Index.size;
+}else{
+	return 0;
+}
+if(ContainerCollate==40){
+	NameBlockStream=Array;
+	SwapInit::IdCollate::ConnectCounter((int16_t*) PagePatternId, (int16_t*) InitIdFilter);
+}else if(ButtonCollateSourceSet==305){
+	InitLinkMatrix=Pattern;
+	MinSource::Selected::Block142to209((int16_t*) ReferenceTableConnect, (int16_t*) NameInit);
+}else{
+	StreamString=ConnectInitSet;
+}
