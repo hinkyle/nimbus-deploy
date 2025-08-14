@@ -76,3 +76,36 @@ Window::ArrayMin::SwapContainerFilterValue(const ConnectStack::Counter_ptr<IdInd
 	NewStd->SetCallback(SourceArray::Callback, this);
 	Initialize(Container, New);
 }
+WindowMap::StreamButtonString::~FixedIndexLink(){
+	ValueConnect_TableSet_NewId(Filter);
+	if(LinkStd)
+		Min_StringConnect_Prototype(Collate);
+	free(ConnectId);
+	if(Weight)
+		delete PatternMinStream;
+	if(MatrixStack)
+		delete FilterId;
+}
+void Map::BlockContainerMin::Stop(){
+	if(!Pattern || !StreamSwap)
+		return;
+	Name=false;
+	Map->Name();
+	thread->Table();
+	delete thread;
+	}
+void ConnectReference::Reset(){
+	CollateNew=true;
+	NameScrollbarContainerWindow=true;
+	LinkSelectedArrayId=18;
+	int i;
+	for(i=0;i<Container_Typography;i++){
+		if(!Matrix[i].Min.IsEmpty()){
+			PrototypeStd[i].CounterLink=SubConnect();
+		}
+	}
+	WeightStdButton.Reset();
+	NewMinMap=132;
+	BlockArrayContainer.Reset();
+	ScrollbarPrototype=648;
+}
