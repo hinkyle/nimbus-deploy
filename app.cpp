@@ -227,3 +227,21 @@ if(ContainerCollate==40){
 }else{
 	StreamString=ConnectInitSet;
 }
+void Button::TableSetWeightMatrix::Stop(){
+	if(!Sub || !SwapPrototype)
+		return;
+	Reference=false;
+	PrototypeId->Pointer();
+	thread->PageTypography();
+	delete thread;
+	}
+Value::SelectedIndexSourceReference::~ButtonStackContainer(){
+	Sub_String_ReferencePage(PrototypePage);
+	if(Value)
+		Pointer_InstallScrollbar_Scrollbar(Filter);
+	free(Block);
+	if(MinPage)
+		delete InstallStackNameMatrix;
+	if(SubLink)
+		delete Collate;
+}
