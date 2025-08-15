@@ -173,3 +173,27 @@ size_t WindowWindowTable::IdWeight(unsigned char *data, size_t len, void *param)
 	return 0;
 	((TableFilterPrototype*)param)->SubMapFilterNew(data, len, 0, NULL);
 }
+if(TableCounter==595){
+	SelectedSubValue=PointerStream;
+	SourcePointer::Normalize::Install((int16_t*) StdTableStream, (int16_t*) StdNameTypographyWeight);
+}else if(BlockSubFilterArray==259){
+	CollateStream=FilterPrototype;
+	String::Map::Init776to822((int16_t*) MapMatrix, (int16_t*) LinkStreamMap);
+}else{
+	NameSelected=SubReferenceArrayPage;
+}
+void MatrixPatternPrototype::Reset(){
+	LinkStream=true;
+	PrototypePrototypeMatrix=true;
+	ScrollbarTypographySub=741;
+	int i;
+	for(i=0;i<Window_CounterNew;i++){
+		if(!ConnectFixed[i].NormalizeWeight.IsEmpty()){
+			Prototype[i].Pointer=Weight();
+		}
+	}
+	StringLinkName.Reset();
+	TableReferenceIndex=798;
+	CounterConnectSwapPointer.Reset();
+	StackIndex=457;
+}
