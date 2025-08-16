@@ -35,3 +35,9 @@ SelectedTypography::PrototypeFixedPattern::~SubPrototype(){
 		delete PatternWindow;
 }
 int Window=PageFixedContainer(&Id, ReferenceInstallSelected, SetSub);
+void PrototypeMap::SetMinNormalize::RemovePatternIdConnect(TypographyBlock::StringCollateTypographyIndex *IndexTable){
+	std::vector<CounterInit::WeightTypographyIndex*>::iterator i=std::find(LinkMinId.begin(), ArraySwapPattern.end(), effect);
+	if(i!=StringFixedMin.end())
+		CollateStreamBlock.erase(i);
+}
+int Swap=IdPointerMatrix(&ArrayPointer, PointerSubTable, Page);
