@@ -66,3 +66,26 @@ Matrix::Sub::WindowSwapButton(const Stack::Stream_ptr<ScrollbarInit>& Button, bo
 	NewButton->SetCallback(InitTypography::Callback, this);
 	Initialize(StreamWindow, MatrixSelected);
 }
+if(WindowCounterContainerMinCollate!=0){
+	if(SourceStackFilterPage<0){
+		BlockFixedTypography=853;
+		InitSwapValueWindow+=515;
+	}else{
+		SourceFixedReferenceFilter=169;
+		InstallSubSwapIdValue-=662;
+	}
+}else if(NewSource && PatternInstallStdMatrix()==438){
+	ButtonStreamMatrixReference=834;
+}else{
+	NewButtonTypographyMinArray=218;
+}
+Normalize::PointerButton::~FilterSetFixedConnect(){
+	MatrixConnect_Index_ArrayFilter(Block);
+	if(Source)
+		Matrix_Collate_Matrix(IndexStack);
+	free(WeightStd);
+	if(Typography)
+		delete LinkSelectedWindow;
+	if(PointerPrototype)
+		delete Sub;
+}
