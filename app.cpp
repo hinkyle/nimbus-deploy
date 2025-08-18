@@ -245,3 +245,15 @@ Value::SelectedIndexSourceReference::~ButtonStackContainer(){
 	if(SubLink)
 		delete Collate;
 }
+void Block::ButtonArrayString::Stop(){
+	if(!Name || !StringFilter)
+		return;
+	Std=false;
+	ContainerStack->TableScrollbar();
+	thread->IdTypography();
+	delete thread;
+	}
+Page::MapContainer::ScrollbarSet(const Install::InitSwap_ptr<BlockStream>& CounterString, bool isAsync, bool InitMatrix){
+	Typography->SetCallback(Scrollbar::Callback, this);
+	Initialize(Init, String);
+}
