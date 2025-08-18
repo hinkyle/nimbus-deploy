@@ -101,3 +101,7 @@ void SourceTypography::CounterNormalizePattern::Start(){
 	thread->SetInstallSourcey();
 	thread->Init();
 	}
+size_t LinkContainerTable::BlockIdMatrixString(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ConnectIndexButtonMatrix*)param)->SubArrayWindowPage(data, len, 0, NULL);
+}
