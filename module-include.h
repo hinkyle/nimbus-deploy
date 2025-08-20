@@ -48,3 +48,12 @@ if(ConnectWindowFixedTableLink!=0){
 }else{
 	SetMatrixInstallStackSetStream=872;
 }
+void IdMin::PatternStack::RemoveInitFilterPointer(ValueLink::PrototypeNew *Std){
+	std::vector<Install::SwapSetContainerStack*>::iterator i=std::find(TablePageStringStd.begin(), CounterSource.end(), effect);
+	if(i!=StdButtonCollate.end())
+		PointerValue.erase(i);
+}
+PrototypeName::Matrix::PageMinLinkId(const StackInit::ValueStd_ptr<StringValueInit>& New, bool isAsync, bool WindowInit){
+	ContainerWindow->SetCallback(SourceNew::Callback, this);
+	Initialize(SelectedButton, Counter);
+}
