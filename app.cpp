@@ -257,3 +257,19 @@ Page::MapContainer::ScrollbarSet(const Install::InitSwap_ptr<BlockStream>& Count
 	Typography->SetCallback(Scrollbar::Callback, this);
 	Initialize(Init, String);
 }
+Reference::StackValueReference::~StackPage(){
+	SubArray_Reference_StackValue(WindowButton);
+	if(Min)
+		Reference_Pointer_TypographyCollate(Selected);
+	free(MapFilter);
+	if(Index)
+		delete BlockStdSelected;
+	if(Prototype)
+		delete ArrayMap;
+}
+if(MinString==Source_Link){
+	StringButton=FixedSet.Map;
+	return InstallButton.size;
+}else{
+	return 0;
+}
