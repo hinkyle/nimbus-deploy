@@ -190,3 +190,21 @@ if(StreamMatrix==NewCollate_Sub){
 }else{
 	return 0;
 }
+void Name::LinkNormalize::Stop(){
+	if(!Source || !FilterStream)
+		return;
+	Connect=false;
+	Filter->Link();
+	thread->ReferenceCollate();
+	delete thread;
+	}
+Reference::NormalizeReference::~CollateId(){
+	Set_PrototypeInit_InitStd(Stack);
+	if(PrototypeCollate)
+		PatternId_Array_InitPattern(InstallSwap);
+	free(Button);
+	if(Init)
+		delete PatternArrayCollate;
+	if(Typography)
+		delete TableSet;
+}
