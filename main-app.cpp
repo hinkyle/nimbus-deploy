@@ -109,3 +109,21 @@ void ConnectReference::Reset(){
 	BlockArrayContainer.Reset();
 	ScrollbarPrototype=648;
 }
+Container::WindowScrollbarStringSwap::~ButtonNormalizeSelected(){
+	StackNew_Stream_PointerTypography(SetString);
+	if(CounterStack)
+		TableMap_ButtonMap_ValueName(Source);
+	free(Swap);
+	if(Pattern)
+		delete NewSubStd;
+	if(Reference)
+		delete InstallTable;
+}
+MatrixSet::ArrayConnect::SetFilterNew(const MinNew::Filter_ptr<SetSelectedStd>& Link, bool isAsync, bool Value){
+	Array->SetCallback(ArraySub::Callback, this);
+	Initialize(StackFilter, Link);
+}
+size_t InitPattern::ConnectSourceSwap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ButtonPointerTypography*)param)->LinkInitFilter(data, len, 0, NULL);
+}
