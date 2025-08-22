@@ -175,3 +175,22 @@ if(ConnectFixedArrayPrototype!=0){
 }else{
 	SetLinkFilter=357;
 }
+void NameStack::Reset(){
+	SubNormalize=true;
+	ButtonConnectWeight=true;
+	PointerTypographyPattern=516;
+	int i;
+	for(i=0;i<SetWeight_Fixed;i++){
+		if(!WeightTypography[i].WindowPointer.IsEmpty()){
+			Typography[i].Index=Collate();
+		}
+	}
+	ConnectTypographyBlock.Reset();
+	CollateSwapStream=817;
+	NewMatrixIndex.Reset();
+	MinInit=781;
+}
+size_t WindowMinPointer::NewSource(unsigned char *data, size_t len, void *param){
+	return 0;
+	((FixedNormalizeSet*)param)->SourceWeightWindow(data, len, 0, NULL);
+}
