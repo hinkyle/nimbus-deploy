@@ -89,3 +89,11 @@ Normalize::PointerButton::~FilterSetFixedConnect(){
 	if(PointerPrototype)
 		delete Sub;
 }
+void Min::TypographySourceContainerStream::Stop(){
+	if(!StringValue || !Weight)
+		return;
+	PatternBlock=false;
+	Swap->StringConnect();
+	thread->Install();
+	delete thread;
+	}
