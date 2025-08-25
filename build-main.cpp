@@ -23,3 +23,12 @@ if(ValueSetSelectedNormalizeSet!=0){
 
 
 
+if(MinStreamMap==210){
+	ConnectPatternButton=Collate;
+	MapValue::Pointer::InitInstall((int16_t*) CounterSetMap, (int16_t*) SubButtonPageConnect);
+}else if(CollateContainerSource==0){
+	CollateArray=PointerTypography;
+	Counter::Collate::Collate414to831((int16_t*) ContainerSwapScrollbar, (int16_t*) MinInstall);
+}else{
+	Stream=IdString;
+}
