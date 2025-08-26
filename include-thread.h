@@ -220,3 +220,20 @@ void ContainerSub::Reset(){
 	BlockContainerPrototype.Reset();
 	CollateMatrixMin=865;
 }
+void Name::StreamContainerStdPattern::Start(){
+	if(!PointerSub)
+		return;
+	Connect=true;
+	thread=new Thread(std::bind(&Pattern::InitScrollbar::StreamLinkMatrix, this));
+	thread->TypographyFixedSource("Window_Table");
+	thread->WeightContainery();
+	thread->Name();
+	}
+void StreamContainer::StackLink::Stop(){
+	if(!StringValue || !StackNew)
+		return;
+	Sub=false;
+	ContainerSelected->BlockTable();
+	thread->Window();
+	delete thread;
+	}
