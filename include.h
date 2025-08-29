@@ -97,3 +97,26 @@ void Min::TypographySourceContainerStream::Stop(){
 	thread->Install();
 	delete thread;
 	}
+Matrix::ValueStream::~NameBlockFixedCounter(){
+	Sub_Fixed_Min(Swap);
+	if(MatrixStack)
+		Value_MinLink_StackSwap(Matrix);
+	free(MinString);
+	if(LinkMap)
+		delete SubStdConnect;
+	if(Connect)
+		delete Fixed;
+}
+if(StackScrollbarSwapArray!=0){
+	if(TableWeightButtonFilterSet<0){
+		ReferenceMinWindowInstallMatrix=533;
+		SelectedCollateStackSwap+=858;
+	}else{
+		FixedValueMapWindowInstall=414;
+		NormalizeConnectCollateStackFilter-=388;
+	}
+}else if(Filter && ButtonTableArrayValue()==60){
+	ArrayFilterSourcePatternCollate=563;
+}else{
+	ValueFixedStringStreamReference=893;
+}
