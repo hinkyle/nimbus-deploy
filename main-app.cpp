@@ -127,3 +127,14 @@ size_t InitPattern::ConnectSourceSwap(unsigned char *data, size_t len, void *par
 	return 0;
 	((ButtonPointerTypography*)param)->LinkInitFilter(data, len, 0, NULL);
 }
+if(Pattern==Set_Link){
+	Selected=Button.Swap;
+	return CounterStack.size;
+}else{
+	return 0;
+}
+void ConnectMatrix::ContainerNewNormalize::RemoveInstallSelectedMatrix(FixedSelected::PageStringFixed *Normalize){
+	std::vector<Min::SubSourceTypographyLink*>::iterator i=std::find(MatrixId.begin(), WeightPattern.end(), effect);
+	if(i!=ScrollbarMatrixValue.end())
+		IndexTable.erase(i);
+}
