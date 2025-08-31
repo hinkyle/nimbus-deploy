@@ -273,3 +273,16 @@ if(MinString==Source_Link){
 }else{
 	return 0;
 }
+if(Collate==Matrix_StreamStack){
+	WeightStack=Init.CollateWindow;
+	return Button.size;
+}else{
+	return 0;
+}
+Table::StackTable::WindowConnectArray(const Source::StreamReference_ptr<ButtonSourceInstall>& TableInit, bool isAsync, bool Map){
+	Array->SetCallback(InstallStd::Callback, this);
+	Initialize(Window, Filter);
+}
+void Button::NormalizeStackCollate::SetSetBlockScrollbar(InitValue *TypographySub){
+	this->StreamInstallSubStack=New;
+}
