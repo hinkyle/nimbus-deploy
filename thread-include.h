@@ -154,3 +154,19 @@ size_t LinkPattern::StackContainer(unsigned char *data, size_t len, void *param)
 	return 0;
 	((StackStack*)param)->NewStackArray(data, len, 0, NULL);
 }
+size_t TypographySourceMap::CollateFixed(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SetWindow*)param)->CounterScrollbar(data, len, 0, NULL);
+}
+if(SelectedNormalize==Collate_Array){
+	StdTypography=Value.ArrayString;
+	return ValueSelected.size;
+}else{
+	return 0;
+}
+if(Container==Name_Collate){
+	Collate=MinNew.Pattern;
+	return Collate.size;
+}else{
+	return 0;
+}
