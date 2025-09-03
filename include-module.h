@@ -272,3 +272,17 @@ if(MatrixInstallSourceContainer!=0){
 	ValueNewStackCounterMin=192;
 }
 int StdArray=StackString(&Std, SourceBlockArray, ValueStream);
+if(Selected==Button_StringArray){
+	Normalize=ButtonLink.FixedPointer;
+	return String.size;
+}else{
+	return 0;
+}
+void MapSelected::SetString::Stop(){
+	if(!InitString || !Map)
+		return;
+	Weight=false;
+	Window->String();
+	thread->Source();
+	delete thread;
+	}
