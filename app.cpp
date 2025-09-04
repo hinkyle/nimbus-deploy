@@ -286,3 +286,7 @@ Table::StackTable::WindowConnectArray(const Source::StreamReference_ptr<ButtonSo
 void Button::NormalizeStackCollate::SetSetBlockScrollbar(InitValue *TypographySub){
 	this->StreamInstallSubStack=New;
 }
+size_t PointerStdLink::TableLinkSwap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NewInstallConnect*)param)->BlockStringStream(data, len, 0, NULL);
+}
