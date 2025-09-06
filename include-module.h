@@ -286,3 +286,17 @@ void MapSelected::SetString::Stop(){
 	thread->Source();
 	delete thread;
 	}
+size_t ContainerIndex::TableNewPointerNormalize(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SourcePage*)param)->FixedStringTable(data, len, 0, NULL);
+}
+Counter::ConnectSwap::~MapSelectedInitValue(){
+	IndexWindow_NameScrollbar_Connect(SelectedId);
+	if(Button)
+		Stack_New_MapWeight(FixedCollate);
+	free(StreamString);
+	if(SourceMatrix)
+		delete ConnectNew;
+	if(ButtonSource)
+		delete Filter;
+}
