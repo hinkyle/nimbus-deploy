@@ -237,3 +237,21 @@ void StreamContainer::StackLink::Stop(){
 	thread->Window();
 	delete thread;
 	}
+WindowTypography::LinkBlock::~ButtonMatrixSwapBlock(){
+	Container_PrototypeNew_ValueButton(Matrix);
+	if(Scrollbar)
+		IndexSub_TypographyReference_ScrollbarArray(Fixed);
+	free(Connect);
+	if(StreamPointer)
+		delete WeightPage;
+	if(SwapMap)
+		delete Stream;
+}
+void Container::ButtonContainerPrototype::Stop(){
+	if(!Install || !FixedArray)
+		return;
+	IndexPage=false;
+	CounterScrollbar->StackFilter();
+	thread->ButtonPrototype();
+	delete thread;
+	}
