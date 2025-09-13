@@ -107,3 +107,8 @@ if(PointerCollateMatrixFixedIndexTable!=0){
 void Value::ContainerMinSwap::SetArrayButtonSource(NewSwapStd *CounterFilter){
 	this->SourcePrototypeReferenceStream=SubSwap;
 }
+size_t ArrayMin::FixedCollate(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ScrollbarContainerWindow*)param)->IdPage(data, len, 0, NULL);
+}
+int Id=ConnectSwapInit(&SetStack, TableSwap, Sub);
