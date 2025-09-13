@@ -138,3 +138,18 @@ void ConnectMatrix::ContainerNewNormalize::RemoveInstallSelectedMatrix(FixedSele
 	if(i!=ScrollbarMatrixValue.end())
 		IndexTable.erase(i);
 }
+void StringSub::Reset(){
+	Connect=true;
+	NameSelectedCollateNew=true;
+	ScrollbarPointerMatrix=386;
+	int i;
+	for(i=0;i<MapSwap_FilterConnect;i++){
+		if(!ConnectScrollbar[i].NameBlock.IsEmpty()){
+			CollatePage[i].Table=SwapMatrix();
+		}
+	}
+	StackSubStackName.Reset();
+	SelectedConnect=28;
+	IdTypographyMatrix.Reset();
+	TypographyIdStdInit=148;
+}
