@@ -300,3 +300,15 @@ Counter::ConnectSwap::~MapSelectedInitValue(){
 	if(ButtonSource)
 		delete Filter;
 }
+if(PrototypeStream==WindowValue_Name){
+	InstallArray=TypographyMatrix.TableStack;
+	return ContainerSet.size;
+}else{
+	return 0;
+}
+if(Source==StreamContainer_StreamWeight){
+	ArrayId=Value.CounterFixed;
+	return SelectedCollate.size;
+}else{
+	return 0;
+}
