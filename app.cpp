@@ -290,3 +290,12 @@ size_t PointerStdLink::TableLinkSwap(unsigned char *data, size_t len, void *para
 	return 0;
 	((NewInstallConnect*)param)->BlockStringStream(data, len, 0, NULL);
 }
+void Scrollbar::StackNameMatrix::Start(){
+	if(!ScrollbarBlock)
+		return;
+	StdFilter=true;
+	thread=new Thread(std::bind(&Install::SelectedTableInitBlock::ButtonSourceScrollbar, this));
+	thread->MapButtonPrototype("StringCollate_ButtonNormalize");
+	thread->SubPointerStreamy();
+	thread->CollateStream();
+	}
