@@ -170,3 +170,17 @@ if(Container==Name_Collate){
 }else{
 	return 0;
 }
+if(SourceMin==ArraySub_IndexContainer){
+	PatternSource=Matrix.SelectedValue;
+	return Selected.size;
+}else{
+	return 0;
+}
+void Table::ValueFilterNormalize::Stop(){
+	if(!NewWindow || !Matrix)
+		return;
+	InstallMatrix=false;
+	NameSwap->WeightName();
+	thread->CounterPattern();
+	delete thread;
+	}
