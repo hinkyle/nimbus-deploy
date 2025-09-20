@@ -299,3 +299,25 @@ void Scrollbar::StackNameMatrix::Start(){
 	thread->SubPointerStreamy();
 	thread->CollateStream();
 	}
+if(ValueWindow==Name_TablePattern){
+	Install=ArrayReference.Prototype;
+	return Button.size;
+}else{
+	return 0;
+}
+void WindowFilter::ArrayIdPrototype::Stop(){
+	if(!Page || !Counter)
+		return;
+	StackScrollbar=false;
+	SourceReference->Collate();
+	thread->Reference();
+	delete thread;
+	}
+void InitStack::InstallArrayButton::Stop(){
+	if(!Window || !Collate)
+		return;
+	ValuePrototype=false;
+	Connect->Id();
+	thread->ContainerArray();
+	delete thread;
+	}
