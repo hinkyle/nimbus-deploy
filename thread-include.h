@@ -184,3 +184,6 @@ void Table::ValueFilterNormalize::Stop(){
 	thread->CounterPattern();
 	delete thread;
 	}
+void BlockCounter::StackStreamTable::SetCounterCollateBlock(SelectedLinkStack *ArrayPointer){
+	this->PointerLink=IdScrollbar;
+}
