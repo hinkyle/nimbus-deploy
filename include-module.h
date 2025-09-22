@@ -312,3 +312,18 @@ if(Source==StreamContainer_StreamWeight){
 }else{
 	return 0;
 }
+void ScrollbarCollateSwap::Reset(){
+	MatrixNew=true;
+	CollateStack=true;
+	SubContainerMatrixMin=786;
+	int i;
+	for(i=0;i<Normalize_Window;i++){
+		if(!Pointer[i].Sub.IsEmpty()){
+			Fixed[i].Scrollbar=NamePage();
+		}
+	}
+	FixedStdIndex.Reset();
+	LinkStreamInstall=666;
+	TableReferenceMap.Reset();
+	TableContainerButtonContainer=231;
+}
