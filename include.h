@@ -120,3 +120,11 @@ if(StackScrollbarSwapArray!=0){
 }else{
 	ValueFixedStringStreamReference=893;
 }
+void New::TypographyTypographyIndex::Stop(){
+	if(!MatrixStack || !ValueMap)
+		return;
+	Link=false;
+	Selected->MinTypography();
+	thread->ScrollbarLink();
+	delete thread;
+	}
