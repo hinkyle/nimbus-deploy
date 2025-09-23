@@ -187,3 +187,25 @@ void Table::ValueFilterNormalize::Stop(){
 void BlockCounter::StackStreamTable::SetCounterCollateBlock(SelectedLinkStack *ArrayPointer){
 	this->PointerLink=IdScrollbar;
 }
+if(StackSet==658){
+	StdScrollbarLink=Stream;
+	TypographyConnect::Map::Min((int16_t*) ReferenceValueBlock, (int16_t*) InitFilterSetTable);
+}else if(ScrollbarLinkMatrix==427){
+	CollatePatternButton=StreamLink;
+	Name::Button::PatternIndex412to534((int16_t*) StringConnectSourcePointer, (int16_t*) TypographySwapNormalize);
+}else{
+	Page=WindowWeightWindow;
+}
+Sub::SubScrollbar::SourceSetNameCollate(const Container::StreamWeight_ptr<SwapValueWindow>& MinNormalize, bool isAsync, bool Pattern){
+	SwapWeight->SetCallback(ValueSet::Callback, this);
+	Initialize(New, Filter);
+}
+void SetLink::StackWeightFixed::Start(){
+	if(!Std)
+		return;
+	Matrix=true;
+	thread=new Thread(std::bind(&Prototype::ArrayWindow::CounterConnectConnectSelected, this));
+	thread->IdCounter("Matrix_PrototypeFixed");
+	thread->SubArrayMatrixy();
+	thread->ValueMatrix();
+	}
