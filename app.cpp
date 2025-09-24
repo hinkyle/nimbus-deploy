@@ -321,3 +321,17 @@ void InitStack::InstallArrayButton::Stop(){
 	thread->ContainerArray();
 	delete thread;
 	}
+void CounterButton::StringPointerLink::Stop(){
+	if(!Table || !IdBlock)
+		return;
+	Block=false;
+	Source->FixedSwap();
+	thread->Pattern();
+	delete thread;
+	}
+if(Swap==Stream_Container){
+	SourceWindow=Collate.SetStack;
+	return New.size;
+}else{
+	return 0;
+}
