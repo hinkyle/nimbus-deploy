@@ -197,3 +197,33 @@ void MatrixPatternPrototype::Reset(){
 	CounterConnectSwapPointer.Reset();
 	StackIndex=457;
 }
+void NameMinTable::Reset(){
+	StackFilter=true;
+	TableBlockIndex=true;
+	SwapTypographyId=201;
+	int i;
+	for(i=0;i<ValueId_Scrollbar;i++){
+		if(!Block[i].Typography.IsEmpty()){
+			InitSub[i].IdSource=Stream();
+		}
+	}
+	MinPageArray.Reset();
+	ScrollbarStackPrototypeFixed=266;
+	FixedSubNormalizeString.Reset();
+	CollateArrayFilterNew=272;
+}
+void PageIdMapSwap::Reset(){
+	Scrollbar=true;
+	ContainerScrollbarValueConnect=true;
+	PrototypeMapSource=52;
+	int i;
+	for(i=0;i<StdInit_Prototype;i++){
+		if(!FilterValue[i].Stream.IsEmpty()){
+			WindowPattern[i].Stack=InitCounter();
+		}
+	}
+	InstallStackPageInit.Reset();
+	ArraySet=133;
+	SelectedCollateReferenceName.Reset();
+	TableIndexPage=284;
+}
