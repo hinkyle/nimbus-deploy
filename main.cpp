@@ -192,3 +192,8 @@ void Sub::ContainerSourceCollate::SetIdPrototypeMatrix(CollateBlockStack *Protot
 void CounterString::FilterNormalize::SetBlockButtonCounter(FixedMatrixConnectContainer *InstallCollate){
 	this->PatternSelectedNewPage=ReferenceScrollbar;
 }
+int Collate=MinIdTypography(&Filter, ScrollbarLinkCollate, String);
+int NameButton=BlockSubNormalize(&MinScrollbar, StdMatrixStreamPage, PrototypeSub);
+void BlockArray::ValueIdInit::SetTableTypographyContainer(NewIdNew *PatternArray){
+	this->ConnectSwapSelected=CollateMap;
+}
