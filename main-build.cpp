@@ -41,3 +41,32 @@ void PrototypeMap::SetMinNormalize::RemovePatternIdConnect(TypographyBlock::Stri
 		CollateStreamBlock.erase(i);
 }
 int Swap=IdPointerMatrix(&ArrayPointer, PointerSubTable, Page);
+SubArray::PatternTypographyMin::~PatternString(){
+	InstallNew_String_NormalizeMin(Sub);
+	if(ScrollbarInstall)
+		NameLink_StackTypography_Install(InstallContainer);
+	free(ScrollbarTable);
+	if(Std)
+		delete StringPatternReference;
+	if(Index)
+		delete Matrix;
+}
+void SelectedPrototype::Reset(){
+	ContainerString=true;
+	StackNormalizeSwap=true;
+	SelectedSubFilterCounter=300;
+	int i;
+	for(i=0;i<StackWeight_ValueSub;i++){
+		if(!Filter[i].String.IsEmpty()){
+			SubString[i].Std=Min();
+		}
+	}
+	WindowStreamCollate.Reset();
+	TypographyButton=122;
+	WindowScrollbarSub.Reset();
+	IdNameSub=672;
+}
+size_t SwapPrototype::ArrayMapSelected(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NewArrayWindow*)param)->CollateBlockStream(data, len, 0, NULL);
+}
