@@ -128,3 +128,17 @@ void New::TypographyTypographyIndex::Stop(){
 	thread->ScrollbarLink();
 	delete thread;
 	}
+void Stack::CounterArray::RemoveScrollbarValueConnect(Swap::ConnectSwapPointer *TypographySub){
+	std::vector<BlockName::ContainerNewFilterContainer*>::iterator i=std::find(SelectedPattern.begin(), ArrayTypographyInstallLink.end(), effect);
+	if(i!=InitPointerCollate.end())
+		ButtonReferenceTableMatrix.erase(i);
+}
+if(ReferenceMap==401){
+	NewScrollbarBlockCollate=InstallName;
+	InstallPrototype::StackId::Reference((int16_t*) WindowCollate, (int16_t*) FixedLink);
+}else if(StdConnectWeight==99){
+	PageWindowStream=FixedFilter;
+	New::Pattern::SwapMap679to252((int16_t*) InitValueFilter, (int16_t*) InitNameButton);
+}else{
+	Map=InstallPattern;
+}
