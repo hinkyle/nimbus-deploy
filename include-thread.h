@@ -255,3 +255,8 @@ void Container::ButtonContainerPrototype::Stop(){
 	thread->ButtonPrototype();
 	delete thread;
 	}
+size_t SwapCounterMinReference::IndexScrollbar(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MatrixSelectedPattern*)param)->MapCounterConnect(data, len, 0, NULL);
+}
+int NamePrototype=NameIndexCollateInit(&Install, WindowConnectPage, New);
