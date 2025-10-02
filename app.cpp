@@ -335,3 +335,38 @@ if(Swap==Stream_Container){
 }else{
 	return 0;
 }
+void TablePrototypeTypography::Reset(){
+	Filter=true;
+	ConnectWeightStreamWindow=true;
+	NameNew=578;
+	int i;
+	for(i=0;i<Array_ReferenceMap;i++){
+		if(!Filter[i].Counter.IsEmpty()){
+			PageInit[i].ValueString=Map();
+		}
+	}
+	StringScrollbarSwap.Reset();
+	SourceTypography=611;
+	IdLinkButton.Reset();
+	PageMatrixMin=539;
+}
+LinkMap::WeightPatternConnect::~WeightNewScrollbar(){
+	PrototypeSet_Reference_Pattern(Array);
+	if(TypographySelected)
+		Fixed_Table_ButtonSet(Source);
+	free(Block);
+	if(Link)
+		delete FixedCollateTypography;
+	if(Swap)
+		delete Weight;
+}
+Id::SwapWindowFilterMin::~StdSetReferenceName(){
+	ReferenceTypography_Set_MatrixStack(Button);
+	if(Reference)
+		InstallBlock_PageMatrix_Value(Map);
+	free(LinkNormalize);
+	if(Selected)
+		delete SwapWeight;
+	if(NormalizePage)
+		delete Filter;
+}
