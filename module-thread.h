@@ -76,3 +76,17 @@ void Matrix::SourceFilterCollate::Stop(){
 	thread->Matrix();
 	delete thread;
 	}
+size_t NewSourceReference::PatternName(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ReferencePattern*)param)->CollateSubMap(data, len, 0, NULL);
+}
+CounterId::StdString::~BlockCollateSet(){
+	FilterValue_Map_Id(Source);
+	if(ConnectSub)
+		Stack_InitConnect_FilterBlock(Window);
+	free(CounterTable);
+	if(String)
+		delete CollateMapPointer;
+	if(Stream)
+		delete Sub;
+}
