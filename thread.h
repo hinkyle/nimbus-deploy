@@ -118,3 +118,13 @@ if(Matrix==BlockFilter_Selected){
 }else{
 	return 0;
 }
+Block::ConnectReference::~BlockContainerWeightCounter(){
+	NewFixed_ValueWeight_Pointer(SelectedFixed);
+	if(IdStd)
+		TypographyConnect_Min_Prototype(Stack);
+	free(Init);
+	if(Name)
+		delete PatternPage;
+	if(StackFilter)
+		delete MapButton;
+}
