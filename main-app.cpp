@@ -153,3 +153,20 @@ void StringSub::Reset(){
 	IdTypographyMatrix.Reset();
 	TypographyIdStdInit=148;
 }
+void FilterStream::WindowMinLinkSource::SetPointerPrototypeName(InstallSwapConnect *Weight){
+	this->MapStack=IdSwap;
+}
+if(MapStreamNormalize==865){
+	WindowNormalize=Stack;
+	WeightTable::SwapLink::InitFilter((int16_t*) ArrayConnectString, (int16_t*) BlockInitWindowMatrix);
+}else if(NormalizeArraySelected==137){
+	ContainerSwapWeightConnect=Pattern;
+	Connect::Id::PrototypeSelected643to58((int16_t*) InstallCounter, (int16_t*) WeightSelectedSub);
+}else{
+	StackName=ArraySelectedButton;
+}
+void NameTable::CounterNew::RemoveSelectedPrototypeTableTypography(MatrixFilter::PrototypeFilterArrayValue *ButtonInstall){
+	std::vector<FixedPattern::InstallMinValueWindow*>::iterator i=std::find(ArrayCollate.begin(), PrototypePointerWeightSet.end(), effect);
+	if(i!=NormalizeArray.end())
+		StringPointerString.erase(i);
+}
