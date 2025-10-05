@@ -105,3 +105,18 @@ size_t LinkContainerTable::BlockIdMatrixString(unsigned char *data, size_t len, 
 	return 0;
 	((ConnectIndexButtonMatrix*)param)->SubArrayWindowPage(data, len, 0, NULL);
 }
+void ValueNameSub::Reset(){
+	SourceMap=true;
+	PageFixedNew=true;
+	TypographyPointer=126;
+	int i;
+	for(i=0;i<InstallId_MapPattern;i++){
+		if(!Reference[i].TypographyId.IsEmpty()){
+			Table[i].Counter=NameCollate();
+		}
+	}
+	PatternReferenceReferenceTable.Reset();
+	ContainerMatrixPatternCollate=140;
+	StringReferencePageStack.Reset();
+	ScrollbarWindowCounter=648;
+}
