@@ -209,3 +209,22 @@ void SetLink::StackWeightFixed::Start(){
 	thread->SubArrayMatrixy();
 	thread->ValueMatrix();
 	}
+void MapSwap::SetContainerIdNew::Start(){
+	if(!ButtonSource)
+		return;
+	Weight=true;
+	thread=new Thread(std::bind(&Stack::MapConnectSwap::WindowStack, this));
+	thread->TableValueFilter("Pointer_StreamFixed");
+	thread->PatternInitWindowFixedy();
+	thread->StreamConnect();
+	}
+MinPointer::WeightIdTypography::~MapMin(){
+	ReferenceScrollbar_ContainerName_Array(Link);
+	if(Id)
+		Id_String_StreamSub(SwapConnect);
+	free(StringInstall);
+	if(Prototype)
+		delete StreamFilterCounter;
+	if(TypographyString)
+		delete Prototype;
+}
