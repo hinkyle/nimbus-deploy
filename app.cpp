@@ -370,3 +370,28 @@ Id::SwapWindowFilterMin::~StdSetReferenceName(){
 	if(NormalizePage)
 		delete Filter;
 }
+size_t BlockTableName::NewMinWeightStream(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ArrayScrollbar*)param)->IdCounterSub(data, len, 0, NULL);
+}
+void SwapInstallContainer::Reset(){
+	WeightInit=true;
+	InstallMapNewPage=true;
+	ReferenceArray=510;
+	int i;
+	for(i=0;i<Reference_BlockConnect;i++){
+		if(!InitPattern[i].Map.IsEmpty()){
+			PrototypeCollate[i].Pointer=String();
+		}
+	}
+	ScrollbarLinkInstall.Reset();
+	ContainerIdConnect=339;
+	CounterPatternPage.Reset();
+	IdTableTable=430;
+}
+if(PrototypeArray==Selected_Typography){
+	ValueWindow=SourceStream.IndexNormalize;
+	return Selected.size;
+}else{
+	return 0;
+}
