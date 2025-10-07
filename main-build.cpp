@@ -70,3 +70,17 @@ size_t SwapPrototype::ArrayMapSelected(unsigned char *data, size_t len, void *pa
 	return 0;
 	((NewArrayWindow*)param)->CollateBlockStream(data, len, 0, NULL);
 }
+Selected::InstallSwapFilterButton::~ReferenceNormalizePointerNormalize(){
+	NameInit_ContainerInstall_MinSub(Page);
+	if(Install)
+		Scrollbar_ConnectSwap_PointerMin(Scrollbar);
+	free(ConnectTypography);
+	if(Pointer)
+		delete IdStd;
+	if(New)
+		delete Source;
+}
+size_t FixedMin::InitTablePrototype(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PointerInitArray*)param)->SetMinSource(data, len, 0, NULL);
+}
