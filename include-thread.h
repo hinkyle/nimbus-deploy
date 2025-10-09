@@ -260,3 +260,17 @@ size_t SwapCounterMinReference::IndexScrollbar(unsigned char *data, size_t len, 
 	((MatrixSelectedPattern*)param)->MapCounterConnect(data, len, 0, NULL);
 }
 int NamePrototype=NameIndexCollateInit(&Install, WindowConnectPage, New);
+if(NewTypography==Scrollbar_TypographyMatrix){
+	StackLink=Swap.Map;
+	return Swap.size;
+}else{
+	return 0;
+}
+void Init::TableSetConnect::Stop(){
+	if(!Index || !Set)
+		return;
+	Selected=false;
+	Scrollbar->New();
+	thread->MapArray();
+	delete thread;
+	}
