@@ -274,3 +274,23 @@ void Init::TableSetConnect::Stop(){
 	thread->MapArray();
 	delete thread;
 	}
+WindowBlock::ReferenceContainerNew::~ScrollbarMin(){
+	Counter_Link_Swap(CounterName);
+	if(StackFilter)
+		TableMap_Container_CollateNew(StackPage);
+	free(Filter);
+	if(SourceInit)
+		delete FilterSwapContainer;
+	if(Connect)
+		delete SourceMatrix;
+}
+if(NormalizeLink==Value_Prototype){
+	InstallSub=IdInit.Index;
+	return Source.size;
+}else{
+	return 0;
+}
+size_t SwapIndexStdSource::SwapMatrixStackReference(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SelectedId*)param)->IdSub(data, len, 0, NULL);
+}
