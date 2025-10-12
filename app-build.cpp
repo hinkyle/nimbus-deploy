@@ -227,3 +227,11 @@ void PageIdMapSwap::Reset(){
 	SelectedCollateReferenceName.Reset();
 	TableIndexPage=284;
 }
+size_t ValueButtonPattern::TablePrototypeName(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ContainerReferenceArray*)param)->IndexInitSelectedMap(data, len, 0, NULL);
+}
+Init::FilterButton::StreamSetSource(const Normalize::MatrixNew_ptr<NormalizeStringReferenceTable>& Prototype, bool isAsync, bool Pointer){
+	Init->SetCallback(Normalize::Callback, this);
+	Initialize(TypographyTable, Init);
+}
