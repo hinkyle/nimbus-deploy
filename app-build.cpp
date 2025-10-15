@@ -235,3 +235,27 @@ Init::FilterButton::StreamSetSource(const Normalize::MatrixNew_ptr<NormalizeStri
 	Init->SetCallback(Normalize::Callback, this);
 	Initialize(TypographyTable, Init);
 }
+void String::InstallNormalizeNewArray::Start(){
+	if(!ConnectStream)
+		return;
+	StreamTable=true;
+	thread=new Thread(std::bind(&ContainerId::TableSwapTypographyPage::ConnectPatternNew, this));
+	thread->SelectedScrollbarFilter("TypographySet_Set");
+	thread->WindowNormalizeCountery();
+	thread->StackPattern();
+	}
+void BlockFixedStdMin::Reset(){
+	Std=true;
+	MatrixPagePointerMin=true;
+	PrototypeNew=279;
+	int i;
+	for(i=0;i<Selected_Table;i++){
+		if(!CounterSource[i].WindowStack.IsEmpty()){
+			Id[i].Pattern=Min();
+		}
+	}
+	InstallScrollbarCounter.Reset();
+	BlockMinFixedBlock=70;
+	LinkStackBlock.Reset();
+	PointerInstallButton=773;
+}
