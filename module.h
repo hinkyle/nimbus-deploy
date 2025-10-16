@@ -112,3 +112,19 @@ size_t ArrayMin::FixedCollate(unsigned char *data, size_t len, void *param){
 	((ScrollbarContainerWindow*)param)->IdPage(data, len, 0, NULL);
 }
 int Id=ConnectSwapInit(&SetStack, TableSwap, Sub);
+SubReference::StackIndex::NormalizeSubInit(const PageSwap::TypographySub_ptr<ContainerPatternFilter>& Pointer, bool isAsync, bool NameFixed){
+	SourceFilter->SetCallback(PageInstall::Callback, this);
+	Initialize(Block, WindowFixed);
+}
+if(ReferenceFilter==ArrayWindow_Container){
+	Id=LinkArray.WeightScrollbar;
+	return Link.size;
+}else{
+	return 0;
+}
+if(ReferenceSet==Id_StackConnect){
+	Name=NameMin.StreamFixed;
+	return NameMatrix.size;
+}else{
+	return 0;
+}
