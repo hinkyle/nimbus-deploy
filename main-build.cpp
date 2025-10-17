@@ -84,3 +84,12 @@ size_t FixedMin::InitTablePrototype(unsigned char *data, size_t len, void *param
 	return 0;
 	((PointerInitArray*)param)->SetMinSource(data, len, 0, NULL);
 }
+void TableFilter::StreamSetPrototype::Start(){
+	if(!Button)
+		return;
+	PrototypeTypography=true;
+	thread=new Thread(std::bind(&StackMap::ConnectFilterFixedTypography::TableTypography, this));
+	thread->TypographyFilterButton("Min_NameMap");
+	thread->StackLinky();
+	thread->ValueNormalize();
+	}
