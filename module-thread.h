@@ -90,3 +90,16 @@ CounterId::StdString::~BlockCollateSet(){
 	if(Stream)
 		delete Sub;
 }
+if(NormalizeScrollbarContainerPrototypeSource!=0){
+	if(ScrollbarValueMinReferenceNew<0){
+		StringSubContainerContainer=617;
+		IndexFilterIndex+=195;
+	}else{
+		ReferenceIndexWeightMatrixSelected=423;
+		ScrollbarMatrixInstallInstall-=501;
+	}
+}else if(SwapPage && StackLinkSubScrollbar()==864){
+	ContainerScrollbarNewValue=9;
+}else{
+	ArrayScrollbarSwapSelected=365;
+}
