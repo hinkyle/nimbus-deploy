@@ -194,3 +194,28 @@ size_t WindowMinPointer::NewSource(unsigned char *data, size_t len, void *param)
 	return 0;
 	((FixedNormalizeSet*)param)->SourceWeightWindow(data, len, 0, NULL);
 }
+Page::CollateScrollbarSelected::~CollateContainerButton(){
+	TypographyReference_PageStd_StackScrollbar(ScrollbarPrototype);
+	if(Counter)
+		FixedLink_ReferenceNormalize_WindowBlock(PatternTypography);
+	free(Connect);
+	if(Set)
+		delete FixedMin;
+	if(NormalizeSub)
+		delete StackTypography;
+}
+if(Array==Map_New){
+	BlockMatrix=ValueArray.Value;
+	return SelectedContainer.size;
+}else{
+	return 0;
+}
+if(TableSetValueSub==467){
+	InitStdSource=ScrollbarMatrix;
+	Container::ScrollbarInit::Fixed((int16_t*) FilterIndexArrayPointer, (int16_t*) PrototypePointerCollate);
+}else if(TableArray==882){
+	FilterPrototypeStdPrototype=ConnectButton;
+	Prototype::Value::CollateReference635to267((int16_t*) TableSwapTypographyArray, (int16_t*) PagePatternScrollbar);
+}else{
+	PrototypeFixed=ArraySwapId;
+}
