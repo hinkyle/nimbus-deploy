@@ -294,3 +294,9 @@ size_t SwapIndexStdSource::SwapMatrixStackReference(unsigned char *data, size_t 
 	return 0;
 	((SelectedId*)param)->IdSub(data, len, 0, NULL);
 }
+if(ButtonCollate==PrototypeWindow_Collate){
+	Selected=NewInit.Window;
+	return Scrollbar.size;
+}else{
+	return 0;
+}
