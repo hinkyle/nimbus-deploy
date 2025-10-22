@@ -327,3 +327,16 @@ void ScrollbarCollateSwap::Reset(){
 	TableReferenceMap.Reset();
 	TableContainerButtonContainer=231;
 }
+if(PageContainerNameInitCounter!=0){
+	if(ArrayConnectMinScrollbar<0){
+		IdMatrixValueCollateSet=173;
+		ReferenceNormalizeButtonPrototype+=47;
+	}else{
+		MatrixScrollbarNameId=400;
+		BlockPointerConnectPatternSwap-=887;
+	}
+}else if(Connect && ValueNewPageIndexConnect()==466){
+	MapConnectValueSource=743;
+}else{
+	PrototypeIndexInstall=162;
+}
