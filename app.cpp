@@ -19,3 +19,30 @@ void StreamId::CounterMatrixTable::Start(){
 
 
 
+void String::ValueReferenceIdFilter::Start(){
+	if(!ContainerReference)
+		return;
+	Selected=true;
+	thread=new Thread(std::bind(&Id::MinNewBlock::SelectedInstallPageMatrix, this));
+	thread->StreamTypographyNormalize("StdSource_Fixed");
+	thread->StreamButtony();
+	thread->Init();
+	}
+void MinConnect::NameTableWeight::Start(){
+	if(!MapSwap)
+		return;
+	Value=true;
+	thread=new Thread(std::bind(&WindowButton::PrototypeTypographyReference::CounterReferenceButton, this));
+	thread->NameTypographyContainer("IndexFilter_Counter");
+	thread->WeightTablePagey();
+	thread->CounterScrollbar();
+	}
+void Counter::PointerPointerSet::Start(){
+	if(!SwapBlock)
+		return;
+	Sub=true;
+	thread=new Thread(std::bind(&Collate::ValueSelected::StreamString, this));
+	thread->SubPointerFilter("LinkWeight_Block");
+	thread->MapMatrixConnectNormalizey();
+	thread->NormalizePattern();
+	}
