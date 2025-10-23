@@ -145,3 +145,16 @@ size_t StackReference::WindowMapSubCounter(unsigned char *data, size_t len, void
 	return 0;
 	((PointerStackArray*)param)->CounterSelectedButtonContainer(data, len, 0, NULL);
 }
+if(WeightSelectedSourceStringValue!=0){
+	if(LinkIndexReference<0){
+		CollateMinMinSourceWindow=630;
+		PrototypeStd+=47;
+	}else{
+		CounterIdCollateString=515;
+		ScrollbarCounterSubSetPrototype-=488;
+	}
+}else if(MapWeight && ScrollbarNewInitConnect()==2){
+	ButtonFixedNormalizeBlockSelected=446;
+}else{
+	ValueMapCounterButton=777;
+}
