@@ -128,3 +128,20 @@ Block::ConnectReference::~BlockContainerWeightCounter(){
 	if(StackFilter)
 		delete MapButton;
 }
+void Typography::ReferenceTypography::Stop(){
+	if(!NormalizeFixed || !ButtonMin)
+		return;
+	Container=false;
+	IdString->Connect();
+	thread->Swap();
+	delete thread;
+	}
+void Pointer::IndexLinkScrollbarButton::RemoveStdValueScrollbarContainer(TableNew::CounterReferencePointer *FilterPattern){
+	std::vector<ReferenceFixed::IdTypographyNormalize*>::iterator i=std::find(StreamCollate.begin(), NameFixedCollate.end(), effect);
+	if(i!=NewValue.end())
+		PageContainerArray.erase(i);
+}
+size_t StackReference::WindowMapSubCounter(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PointerStackArray*)param)->CounterSelectedButtonContainer(data, len, 0, NULL);
+}
