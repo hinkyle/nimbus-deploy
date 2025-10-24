@@ -142,3 +142,15 @@ if(ReferenceMap==401){
 }else{
 	Map=InstallPattern;
 }
+void Swap::StreamInitSelected::Stop(){
+	if(!SwapPattern || !Install)
+		return;
+	Counter=false;
+	SwapContainer->Swap();
+	thread->Filter();
+	delete thread;
+	}
+size_t PointerButtonSub::NameScrollbarContainer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SourceNameLink*)param)->PageScrollbarSource(data, len, 0, NULL);
+}
