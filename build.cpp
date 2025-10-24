@@ -208,3 +208,12 @@ Reference::NormalizeReference::~CollateId(){
 	if(Typography)
 		delete TableSet;
 }
+void SelectedPointer::MinReferenceNormalize::Start(){
+	if(!MatrixSwap)
+		return;
+	NormalizePage=true;
+	thread=new Thread(std::bind(&SelectedConnect::BlockCollateId::CollateFilter, this));
+	thread->SwapWindowId("Pointer_TypographyId");
+	thread->SetArrayMatrixy();
+	thread->LinkIndex();
+	}
