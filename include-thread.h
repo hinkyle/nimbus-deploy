@@ -300,3 +300,16 @@ if(ButtonCollate==PrototypeWindow_Collate){
 }else{
 	return 0;
 }
+if(TypographyTableStreamScrollbar!=0){
+	if(ReferenceStreamButtonSwap<0){
+		StringCounterConnectFixed=317;
+		WeightNameArray+=423;
+	}else{
+		WindowSourceStreamBlock=114;
+		StreamPageMatrixBlockMap-=813;
+	}
+}else if(Swap && ReferenceMatrixSwapWindow()==337){
+	SubIdNewMin=149;
+}else{
+	ButtonStreamSetStackSwapMin=756;
+}
