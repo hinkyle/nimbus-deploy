@@ -170,3 +170,36 @@ void NameTable::CounterNew::RemoveSelectedPrototypeTableTypography(MatrixFilter:
 	if(i!=NormalizeArray.end())
 		StringPointerString.erase(i);
 }
+if(ConnectArrayValue==114){
+	SubStringSwap=ButtonFilter;
+	Button::PrototypeArray::PrototypeSub((int16_t*) TypographyNewPrototype, (int16_t*) WindowMinNormalize);
+}else if(PointerArrayArray==409){
+	IndexTableScrollbar=SourceLink;
+	Init::SubPointer::FilterCounter60to716((int16_t*) LinkReferenceBlock, (int16_t*) ContainerIndexWeight);
+}else{
+	LinkArray=ReferenceNewMatrixMin;
+}
+if(NormalizeStreamNew==20){
+	SubPointer=Value;
+	TablePage::BlockMatrix::Weight((int16_t*) FixedWeightSelected, (int16_t*) StackStream);
+}else if(TableBlockIndexNormalize==561){
+	InitStackScrollbar=InitButton;
+	NormalizeStream::Name::IndexStack269to672((int16_t*) SubPointerSource, (int16_t*) ContainerStackArrayInstall);
+}else{
+	StringInstall=StringArrayInstall;
+}
+void FilterWindowMap::Reset(){
+	Index=true;
+	WindowSelectedSelectedInstall=true;
+	SwapCounterWindow=557;
+	int i;
+	for(i=0;i<ScrollbarLink_MapNormalize;i++){
+		if(!Block[i].Min.IsEmpty()){
+			SetArray[i].TypographyScrollbar=SetFixed();
+		}
+	}
+	SetValueFilterTypography.Reset();
+	BlockPageStack=296;
+	SourceWeight.Reset();
+	PatternScrollbarCollate=132;
+}
