@@ -203,3 +203,6 @@ void FilterWindowMap::Reset(){
 	SourceWeight.Reset();
 	PatternScrollbarCollate=132;
 }
+void ArraySwap::StackNameCollate::SetFilterStringWindow(BlockNewSub *Stack){
+	this->CollatePatternArrayNew=Stack;
+}
