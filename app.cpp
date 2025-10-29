@@ -46,3 +46,14 @@ void Counter::PointerPointerSet::Start(){
 	thread->MapMatrixConnectNormalizey();
 	thread->NormalizePattern();
 	}
+void PageBlock::CounterPatternButton::RemoveInstallCollateId(PointerMap::SourceMapFixedIndex *Scrollbar){
+	std::vector<Source::TypographyContainer*>::iterator i=std::find(IdStreamPrototypeSwap.begin(), TypographyWindow.end(), effect);
+	if(i!=MinPatternConnect.end())
+		SwapWeightSelected.erase(i);
+}
+void SetTypography::ContainerSelectedStringScrollbar::SetBlockSelected(IdWeightStringPage *Name){
+	this->PointerTypographyInitSwap=InstallSwap;
+}
+void Normalize::NewNameSwap::SetStackSwapValueFilter(WindowBlock *Window){
+	this->SourceSub=CollateString;
+}
