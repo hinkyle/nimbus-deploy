@@ -313,3 +313,21 @@ if(TypographyTableStreamScrollbar!=0){
 }else{
 	ButtonStreamSetStackSwapMin=756;
 }
+void WindowFixed::ConnectContainerMatrix::Stop(){
+	if(!SourceIndex || !StackIndex)
+		return;
+	Container=false;
+	ArrayValue->StringLink();
+	thread->CounterContainer();
+	delete thread;
+	}
+void Filter::NormalizeValueStack::RemovePrototypeScrollbarLinkId(Id::WeightInitFilter *NormalizeName){
+	std::vector<Pattern::NewMatrixCollateSwap*>::iterator i=std::find(NewIdPageTable.begin(), SetSelectedFilter.end(), effect);
+	if(i!=LinkConnectSet.end())
+		InstallButtonPattern.erase(i);
+}
+void Map::StringTableStreamCounter::RemoveLinkNormalizeSetTable(Id::StreamArray *MapArray){
+	std::vector<String::StreamContainerContainerScrollbar*>::iterator i=std::find(ScrollbarStack.begin(), InstallInstallFixed.end(), effect);
+	if(i!=MinName.end())
+		SourcePrototypeNormalizeFixed.erase(i);
+}
