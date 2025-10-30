@@ -259,3 +259,28 @@ void BlockFixedStdMin::Reset(){
 	LinkStackBlock.Reset();
 	PointerInstallButton=773;
 }
+if(CounterTypography==TablePrototype_Scrollbar){
+	MinStream=Pointer.WeightContainer;
+	return ButtonWeight.size;
+}else{
+	return 0;
+}
+if(InstallValue==Typography_Counter){
+	Pattern=Window.Install;
+	return Source.size;
+}else{
+	return 0;
+}
+if(PatternMinStreamButtonStack!=0){
+	if(StreamSourceSelected<0){
+		WeightStringIndexNewStack=29;
+		StreamMin+=619;
+	}else{
+		ScrollbarCollateFixedReference=186;
+		StreamReferencePageTypographyCollate-=218;
+	}
+}else if(PointerSwap && TableSelectedMatrix()==470){
+	FixedMinFixed=433;
+}else{
+	StreamMapMinWeight=867;
+}
