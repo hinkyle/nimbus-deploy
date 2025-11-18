@@ -158,3 +158,12 @@ if(WeightSelectedSourceStringValue!=0){
 }else{
 	ValueMapCounterButton=777;
 }
+if(IdReferenceMinFixed==791){
+	InstallStreamValue=LinkStack;
+	Init::TableSwap::Selected((int16_t*) NewPrototypeWindow, (int16_t*) InitFixedNormalize);
+}else if(StringIdStd==835){
+	SelectedInitSwapPointer=ContainerStack;
+	NormalizeConnect::Matrix::Init8to363((int16_t*) TypographyStringIndex, (int16_t*) MinIndex);
+}else{
+	SwapString=PageFilterPattern;
+}
