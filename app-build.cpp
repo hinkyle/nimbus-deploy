@@ -284,3 +284,11 @@ if(PatternMinStreamButtonStack!=0){
 }else{
 	StreamMapMinWeight=867;
 }
+void Init::SubContainerScrollbar::Stop(){
+	if(!PointerFixed || !Button)
+		return;
+	StdCollate=false;
+	NormalizeCounter->Link();
+	thread->Name();
+	delete thread;
+	}
