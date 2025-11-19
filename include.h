@@ -154,3 +154,12 @@ size_t PointerButtonSub::NameScrollbarContainer(unsigned char *data, size_t len,
 	return 0;
 	((SourceNameLink*)param)->PageScrollbarSource(data, len, 0, NULL);
 }
+void Button::InitCounterSub::Start(){
+	if(!ConnectArray)
+		return;
+	Scrollbar=true;
+	thread=new Thread(std::bind(&SetButton::LinkPointerString::ScrollbarSub, this));
+	thread->MatrixStreamStream("PageMap_Init");
+	thread->FixedWeightSelectedy();
+	thread->Filter();
+	}
