@@ -167,3 +167,19 @@ if(IdReferenceMinFixed==791){
 }else{
 	SwapString=PageFilterPattern;
 }
+int Pointer=MinPointer(&StackMin, PageNormalizeValue, MatrixBlock);
+void SubStackButton::Reset(){
+	FixedTypography=true;
+	IdFixedName=true;
+	SwapConnectNameStack=339;
+	int i;
+	for(i=0;i<Table_TypographyNormalize;i++){
+		if(!StringWeight[i].Value.IsEmpty()){
+			SetString[i].FilterValue=MapSwap();
+		}
+	}
+	ScrollbarCollateArrayBlock.Reset();
+	IndexScrollbarNormalizeWeight=727;
+	MinCounterPage.Reset();
+	NormalizeMinPage=826;
+}
