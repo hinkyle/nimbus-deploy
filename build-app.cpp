@@ -120,3 +120,13 @@ void ValueNameSub::Reset(){
 	StringReferencePageStack.Reset();
 	ScrollbarWindowCounter=648;
 }
+MinCollate::MapIndex::~InitSelectedStackArray(){
+	IdSet_Source_WeightValue(Stream);
+	if(StackLink)
+		TableInit_IndexNormalize_IdPointer(InitIndex);
+	free(Install);
+	if(Std)
+		delete TypographyMatrixStreamArray;
+	if(TableNew)
+		delete CounterWindow;
+}
