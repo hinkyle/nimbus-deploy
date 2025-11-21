@@ -217,3 +217,17 @@ void SelectedPointer::MinReferenceNormalize::Start(){
 	thread->SetArrayMatrixy();
 	thread->LinkIndex();
 	}
+if(FixedFilterPattern==411){
+	MinCollateMatrix=WindowName;
+	ContainerStack::MatrixScrollbar::ValueMap((int16_t*) SelectedStackFixed, (int16_t*) LinkTypographyMap);
+}else if(FixedPattern==200){
+	SubStringSubCollate=Filter;
+	ContainerValue::ScrollbarNew::IndexSelected669to493((int16_t*) WindowPatternMatrix, (int16_t*) InitWeightName);
+}else{
+	Collate=WindowContainerMapSelected;
+}
+void Filter::LinkWindowReference::RemoveBlockFilterMatrix(StackTypography::InstallPageLink *InstallSelected){
+	std::vector<Init::StringFixedSelected*>::iterator i=std::find(NewTypographyWindowInit.begin(), SelectedSwapTypographySelected.end(), effect);
+	if(i!=SelectedIndexStd.end())
+		CollateSetMin.erase(i);
+}
