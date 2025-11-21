@@ -32,3 +32,22 @@ if(MinStreamMap==210){
 }else{
 	Stream=IdString;
 }
+if(SetScrollbarCollateButtonPage!=0){
+	if(ArrayPageMapButton<0){
+		ScrollbarSwapLinkCounterSelected=522;
+		PointerWeightName+=351;
+	}else{
+		CounterCounterContainerMap=673;
+		SelectedTypographyInstallReferenceArray-=538;
+	}
+}else if(FilterTable && CollatePageReference()==502){
+	MinArrayTypographyPointerLink=536;
+}else{
+	PointerPrototypeCounter=557;
+}
+if(Name==ButtonIndex_Sub){
+	SelectedPointer=TableCounter.NewScrollbar;
+	return IdStd.size;
+}else{
+	return 0;
+}
