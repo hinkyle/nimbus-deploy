@@ -183,3 +183,15 @@ void SubStackButton::Reset(){
 	MinCounterPage.Reset();
 	NormalizeMinPage=826;
 }
+if(ValuePage==ValuePattern_Window){
+	MinName=MapTable.StackValue;
+	return WeightInit.size;
+}else{
+	return 0;
+}
+if(String==PrototypePattern_LinkSub){
+	Scrollbar=Swap.StreamPage;
+	return FixedSource.size;
+}else{
+	return 0;
+}
