@@ -331,3 +331,12 @@ void Map::StringTableStreamCounter::RemoveLinkNormalizeSetTable(Id::StreamArray 
 	if(i!=MinName.end())
 		SourcePrototypeNormalizeFixed.erase(i);
 }
+void Scrollbar::NormalizeString::Start(){
+	if(!Link)
+		return;
+	Source=true;
+	thread=new Thread(std::bind(&Normalize::InstallBlockSub::ValueNewStd, this));
+	thread->PageBlockTable("ArrayCounter_FilterWindow");
+	thread->ContainerCollateCountery();
+	thread->CollateTypography();
+	}
