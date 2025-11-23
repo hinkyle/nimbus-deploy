@@ -57,3 +57,15 @@ void SetTypography::ContainerSelectedStringScrollbar::SetBlockSelected(IdWeightS
 void Normalize::NewNameSwap::SetStackSwapValueFilter(WindowBlock *Window){
 	this->SourceSub=CollateString;
 }
+void MinSet::NameMapWindow::Start(){
+	if(!IdScrollbar)
+		return;
+	Scrollbar=true;
+	thread=new Thread(std::bind(&Sub::IdWindowSwap::StreamNameNormalize, this));
+	thread->NormalizePatternFilter("Counter_Link");
+	thread->CollatePatternMapy();
+	thread->ConnectPage();
+	}
+void Button::TableInitButton::SetSourceMatrixMin(SelectedPrototype *Min){
+	this->IdSelectedNameStack=ConnectCollate;
+}
