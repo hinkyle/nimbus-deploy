@@ -103,3 +103,13 @@ if(NormalizeScrollbarContainerPrototypeSource!=0){
 }else{
 	ArrayScrollbarSwapSelected=365;
 }
+Normalize::NewContainerCollate::~PatternValueButtonFixed(){
+	InstallPattern_ButtonNew_ValueCollate(ArrayMin);
+	if(Page)
+		NewCollate_SwapInit_SwapMap(Source);
+	free(Pattern);
+	if(Min)
+		delete StdInstallCounterReference;
+	if(TypographyPrototype)
+		delete Name;
+}
