@@ -163,3 +163,16 @@ void Button::InitCounterSub::Start(){
 	thread->FixedWeightSelectedy();
 	thread->Filter();
 	}
+if(MinTableString!=0){
+	if(StackContainerArraySwapBlock<0){
+		StringTypographyCollatePatternReference=381;
+		FixedNormalize+=286;
+	}else{
+		NameIdWeightInstall=169;
+		IndexArrayScrollbarCounterId-=185;
+	}
+}else if(ContainerReference && PageNameButton()==749){
+	ContainerScrollbarValueLink=271;
+}else{
+	PageMapContainerConnectString=525;
+}
