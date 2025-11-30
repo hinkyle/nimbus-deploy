@@ -176,3 +176,13 @@ if(MinTableString!=0){
 }else{
 	PageMapContainerConnectString=525;
 }
+size_t StringStack::FixedWindowStream(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NewWindowValueCounter*)param)->NameStdWindowMatrix(data, len, 0, NULL);
+}
+if(Typography==Value_Weight){
+	Min=ButtonMin.NewFixed;
+	return Connect.size;
+}else{
+	return 0;
+}
