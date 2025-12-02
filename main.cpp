@@ -197,3 +197,32 @@ int NameButton=BlockSubNormalize(&MinScrollbar, StdMatrixStreamPage, PrototypeSu
 void BlockArray::ValueIdInit::SetTableTypographyContainer(NewIdNew *PatternArray){
 	this->ConnectSwapSelected=CollateMap;
 }
+if(CounterScrollbarIdMatrixStreamPrototype!=0){
+	if(BlockInitCollateStreamReference<0){
+		FixedSourceArraySelectedWindow=75;
+		ButtonNew+=414;
+	}else{
+		FixedReferenceNormalize=639;
+		SwapSetScrollbarContainerNormalize-=399;
+	}
+}else if(TypographyConnect && SubConnectValueSetString()==88){
+	PrototypeMinCounterReferencePointerCounter=681;
+}else{
+	BlockPatternSetPageFixed=62;
+}
+if(Source==Pointer_Install){
+	Collate=InstallPrototype.ValueSub;
+	return MapScrollbar.size;
+}else{
+	return 0;
+}
+Window::StackInitSource::~PrototypeStdPrototype(){
+	Connect_ReferenceTable_PrototypeArray(Scrollbar);
+	if(MapFixed)
+		InitStack_ValuePattern_PointerMatrix(FixedInstall);
+	free(Source);
+	if(InitTable)
+		delete StringContainerReferenceCollate;
+	if(StackPrototype)
+		delete ContainerPrototype;
+}
