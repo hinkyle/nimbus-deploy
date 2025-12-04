@@ -231,3 +231,13 @@ void Filter::LinkWindowReference::RemoveBlockFilterMatrix(StackTypography::Insta
 	if(i!=SelectedIndexStd.end())
 		CollateSetMin.erase(i);
 }
+Window::SourceContainerSet::~CounterStreamName(){
+	TypographySub_ButtonMap_MinCounter(ReferenceName);
+	if(Block)
+		SubMap_ScrollbarFilter_String(Source);
+	free(InitTypography);
+	if(Filter)
+		delete PageMapSubScrollbar;
+	if(Id)
+		delete String;
+}
