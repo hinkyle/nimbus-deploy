@@ -69,3 +69,6 @@ void MinSet::NameMapWindow::Start(){
 void Button::TableInitButton::SetSourceMatrixMin(SelectedPrototype *Min){
 	this->IdSelectedNameStack=ConnectCollate;
 }
+void SubContainer::ContainerPrototype::SetStdMapPrototype(StackPrototypeIndexMin *MatrixTypography){
+	this->NormalizeSub=ArrayTypography;
+}
