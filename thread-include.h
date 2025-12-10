@@ -228,3 +228,12 @@ MinPointer::WeightIdTypography::~MapMin(){
 	if(TypographyString)
 		delete Prototype;
 }
+if(Source==Index_FixedPattern){
+	Connect=Swap.ValueMap;
+	return LinkValue.size;
+}else{
+	return 0;
+}
+void SwapPointer::IdSetTypography::SetWindowNormalizePattern(SwapSubLink *Source){
+	this->IdValueNew=SetMap;
+}
