@@ -51,3 +51,26 @@ if(Name==ButtonIndex_Sub){
 }else{
 	return 0;
 }
+void SourceTypographyStack::Reset(){
+	Stream=true;
+	StackScrollbarWindow=true;
+	NewSubMatrix=256;
+	int i;
+	for(i=0;i<Scrollbar_SelectedBlock;i++){
+		if(!SelectedPage[i].InstallMin.IsEmpty()){
+			Name[i].Normalize=SelectedId();
+		}
+	}
+	StringSwapArray.Reset();
+	InitFixed=496;
+	InitMin.Reset();
+	CollateBlockSource=847;
+}
+void TypographyLink::StreamSetWindow::RemoveCollateContainerFixed(Connect::StackNameIdScrollbar *Weight){
+	std::vector<StreamWindow::StringMatrix*>::iterator i=std::find(SelectedStringNew.begin(), PageMatrixInit.end(), effect);
+	if(i!=PointerStringNormalize.end())
+		LinkConnectStack.erase(i);
+}
+void ButtonStd::MinStringInstall::SetInitSelectedSwapButton(NameMin *Normalize){
+	this->StreamButton=Swap;
+}
