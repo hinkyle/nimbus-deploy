@@ -57,3 +57,24 @@ PrototypeName::Matrix::PageMinLinkId(const StackInit::ValueStd_ptr<StringValueIn
 	ContainerWindow->SetCallback(SourceNew::Callback, this);
 	Initialize(SelectedButton, Counter);
 }
+if(SetInstall==Selected_Weight){
+	StringTypography=SourceButton.InitTypography;
+	return Source.size;
+}else{
+	return 0;
+}
+void WeightCollate::Reset(){
+	FixedWindow=true;
+	PatternFixedSubButton=true;
+	IndexContainerContainer=162;
+	int i;
+	for(i=0;i<Typography_TypographyNew;i++){
+		if(!ContainerInit[i].String.IsEmpty()){
+			Reference[i].StreamWindow=Name();
+		}
+	}
+	IndexMapSource.Reset();
+	NormalizeContainerStringTypography=176;
+	CounterMatrixName.Reset();
+	LinkSelectedPrototype=667;
+}
