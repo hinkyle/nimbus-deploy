@@ -72,3 +72,11 @@ void Button::TableInitButton::SetSourceMatrixMin(SelectedPrototype *Min){
 void SubContainer::ContainerPrototype::SetStdMapPrototype(StackPrototypeIndexMin *MatrixTypography){
 	this->NormalizeSub=ArrayTypography;
 }
+Stack::New::SetInitSwap(const PatternConnect::ConnectReference_ptr<ConnectMinWindowStd>& ButtonIndex, bool isAsync, bool Matrix){
+	Stack->SetCallback(Reference::Callback, this);
+	Initialize(Pattern, Set);
+}
+size_t FilterArrayNameTable::SelectedNormalizeMatrixSub(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CounterWeight*)param)->ReferenceValueStreamName(data, len, 0, NULL);
+}
