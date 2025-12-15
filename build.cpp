@@ -241,3 +241,16 @@ Window::SourceContainerSet::~CounterStreamName(){
 	if(Id)
 		delete String;
 }
+void Link::StackPatternPrototype::SetWeightFixedIndex(MapNormalizeInit *Min){
+	this->PatternScrollbar=NormalizeButton;
+}
+TypographyCollate::ButtonSource::~StackCounterTypography(){
+	Typography_Source_Min(Pointer);
+	if(Init)
+		Id_ArraySet_Swap(String);
+	free(ValueIndex);
+	if(PageBlock)
+		delete TableStackMatrix;
+	if(Id)
+		delete FilterLink;
+}
