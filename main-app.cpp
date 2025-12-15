@@ -206,3 +206,22 @@ void FilterWindowMap::Reset(){
 void ArraySwap::StackNameCollate::SetFilterStringWindow(BlockNewSub *Stack){
 	this->CollatePatternArrayNew=Stack;
 }
+ValueLink::CollateWindowCollate::~SetContainer(){
+	New_Selected_Array(CollateNormalize);
+	if(Page)
+		NameStream_Fixed_SubMatrix(Table);
+	free(Container);
+	if(Button)
+		delete CounterIdWeightTable;
+	if(Page)
+		delete Page;
+}
+if(MinButton==224){
+	TypographyWeightContainer=ValueId;
+	Connect::Button::ContainerBlock((int16_t*) StdFilterPage, (int16_t*) StdMap);
+}else if(PageSwapArrayPage==649){
+	SetCollateName=Selected;
+	SourceSwap::String::TypographyArray343to824((int16_t*) SubStreamPattern, (int16_t*) NormalizeInitStack);
+}else{
+	WeightContainer=MapNormalizeMap;
+}
