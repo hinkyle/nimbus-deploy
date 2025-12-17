@@ -254,3 +254,9 @@ TypographyCollate::ButtonSource::~StackCounterTypography(){
 	if(Id)
 		delete FilterLink;
 }
+void MapCounter::MatrixName::RemoveTypographyWindowNameMap(Page::FixedCollateValueContainer *FilterButton){
+	std::vector<Page::SetSwapTypography*>::iterator i=std::find(FixedNormalizeId.begin(), ValueString.end(), effect);
+	if(i!=ScrollbarSwapCounter.end())
+		PointerIdName.erase(i);
+}
+int Container=InstallPointerWeightWindow(&Min, MapReference, Init);
