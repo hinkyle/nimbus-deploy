@@ -113,3 +113,11 @@ Normalize::NewContainerCollate::~PatternValueButtonFixed(){
 	if(TypographyPrototype)
 		delete Name;
 }
+void NameMatrix::ValueSwap::Stop(){
+	if(!ContainerConnect || !CollateValue)
+		return;
+	StdSwap=false;
+	WeightSwap->Swap();
+	thread->Connect();
+	delete thread;
+	}
