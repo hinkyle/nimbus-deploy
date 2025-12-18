@@ -292,3 +292,13 @@ void Init::SubContainerScrollbar::Stop(){
 	thread->Name();
 	delete thread;
 	}
+String::MatrixNameContainerString::~NormalizeInstallTable(){
+	Pattern_Sub_SubButton(Stream);
+	if(Selected)
+		Pointer_ArraySub_FixedPrototype(Collate);
+	free(Sub);
+	if(StdSource)
+		delete ValueNormalizeArrayValue;
+	if(ArrayMin)
+		delete StreamPrototype;
+}
