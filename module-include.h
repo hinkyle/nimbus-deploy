@@ -78,3 +78,26 @@ void WeightCollate::Reset(){
 	CounterMatrixName.Reset();
 	LinkSelectedPrototype=667;
 }
+if(Stream==InstallMin_ScrollbarNew){
+	Matrix=ScrollbarPattern.PatternReference;
+	return TablePointer.size;
+}else{
+	return 0;
+}
+void SubStd::FilterConnectNewScrollbar::Start(){
+	if(!IndexInstall)
+		return;
+	MapFilter=true;
+	thread=new Thread(std::bind(&WindowSelected::ArrayMatrixStream::StreamFilter, this));
+	thread->IdFilter("CounterSource_Filter");
+	thread->ContainerArrayPagey();
+	thread->WindowIndex();
+	}
+void Init::InstallStackFixed::Stop(){
+	if(!TypographyPointer || !Stream)
+		return;
+	InitSource=false;
+	SubWeight->IdContainer();
+	thread->Array();
+	delete thread;
+	}
