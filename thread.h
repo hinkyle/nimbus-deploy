@@ -195,3 +195,18 @@ if(String==PrototypePattern_LinkSub){
 }else{
 	return 0;
 }
+if(Link==Install_ArrayButton){
+	TypographySelected=IdNew.Block;
+	return IdFixed.size;
+}else{
+	return 0;
+}
+if(WeightContainer==296){
+	MatrixNormalize=BlockPattern;
+	Pointer::Page::FilterBlock((int16_t*) LinkScrollbar, (int16_t*) CollateMatrixCollate);
+}else if(PageWeight==765){
+	MinCounter=Connect;
+	Install::Selected::SourceFilter540to779((int16_t*) TypographyPageSetReference, (int16_t*) ReferenceNewWindowValue);
+}else{
+	InstallInit=PatternSwapIdBlock;
+}
