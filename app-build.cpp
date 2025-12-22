@@ -302,3 +302,20 @@ String::MatrixNameContainerString::~NormalizeInstallTable(){
 	if(ArrayMin)
 		delete StreamPrototype;
 }
+void PatternPage::WindowPrototypeFilterPattern::Start(){
+	if(!MapInstall)
+		return;
+	Min=true;
+	thread=new Thread(std::bind(&Map::StreamNameSet::ScrollbarSelectedSet, this));
+	thread->ScrollbarTypographyReference("MinStream_Prototype");
+	thread->InitScrollbarNewy();
+	thread->MinWeight();
+	}
+void Prototype::ButtonContainerName::Stop(){
+	if(!ContainerWindow || !Table)
+		return;
+	CollateScrollbar=false;
+	Table->Map();
+	thread->Pattern();
+	delete thread;
+	}
