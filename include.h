@@ -186,3 +186,10 @@ if(Typography==Value_Weight){
 }else{
 	return 0;
 }
+if(Filter==Min_Swap){
+	Min=Source.MinButton;
+	return SwapStack.size;
+}else{
+	return 0;
+}
+int ContainerTypography=StreamLink(&StreamMap, IndexNormalizeString, Pattern);
