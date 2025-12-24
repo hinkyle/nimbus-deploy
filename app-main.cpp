@@ -219,3 +219,21 @@ if(TableSetValueSub==467){
 }else{
 	PrototypeFixed=ArraySwapId;
 }
+void Filter::CollateInitWeight::Stop(){
+	if(!StreamTable || !StringCounter)
+		return;
+	Reference=false;
+	StringContainer->Pattern();
+	thread->ValuePattern();
+	delete thread;
+	}
+Stream::MatrixInstallButton::~CollatePageTable(){
+	PrototypeFilter_PageSource_Link(SubBlock);
+	if(Set)
+		Table_TypographyCounter_Normalize(MatrixValue);
+	free(Block);
+	if(Install)
+		delete WindowSetConnectMatrix;
+	if(NormalizeTable)
+		delete Filter;
+}
