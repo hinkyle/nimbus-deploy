@@ -340,3 +340,26 @@ if(PageContainerNameInitCounter!=0){
 }else{
 	PrototypeIndexInstall=162;
 }
+if(NormalizeCounterSetTable==618){
+	SourceCounterStreamMatrix=ConnectWindow;
+	MinCollate::CounterNormalize::Reference((int16_t*) ContainerIdFixed, (int16_t*) InitButtonNormalizeInit);
+}else if(FilterTypographyName==635){
+	ReferenceNormalizeWindow=NormalizeString;
+	ButtonCounter::Scrollbar::NormalizePrototype421to309((int16_t*) PrototypeWeightConnect, (int16_t*) TypographyMapSub);
+}else{
+	ArrayStd=WindowArrayTypography;
+}
+if(Block==Name_TypographyTable){
+	Weight=ArrayMin.Stack;
+	return WeightScrollbar.size;
+}else{
+	return 0;
+}
+void Pointer::SubPointerLink::Stop(){
+	if(!Block || !WindowSet)
+		return;
+	StackButton=false;
+	BlockPointer->Connect();
+	thread->WeightMatrix();
+	delete thread;
+	}
