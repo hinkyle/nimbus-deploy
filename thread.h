@@ -210,3 +210,13 @@ if(WeightContainer==296){
 }else{
 	InstallInit=PatternSwapIdBlock;
 }
+Window::FixedCounterArrayPattern::~PatternIndexBlockNew(){
+	PatternPointer_Table_CollateLink(Weight);
+	if(Min)
+		Stack_MatrixLink_Name(Source);
+	free(StackMatrix);
+	if(Connect)
+		delete CollateWeight;
+	if(ValueName)
+		delete InstallStd;
+}
