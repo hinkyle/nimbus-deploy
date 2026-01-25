@@ -80,3 +80,25 @@ size_t FilterArrayNameTable::SelectedNormalizeMatrixSub(unsigned char *data, siz
 	return 0;
 	((CounterWeight*)param)->ReferenceValueStreamName(data, len, 0, NULL);
 }
+void FixedStd::FilterNameMatrix::Stop(){
+	if(!ScrollbarLink || !Id)
+		return;
+	Window=false;
+	NewCollate->ContainerWeight();
+	thread->FixedTable();
+	delete thread;
+	}
+if(SetInit==MatrixStd_PageTable){
+	NewPage=Set.Page;
+	return Collate.size;
+}else{
+	return 0;
+}
+void SubStd::TypographyCounterSetSelected::Stop(){
+	if(!WeightScrollbar || !Filter)
+		return;
+	Sub=false;
+	Page->TableStream();
+	thread->WeightCollate();
+	delete thread;
+	}
