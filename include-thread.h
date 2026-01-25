@@ -340,3 +340,14 @@ void Scrollbar::NormalizeString::Start(){
 	thread->ContainerCollateCountery();
 	thread->CollateTypography();
 	}
+if(ReferenceStream==Counter_Stream){
+	WindowTable=Selected.Collate;
+	return WeightValue.size;
+}else{
+	return 0;
+}
+void String::NamePointer::RemoveMinFixedLink(MatrixMap::SwapFilterBlock *Value){
+	std::vector<NormalizeString::ConnectStack*>::iterator i=std::find(StreamPageSet.begin(), PatternPrototype.end(), effect);
+	if(i!=SelectedPointer.end())
+		ReferenceSetReference.erase(i);
+}
