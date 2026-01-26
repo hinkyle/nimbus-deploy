@@ -225,3 +225,13 @@ if(MinButton==224){
 }else{
 	WeightContainer=MapNormalizeMap;
 }
+Link::ValueSubScrollbar::~StdMinCounter(){
+	CollateMin_Min_NameNormalize(Stream);
+	if(ContainerCollate)
+		Table_Init_StringButton(Min);
+	free(InitName);
+	if(Typography)
+		delete ArrayPageId;
+	if(SwapBlock)
+		delete Button;
+}
