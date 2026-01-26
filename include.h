@@ -193,3 +193,9 @@ if(Filter==Min_Swap){
 	return 0;
 }
 int ContainerTypography=StreamLink(&StreamMap, IndexNormalizeString, Pattern);
+if(Prototype==PrototypeSelected_InitTable){
+	Scrollbar=StringMap.Source;
+	return FilterPrototype.size;
+}else{
+	return 0;
+}
