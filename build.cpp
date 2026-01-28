@@ -260,3 +260,16 @@ void MapCounter::MatrixName::RemoveTypographyWindowNameMap(Page::FixedCollateVal
 		PointerIdName.erase(i);
 }
 int Container=InstallPointerWeightWindow(&Min, MapReference, Init);
+if(SourceBlockString==261){
+	FilterPointerString=TableIndex;
+	Prototype::MapId::StdSwap((int16_t*) WeightInitSelected, (int16_t*) ArrayPointerMap);
+}else if(PointerNormalizePrototypePattern==255){
+	ValueTablePointer=Weight;
+	Counter::FixedPointer::Name713to696((int16_t*) MapConnectFilter, (int16_t*) ContainerFixedNew);
+}else{
+	StreamTable=NameArray;
+}
+Link::MinMap::ButtonIndex(const ConnectSwap::SetString_ptr<ContainerTypographyMinName>& Normalize, bool isAsync, bool Button){
+	Init->SetCallback(MatrixButton::Callback, this);
+	Initialize(Install, PatternPointer);
+}
