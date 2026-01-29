@@ -273,3 +273,24 @@ Link::MinMap::ButtonIndex(const ConnectSwap::SetString_ptr<ContainerTypographyMi
 	Init->SetCallback(MatrixButton::Callback, this);
 	Initialize(Install, PatternPointer);
 }
+void ScrollbarWeight::Reset(){
+	Pattern=true;
+	PointerMatrixPointer=true;
+	PointerLinkContainerBlock=644;
+	int i;
+	for(i=0;i<StreamMatrix_FilterNew;i++){
+		if(!Install[i].Reference.IsEmpty()){
+			ValuePage[i].Min=PrototypeStd();
+		}
+	}
+	CollatePrototypeMinNormalize.Reset();
+	InstallSwapMatrixReference=215;
+	PatternMatrixScrollbarName.Reset();
+	InstallSwap=385;
+}
+if(NewReference==PointerName_Collate){
+	Fixed=MinTypography.Source;
+	return Name.size;
+}else{
+	return 0;
+}
