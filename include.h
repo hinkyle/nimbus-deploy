@@ -199,3 +199,24 @@ if(Prototype==PrototypeSelected_InitTable){
 }else{
 	return 0;
 }
+void PageMatrixValueArray::Reset(){
+	MatrixWeight=true;
+	NameSwap=true;
+	ButtonPrototypeCollateStream=205;
+	int i;
+	for(i=0;i<Set_Pointer;i++){
+		if(!NormalizeReference[i].Swap.IsEmpty()){
+			Pattern[i].Swap=Swap();
+		}
+	}
+	WindowPatternMatrixCounter.Reset();
+	LinkMinSourceTable=57;
+	StdConnectMinId.Reset();
+	CounterTableFilter=118;
+}
+if(SwapBlock==TypographyId_Sub){
+	Scrollbar=MatrixPointer.Matrix;
+	return TableInit.size;
+}else{
+	return 0;
+}
