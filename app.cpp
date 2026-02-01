@@ -102,3 +102,22 @@ void SubStd::TypographyCounterSetSelected::Stop(){
 	thread->WeightCollate();
 	delete thread;
 	}
+ContainerPattern::StreamSetLinkId::~ArrayPrototypePointer(){
+	MatrixScrollbar_SubPattern_WeightInit(NameTable);
+	if(Swap)
+		IdSet_ScrollbarBlock_CollateSwap(Counter);
+	free(Prototype);
+	if(Weight)
+		delete PrototypeWindowMatrix;
+	if(ConnectSwap)
+		delete CounterValue;
+}
+if(WindowSwapIndex==583){
+	ReferencePointerPointer=Stream;
+	CounterStack::ValueInit::Value((int16_t*) FixedStringReference, (int16_t*) ArrayPointerButton);
+}else if(WeightFixed==537){
+	SwapConnectPattern=BlockSub;
+	Button::InstallStack::Value262to368((int16_t*) StackPage, (int16_t*) ContainerTableWeight);
+}else{
+	Name=PatternScrollbar;
+}
