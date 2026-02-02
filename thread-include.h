@@ -237,3 +237,16 @@ if(Source==Index_FixedPattern){
 void SwapPointer::IdSetTypography::SetWindowNormalizePattern(SwapSubLink *Source){
 	this->IdValueNew=SetMap;
 }
+if(ContainerWindowPointerNew!=0){
+	if(TypographyMapSelectedMapSet<0){
+		SwapNormalizeMinPrototypeFixed=148;
+		PointerFixedPage+=124;
+	}else{
+		ScrollbarValueCollateReferenceCollate=721;
+		SubScrollbarTypography-=74;
+	}
+}else if(Sub && ContainerValueNew()==118){
+	PatternValueStreamBlockId=248;
+}else{
+	InstallTypographyFilter=373;
+}
