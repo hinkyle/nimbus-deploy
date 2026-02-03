@@ -237,3 +237,26 @@ Stream::MatrixInstallButton::~CollatePageTable(){
 	if(NormalizeTable)
 		delete Filter;
 }
+void Typography::InstallCounterSwapSelected::Stop(){
+	if(!Map || !Prototype)
+		return;
+	SubWindow=false;
+	PointerButton->String();
+	thread->Link();
+	delete thread;
+	}
+void SwapInstallCounterSet::Reset(){
+	Name=true;
+	FilterInstallMatrix=true;
+	StdMapFixedStd=839;
+	int i;
+	for(i=0;i<ReferenceMap_Source;i++){
+		if(!InitCollate[i].FilterPointer.IsEmpty()){
+			PageFilter[i].PrototypeTypography=SelectedLink();
+		}
+	}
+	TableSubPrototype.Reset();
+	ButtonInit=771;
+	NormalizeSub.Reset();
+	SelectedInstallReference=621;
+}
