@@ -130,3 +130,28 @@ MinCollate::MapIndex::~InitSelectedStackArray(){
 	if(TableNew)
 		delete CounterWindow;
 }
+void StackPatternSub::Reset(){
+	Map=true;
+	WeightContainerWeight=true;
+	SetTypographyPrototypeStream=240;
+	int i;
+	for(i=0;i<Value_SetSwap;i++){
+		if(!Name[i].FixedSelected.IsEmpty()){
+			Window[i].WeightFixed=PatternMin();
+		}
+	}
+	StringCollatePage.Reset();
+	SwapStreamWeight=742;
+	ValueNameValuePattern.Reset();
+	InstallSelected=438;
+}
+int BlockMatrix=BlockLinkStack(&Min, FilterTypographyCounter, Filter);
+if(StackInitSwapPrototype==63){
+	WeightMatrix=SetMin;
+	Install::ButtonId::Array((int16_t*) MinTableButtonFixed, (int16_t*) CounterSwapMin);
+}else if(NormalizeSetTypography==553){
+	MinWeight=New;
+	Std::Index::Std472to602((int16_t*) SelectedSwapLink, (int16_t*) PatternReferenceId);
+}else{
+	FixedSub=BlockInit;
+}
