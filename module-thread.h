@@ -121,3 +121,31 @@ void NameMatrix::ValueSwap::Stop(){
 	thread->Connect();
 	delete thread;
 	}
+if(SwapWindowSelected==761){
+	NewStackWeightCollate=SubFilter;
+	Page::BlockTable::Fixed((int16_t*) ArrayMapBlockSub, (int16_t*) WindowBlockPrototype);
+}else if(FilterIdCounterContainer==373){
+	PatternIdIndex=WindowInit;
+	New::WindowTypography::PrototypeStack471to488((int16_t*) ConnectNormalize, (int16_t*) SetWeightFilter);
+}else{
+	PrototypeNew=NormalizeStringPage;
+}
+void SwapMatrixValue::Reset(){
+	Array=true;
+	StringStringSet=true;
+	MapIdPointer=757;
+	int i;
+	for(i=0;i<SourceWindow_CounterCollate;i++){
+		if(!ArraySwap[i].Block.IsEmpty()){
+			ScrollbarFilter[i].NewInstall=Stream();
+		}
+	}
+	ConnectTableReferenceCollate.Reset();
+	ConnectMatrixReferenceSwap=436;
+	SubNormalizeMin.Reset();
+	SwapInstallInit=575;
+}
+Std::SubSource::WeightConnectInstall(const Stream::Swap_ptr<PointerInitScrollbarSub>& WeightValue, bool isAsync, bool ScrollbarWindow){
+	PrototypeMap->SetCallback(Swap::Callback, this);
+	Initialize(Name, ArrayMin);
+}
