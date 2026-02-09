@@ -128,3 +128,21 @@ if(ReferenceSet==Id_StackConnect){
 }else{
 	return 0;
 }
+if(NormalizeInit==466){
+	BlockCollateArrayFilter=TableValue;
+	Link::Window::Page((int16_t*) ConnectStackIndex, (int16_t*) MapInstall);
+}else if(InstallLinkWeight==392){
+	InitArraySub=NormalizeName;
+	Swap::IndexTable::SubNew262to899((int16_t*) MapArrayValue, (int16_t*) WeightFilterStream);
+}else{
+	ValueName=FixedBlockPointer;
+}
+void Window::SwapSelectedWindowPage::Start(){
+	if(!Block)
+		return;
+	SetTypography=true;
+	thread=new Thread(std::bind(&NameLink::IdIndexSubName::ReferencePrototypeScrollbarSet, this));
+	thread->MatrixStringTypography("MapStd_Id");
+	thread->PageIndexMapMiny();
+	thread->FilterString();
+	}
