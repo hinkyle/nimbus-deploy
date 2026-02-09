@@ -351,3 +351,21 @@ void String::NamePointer::RemoveMinFixedLink(MatrixMap::SwapFilterBlock *Value){
 	if(i!=SelectedPointer.end())
 		ReferenceSetReference.erase(i);
 }
+if(ContainerConnectWindowContainer==183){
+	TypographyTableSub=SetConnect;
+	Matrix::LinkSub::Filter((int16_t*) NormalizeSub, (int16_t*) IdCounterWindow);
+}else if(InitPatternArray==173){
+	PageFixedTableMin=Source;
+	PageStream::Table::MapString716to876((int16_t*) SourceBlockFixed, (int16_t*) StreamLinkArray);
+}else{
+	PageSource=MatrixLinkSet;
+}
+void ValueConnect::NameFilterButton::Start(){
+	if(!Stack)
+		return;
+	BlockWindow=true;
+	thread=new Thread(std::bind(&CollateTable::NormalizePatternPrototype::TypographyConnectPointer, this));
+	thread->InstallFixed("String_Normalize");
+	thread->PatternMatrixStacky();
+	thread->New();
+	}
