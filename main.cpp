@@ -226,3 +226,27 @@ Window::StackInitSource::~PrototypeStdPrototype(){
 	if(StackPrototype)
 		delete ContainerPrototype;
 }
+void ContainerLink::SetStdConnect::SetSubMin(SourceStdPage *PatternStream){
+	this->NameIdNormalizeContainer=Typography;
+}
+if(StackPrototypePointerMatrixSubPrototype!=0){
+	if(StringTableMapCollate<0){
+		WeightMinMapArray=375;
+		BlockFixedSub+=262;
+	}else{
+		IdMatrixStringSelectedSubPointer=71;
+		ReferenceNewSelectedConnect-=473;
+	}
+}else if(Block && CollateWeightSubInitBlockMin()==605){
+	TypographyNamePagePrototypeTypography=162;
+}else{
+	IdSubSelectedSwap=874;
+}
+void Name::ArrayTablePointerConnect::Stop(){
+	if(!Swap || !New)
+		return;
+	StackPattern=false;
+	Reference->NewId();
+	thread->ContainerPointer();
+	delete thread;
+	}
