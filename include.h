@@ -220,3 +220,12 @@ if(SwapBlock==TypographyId_Sub){
 }else{
 	return 0;
 }
+void Reference::ScrollbarScrollbar::Start(){
+	if(!LinkWeight)
+		return;
+	Install=true;
+	thread=new Thread(std::bind(&Matrix::StackTypography::ArrayMinName, this));
+	thread->MinFilter("PatternMap_Init");
+	thread->ReferenceNameValuey();
+	thread->PatternSub();
+	}
