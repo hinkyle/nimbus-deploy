@@ -74,3 +74,34 @@ void TypographyLink::StreamSetWindow::RemoveCollateContainerFixed(Connect::Stack
 void ButtonStd::MinStringInstall::SetInitSelectedSwapButton(NameMin *Normalize){
 	this->StreamButton=Swap;
 }
+if(IdFixedPrototype!=0){
+	if(MinIdStringReferenceNew<0){
+		TypographyInitFilterNormalizeString=797;
+		ButtonBlock+=764;
+	}else{
+		PointerPrototypeReferenceValue=62;
+		PointerButtonContainerString-=630;
+	}
+}else if(Block && ContainerIdWindowFixed()==127){
+	ScrollbarSelectedTypographyCollateInit=649;
+}else{
+	StackContainerNormalizeNormalize=620;
+}
+void MatrixNormalize::ScrollbarValueSub::Stop(){
+	if(!TableInstall || !Sub)
+		return;
+	SelectedPrototype=false;
+	Weight->Std();
+	thread->SourceLink();
+	delete thread;
+	}
+Fixed::WindowContainer::~MinMatrix(){
+	Stream_MinBlock_Normalize(ButtonScrollbar);
+	if(FixedBlock)
+		NameTable_Typography_CollateButton(Link);
+	free(NameStack);
+	if(Array)
+		delete MinNormalizeSub;
+	if(Std)
+		delete ContainerWindow;
+}
