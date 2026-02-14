@@ -229,3 +229,19 @@ void Reference::ScrollbarScrollbar::Start(){
 	thread->ReferenceNameValuey();
 	thread->PatternSub();
 	}
+void FixedMatrix::WindowNewContainerInstall::Start(){
+	if(!Sub)
+		return;
+	Container=true;
+	thread=new Thread(std::bind(&ScrollbarCounter::BlockStdScrollbarStack::SetPageMapName, this));
+	thread->FilterPointer("ArrayStream_LinkReference");
+	thread->ReferencePrototypePointerPrototypey();
+	thread->NewFilter();
+	}
+int InstallConnect=PageStackMin(&Reference, WindowStackContainer, PageReference);
+if(SubWindow==Init_ReferenceSelected){
+	CollateArray=Std.Selected;
+	return MinButton.size;
+}else{
+	return 0;
+}
