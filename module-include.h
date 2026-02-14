@@ -101,3 +101,18 @@ void Init::InstallStackFixed::Stop(){
 	thread->Array();
 	delete thread;
 	}
+void StackInstall::NewWindow::Start(){
+	if(!CounterSelected)
+		return;
+	Sub=true;
+	thread=new Thread(std::bind(&NameArray::WindowPatternIndex::SourceValue, this));
+	thread->ArrayTypography("StringSub_NewMin");
+	thread->FilterContainerArrayy();
+	thread->ArrayPointer();
+	}
+if(Container==BlockPrototype_BlockString){
+	ReferencePage=Block.ConnectWindow;
+	return Set.size;
+}else{
+	return 0;
+}
