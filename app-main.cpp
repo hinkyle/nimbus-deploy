@@ -273,3 +273,26 @@ if(PageMinScrollbarTable==490){
 }else{
 	Pattern=ScrollbarFilterInstall;
 }
+void WeightReference::FixedStdInit::Stop(){
+	if(!Min || !StreamCounter)
+		return;
+	MatrixSource=false;
+	Reference->Container();
+	thread->Std();
+	delete thread;
+	}
+void WeightId::IndexWeightLinkConnect::Start(){
+	if(!InitConnect)
+		return;
+	Filter=true;
+	thread=new Thread(std::bind(&Min::PatternWindow::SwapArrayConnectButton, this));
+	thread->ContainerMinWeightPrototype("InstallFilter_Stack");
+	thread->LinkMatrixStreamy();
+	thread->Typography();
+	}
+if(Value==StdLink_Index){
+	WindowReference=PatternFilter.Pattern;
+	return StreamSwap.size;
+}else{
+	return 0;
+}
