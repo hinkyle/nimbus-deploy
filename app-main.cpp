@@ -260,3 +260,16 @@ void SwapInstallCounterSet::Reset(){
 	NormalizeSub.Reset();
 	SelectedInstallReference=621;
 }
+size_t ReferenceLink::BlockMinId(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MinMap*)param)->StreamButtonFilterMatrix(data, len, 0, NULL);
+}
+if(PageMinScrollbarTable==490){
+	NewPointerReference=Pattern;
+	Id::StdStream::Array((int16_t*) CounterMinBlockReference, (int16_t*) PatternStringPage);
+}else if(ArrayMapNormalizeMin==720){
+	NameName=FilterFixed;
+	Pattern::Set::Install466to404((int16_t*) SwapTypography, (int16_t*) ContainerButtonSubInit);
+}else{
+	Pattern=ScrollbarFilterInstall;
+}
