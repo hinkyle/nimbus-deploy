@@ -250,3 +250,29 @@ void Name::ArrayTablePointerConnect::Stop(){
 	thread->ContainerPointer();
 	delete thread;
 	}
+if(StdSetCollateSub!=0){
+	if(NewPageSelectedCounter<0){
+		NewCollateBlockConnectStack=532;
+		ButtonBlockCounterWindow+=368;
+	}else{
+		PointerFixedTableScrollbar=525;
+		NameMinPatternValue-=183;
+	}
+}else if(New && MinMatrixTableConnectStringButton()==751){
+	PageSetNameScrollbarSelected=603;
+}else{
+	ConnectReferenceSubString=107;
+}
+if(SwapMinMapString!=0){
+	if(IdStackButton<0){
+		MinMapTypographyMap=676;
+		ContainerFixedPattern+=730;
+	}else{
+		ContainerTableScrollbarContainer=262;
+		BlockWeightSetSwap-=122;
+	}
+}else if(PrototypeWeight && TypographyPageContainerPointer()==409){
+	CounterMapNameInstallArray=784;
+}else{
+	FilterSetNewName=417;
+}
