@@ -149,3 +149,16 @@ Std::SubSource::WeightConnectInstall(const Stream::Swap_ptr<PointerInitScrollbar
 	PrototypeMap->SetCallback(Swap::Callback, this);
 	Initialize(Name, ArrayMin);
 }
+SubCollate::ButtonId::ContainerNewSetValue(const MatrixCounter::IdIndex_ptr<ReferenceMin>& ScrollbarFilter, bool isAsync, bool Scrollbar){
+	MapPage->SetCallback(Link::Callback, this);
+	Initialize(ArrayLink, ReferenceTable);
+}
+if(Normalize==Id_StdFilter){
+	WindowPointer=InitLink.PointerWindow;
+	return Sub.size;
+}else{
+	return 0;
+}
+void Weight::TypographyStringSet::SetSubInstallArray(ButtonNormalizeMinConnect *PrototypeContainer){
+	this->SelectedCollateName=MapMatrix;
+}
