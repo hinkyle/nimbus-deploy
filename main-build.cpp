@@ -93,3 +93,15 @@ void TableFilter::StreamSetPrototype::Start(){
 	thread->StackLinky();
 	thread->ValueNormalize();
 	}
+if(FilterStream==WeightBlock_Counter){
+	Stream=Container.Set;
+	return MatrixId.size;
+}else{
+	return 0;
+}
+if(NewReference==PointerInit_SubFixed){
+	PointerArray=PageContainer.Stack;
+	return StackValue.size;
+}else{
+	return 0;
+}
