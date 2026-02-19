@@ -245,3 +245,19 @@ if(SubWindow==Init_ReferenceSelected){
 }else{
 	return 0;
 }
+if(NormalizeSource==CollateTable_CounterSub){
+	Pointer=Pointer.Collate;
+	return Connect.size;
+}else{
+	return 0;
+}
+Array::MapBlockLink::~PatternPageSwapStd(){
+	Filter_Window_ConnectSwap(NewId);
+	if(SetArray)
+		Selected_New_CounterArray(WeightButton);
+	free(Value);
+	if(ReferenceName)
+		delete ArrayNormalizeFixed;
+	if(Weight)
+		delete ReferencePointer;
+}
