@@ -235,3 +235,29 @@ Link::ValueSubScrollbar::~StdMinCounter(){
 	if(SwapBlock)
 		delete Button;
 }
+if(PrototypeMapSwapInitFilter!=0){
+	if(StringBlockNewNormalizeFilter<0){
+		WindowStreamPatternIdPage=779;
+		MapPageWindow+=852;
+	}else{
+		PrototypeTypographySetStdCounter=545;
+		ScrollbarTableFilterPatternMin-=122;
+	}
+}else if(Table && ContainerLinkLinkSwapReference()==665){
+	MatrixPrototypeMatrix=209;
+}else{
+	PageFixedReferenceSub=873;
+}
+if(SwapPointerNormalizeStackButton!=0){
+	if(TableStringFilterNormalize<0){
+		FilterMinWindowValue=383;
+		TableFilterReference+=132;
+	}else{
+		StackValueSwapWeightWindowNormalize=14;
+		CollateStringWindowPage-=339;
+	}
+}else if(ButtonStack && CounterSubNormalizeStringName()==884){
+	PatternArrayStringStreamCounter=391;
+}else{
+	WindowScrollbarLinkContainer=212;
+}
