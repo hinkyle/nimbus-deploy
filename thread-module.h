@@ -76,3 +76,10 @@ if(SwapPrototype==475){
 }else{
 	Install=MatrixArray;
 }
+void StackValue::CollateNameCounter::SetTypographyValueTable(CounterNameMin *Pattern){
+	this->WeightTableMin=NameBlock;
+}
+ContainerInstall::MinStack::SwapButtonPointerBlock(const BlockSet::TableSub_ptr<IdButtonStream>& Scrollbar, bool isAsync, bool Swap){
+	MapCounter->SetCallback(CounterPattern::Callback, this);
+	Initialize(Page, Typography);
+}
