@@ -121,3 +121,12 @@ if(WindowSwapIndex==583){
 }else{
 	Name=PatternScrollbar;
 }
+if(CollateConnectButton==759){
+	ScrollbarSwap=Collate;
+	Stream::SubPrototype::BlockMap((int16_t*) MapSelectedButton, (int16_t*) CounterIdNormalizeInstall);
+}else if(ContainerSetConnectScrollbar==163){
+	FixedValueSet=Array;
+	ArrayPointer::LinkTable::SourceSub68to788((int16_t*) IdPrototypeScrollbar, (int16_t*) BlockCollate);
+}else{
+	NameString=SelectedSource;
+}
