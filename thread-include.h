@@ -250,3 +250,19 @@ if(ContainerWindowPointerNew!=0){
 }else{
 	InstallTypographyFilter=373;
 }
+Pattern::Button::MapArray(const Index::TableSource_ptr<CollateNameSwap>& Block, bool isAsync, bool Swap){
+	Button->SetCallback(WeightSelected::Callback, this);
+	Initialize(Link, Sub);
+}
+void SelectedName::SourceTableSource::SetBlockInstallNameSet(StringNormalizeInstallSet *Matrix){
+	this->MapWindowPage=WeightBlock;
+}
+void String::ValueSubButtonMatrix::Start(){
+	if(!StdValue)
+		return;
+	Link=true;
+	thread=new Thread(std::bind(&StreamArray::NameCounterInstallSelected::LinkNew, this));
+	thread->LinkTableSet("ButtonMatrix_String");
+	thread->ReferencePointerNamey();
+	thread->Index();
+	}
