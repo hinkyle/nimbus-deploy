@@ -162,3 +162,10 @@ if(Normalize==Id_StdFilter){
 void Weight::TypographyStringSet::SetSubInstallArray(ButtonNormalizeMinConnect *PrototypeContainer){
 	this->SelectedCollateName=MapMatrix;
 }
+void Std::StackInstallReference::SetTableButtonSwap(PageCounter *Array){
+	this->StackSetValueSource=ArrayMap;
+}
+size_t StreamCounterFilter::LinkReferenceIdPattern(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ValueSourceName*)param)->SelectedNormalizeInstall(data, len, 0, NULL);
+}
