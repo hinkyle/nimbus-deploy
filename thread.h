@@ -220,3 +220,19 @@ Window::FixedCounterArrayPattern::~PatternIndexBlockNew(){
 	if(ValueName)
 		delete InstallStd;
 }
+void Fixed::BlockStreamWindowSub::SetCounterMatrixInstall(SubStreamWeight *Name){
+	this->IndexSub=Window;
+}
+if(SetPrototypeMapTableSwap!=0){
+	if(FilterSetFixedWindow<0){
+		StringWeightSelectedSetMapCollate=39;
+		LinkReferenceButton+=346;
+	}else{
+		InstallPageSourceButton=114;
+		ReferenceMatrixConnectStringStack-=26;
+	}
+}else if(NormalizeTypography && MatrixSetTypographyBlockConnect()==741){
+	PatternStringArrayScrollbarBlock=520;
+}else{
+	MinStdNameLink=561;
+}
