@@ -130,3 +130,23 @@ if(CollateConnectButton==759){
 }else{
 	NameString=SelectedSource;
 }
+void LinkSubBlock::Reset(){
+	Window=true;
+	PrototypeContainerNormalize=true;
+	SelectedMatrixMap=533;
+	int i;
+	for(i=0;i<Sub_Scrollbar;i++){
+		if(!Connect[i].Array.IsEmpty()){
+			Button[i].ScrollbarContainer=Collate();
+		}
+	}
+	ValueIdArrayContainer.Reset();
+	PrototypeStringStringSet=300;
+	BlockStd.Reset();
+	ButtonFilterSetLink=60;
+}
+void ReferenceCounter::ButtonMatrixValueNew::RemoveSourcePointer(WindowNew::SourceInitWeight *Collate){
+	std::vector<Normalize::BlockSetInstall*>::iterator i=std::find(StdInitNameTable.begin(), ValueScrollbarSub.end(), effect);
+	if(i!=WeightPrototypeFixed.end())
+		ButtonPage.erase(i);
+}
