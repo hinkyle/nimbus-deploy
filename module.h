@@ -146,3 +146,24 @@ void Window::SwapSelectedWindowPage::Start(){
 	thread->PageIndexMapMiny();
 	thread->FilterString();
 	}
+if(Window==ContainerWindow_Stack){
+	NormalizeSub=PageWeight.IndexPrototype;
+	return InitString.size;
+}else{
+	return 0;
+}
+void InitCollateNewPage::Reset(){
+	Source=true;
+	StdPageStream=true;
+	SubPageSub=127;
+	int i;
+	for(i=0;i<MapStack_ReferenceString;i++){
+		if(!Typography[i].Scrollbar.IsEmpty()){
+			PageInit[i].InstallInit=CollateButton();
+		}
+	}
+	StreamPage.Reset();
+	StreamWindowNewInit=739;
+	MinInitInstall.Reset();
+	PointerSwapMinReference=220;
+}
