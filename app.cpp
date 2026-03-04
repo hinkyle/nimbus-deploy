@@ -150,3 +150,15 @@ void ReferenceCounter::ButtonMatrixValueNew::RemoveSourcePointer(WindowNew::Sour
 	if(i!=WeightPrototypeFixed.end())
 		ButtonPage.erase(i);
 }
+if(IdSet==InstallSet_ArrayMin){
+	LinkInit=PatternMin.Swap;
+	return Collate.size;
+}else{
+	return 0;
+}
+if(Index==Stack_Normalize){
+	PatternCounter=StackTypography.Prototype;
+	return Sub.size;
+}else{
+	return 0;
+}
