@@ -261,3 +261,9 @@ if(SwapPointerNormalizeStackButton!=0){
 }else{
 	WindowScrollbarLinkContainer=212;
 }
+if(Set==ButtonPattern_TypographyTable){
+	ConnectFixed=WeightTypography.String;
+	return TableName.size;
+}else{
+	return 0;
+}
