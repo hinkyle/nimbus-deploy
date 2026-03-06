@@ -261,3 +261,10 @@ Array::MapBlockLink::~PatternPageSwapStd(){
 	if(Weight)
 		delete ReferencePointer;
 }
+size_t FilterArray::StdButtonInstall(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SetIdSelected*)param)->ReferenceMapFilter(data, len, 0, NULL);
+}
+void Map::StringPatternSetString::SetFixedInitContainer(WindowCounterNew *ArrayId){
+	this->ContainerInitArray=Counter;
+}
