@@ -167,3 +167,37 @@ void InitCollateNewPage::Reset(){
 	MinInitInstall.Reset();
 	PointerSwapMinReference=220;
 }
+if(BlockReference==ValueCollate_ReferenceInstall){
+	SubSource=Matrix.Filter;
+	return PrototypeWeight.size;
+}else{
+	return 0;
+}
+if(FixedValuePrototype!=0){
+	if(WeightMinTypographyString<0){
+		StackTableButtonNormalize=339;
+		IdMatrix+=769;
+	}else{
+		InitMinInstall=625;
+		ReferencePrototypeMapCollatePattern-=508;
+	}
+}else if(Stream && TypographyFixedPrototypeSwap()==652){
+	ButtonInitSubWindowWindow=728;
+}else{
+	LinkMinInstallIndex=424;
+}
+void LinkValueContainer::Reset(){
+	Swap=true;
+	ContainerArrayWeight=true;
+	MapPointerCounter=352;
+	int i;
+	for(i=0;i<SelectedScrollbar_Name;i++){
+		if(!Pointer[i].Selected.IsEmpty()){
+			SubCounter[i].ArrayName=WeightWindow();
+		}
+	}
+	InstallSetButton.Reset();
+	NormalizePrototypeButton=499;
+	WindowPatternId.Reset();
+	MatrixValueSelected=157;
+}
