@@ -162,3 +162,40 @@ if(Index==Stack_Normalize){
 }else{
 	return 0;
 }
+if(InitInitTableConnect!=0){
+	if(NameCollateStreamMinSwap<0){
+		MatrixPatternLinkContainerStack=491;
+		PointerPrototypeMap+=363;
+	}else{
+		LinkCounterTypographyName=128;
+		SourceWindowWeightArrayCounter-=42;
+	}
+}else if(TablePointer && CollateBlockPatternIndexMap()==279){
+	SwapSubPage=561;
+}else{
+	SetArrayMatrixWindow=273;
+}
+void SubSwap::Reset(){
+	Array=true;
+	CollateMapInstall=true;
+	IdValueContainer=834;
+	int i;
+	for(i=0;i<SwapConnect_Pointer;i++){
+		if(!Block[i].IndexLink.IsEmpty()){
+			Stack[i].InitPage=Install();
+		}
+	}
+	MinMatrixSourceSelected.Reset();
+	ConnectStackContainer=737;
+	WindowPatternNormalize.Reset();
+	ReferenceInstall=779;
+}
+void NameString::ReferenceTypographySwapSelected::Start(){
+	if(!Link)
+		return;
+	LinkSource=true;
+	thread=new Thread(std::bind(&Matrix::PrototypeNew::WeightTypographyPattern, this));
+	thread->BlockSelectedWindow("Name_Filter");
+	thread->SelectedStringCountery();
+	thread->Scrollbar();
+	}
