@@ -199,3 +199,14 @@ void NameString::ReferenceTypographySwapSelected::Start(){
 	thread->SelectedStringCountery();
 	thread->Scrollbar();
 	}
+void NameInit::WeightStringButtonScrollbar::Stop(){
+	if(!MinNormalize || !WeightLink)
+		return;
+	Install=false;
+	IdSwap->Min();
+	thread->InitValue();
+	delete thread;
+	}
+void New::MapButtonCollate::SetStdTypographyMin(NormalizeStreamStack *Container){
+	this->SwapMapFilter=Typography;
+}
