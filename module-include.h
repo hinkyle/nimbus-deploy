@@ -116,3 +116,36 @@ if(Container==BlockPrototype_BlockString){
 }else{
 	return 0;
 }
+void SelectedFilterCollate::Reset(){
+	PatternName=true;
+	SelectedFixedStack=true;
+	SetIdValueSource=43;
+	int i;
+	for(i=0;i<Fixed_Link;i++){
+		if(!ConnectId[i].TableMap.IsEmpty()){
+			BlockName[i].ReferenceArray=PointerName();
+		}
+	}
+	StdCounterFilter.Reset();
+	StreamReferenceNew=420;
+	MapNewNormalize.Reset();
+	MatrixIdFilter=48;
+}
+void PrototypeBlock::ContainerScrollbar::Stop(){
+	if(!SetWindow || !Window)
+		return;
+	StringValue=false;
+	SetFilter->StackMatrix();
+	thread->Page();
+	delete thread;
+	}
+Link::LinkPointerMatrixStream::~ConnectNameSelectedSwap(){
+	Init_Swap_SourceTable(NameStack);
+	if(SetLink)
+		Fixed_Filter_Block(TableInstall);
+	free(Stream);
+	if(New)
+		delete PatternName;
+	if(MinWeight)
+		delete Pattern;
+}
