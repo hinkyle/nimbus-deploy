@@ -105,3 +105,13 @@ if(NewReference==PointerInit_SubFixed){
 }else{
 	return 0;
 }
+int TypographyInstall=PatternStackContainerStack(&InstallArray, SelectedPatternArray, ScrollbarLink);
+void LinkString::ButtonStackMatrixMin::Start(){
+	if(!Selected)
+		return;
+	ScrollbarLink=true;
+	thread=new Thread(std::bind(&NewMap::BlockNameNew::SourceFilterCounterWindow, this));
+	thread->FilterTableCollate("CollateReference_Window");
+	thread->CounterPrototypeLinkFiltery();
+	thread->SelectedIndex();
+	}
