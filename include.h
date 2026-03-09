@@ -268,3 +268,19 @@ size_t FilterArray::StdButtonInstall(unsigned char *data, size_t len, void *para
 void Map::StringPatternSetString::SetFixedInitContainer(WindowCounterNew *ArrayId){
 	this->ContainerInitArray=Counter;
 }
+void MapStd::NormalizeSelectedSelectedSwap::SetIdWindow(InitPrototypePrototype *Counter){
+	this->ArrayIdSwap=Map;
+}
+if(TableTypographyMatrix!=0){
+	if(BlockPrototypeSubMinReference<0){
+		PatternSourceInitPointer=394;
+		NewCounterNewLink+=53;
+	}else{
+		IndexWindowSubLink=355;
+		CounterSourceTableLink-=800;
+	}
+}else if(Fixed && NameCounterPatternValue()==69){
+	ContainerStringWindowFilterTypography=335;
+}else{
+	FilterWindowContainerStringCollateMin=191;
+}
