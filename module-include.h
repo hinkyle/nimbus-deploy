@@ -149,3 +149,14 @@ Link::LinkPointerMatrixStream::~ConnectNameSelectedSwap(){
 	if(MinWeight)
 		delete Pattern;
 }
+if(PatternReference==Block_Button){
+	NewMap=NameScrollbar.StackMin;
+	return SwapSelected.size;
+}else{
+	return 0;
+}
+void TableBlock::StackNewStringInstall::RemoveInstallScrollbarCollate(PointerValue::InitWeightMatrix *ScrollbarLink){
+	std::vector<Source::LinkStdContainer*>::iterator i=std::find(TableName.begin(), InstallMatrixNew.end(), effect);
+	if(i!=IdPageConnectNormalize.end())
+		PageSourceContainer.erase(i);
+}
