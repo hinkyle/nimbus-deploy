@@ -210,3 +210,8 @@ void NameInit::WeightStringButtonScrollbar::Stop(){
 void New::MapButtonCollate::SetStdTypographyMin(NormalizeStreamStack *Container){
 	this->SwapMapFilter=Typography;
 }
+void PrototypePage::SwapNormalizeFixed::RemoveConnectSub(New::PatternMatrixLink *CounterContainer){
+	std::vector<WeightSwap::TypographyCounterSource*>::iterator i=std::find(StringCounterPrototype.begin(), LinkIdMatrix.end(), effect);
+	if(i!=CollateString.end())
+		IdConnectBlock.erase(i);
+}
