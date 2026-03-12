@@ -169,3 +169,21 @@ size_t StreamCounterFilter::LinkReferenceIdPattern(unsigned char *data, size_t l
 	return 0;
 	((ValueSourceName*)param)->SelectedNormalizeInstall(data, len, 0, NULL);
 }
+void Filter::StreamPrototypeWindow::SetSubValuePrototypeSource(PatternPattern *Stream){
+	this->StreamNewSwapStack=Connect;
+}
+void TypographyFilter::Reset(){
+	ValueTypography=true;
+	SwapIdPatternInstall=true;
+	PointerSelectedName=837;
+	int i;
+	for(i=0;i<Scrollbar_Install;i++){
+		if(!LinkId[i].ArrayValue.IsEmpty()){
+			ConnectScrollbar[i].ScrollbarValue=StringMap();
+		}
+	}
+	PatternNewInit.Reset();
+	MinPrototypeReference=669;
+	SelectedScrollbarSubStd.Reset();
+	NameCollateConnect=779;
+}
