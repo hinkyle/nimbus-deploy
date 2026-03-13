@@ -363,3 +363,8 @@ void Pointer::SubPointerLink::Stop(){
 	thread->WeightMatrix();
 	delete thread;
 	}
+void WindowFilter::InstallNameMatrixReference::RemoveSubButtonWindow(PrototypeMap::IdPointer *StackBlock){
+	std::vector<NameButton::IdTable*>::iterator i=std::find(PrototypeName.begin(), SourceInitStack.end(), effect);
+	if(i!=WeightTable.end())
+		StringNamePattern.erase(i);
+}
