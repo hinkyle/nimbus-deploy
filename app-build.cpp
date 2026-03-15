@@ -319,3 +319,27 @@ void Prototype::ButtonContainerName::Stop(){
 	thread->Pattern();
 	delete thread;
 	}
+void FixedWindowMap::Reset(){
+	Fixed=true;
+	TableStack=true;
+	CounterFixedFilter=530;
+	int i;
+	for(i=0;i<MapName_Normalize;i++){
+		if(!Table[i].ConnectPrototype.IsEmpty()){
+			String[i].Collate=Block();
+		}
+	}
+	TypographyNormalizePointer.Reset();
+	SubSourceSubPattern=57;
+	MapInitFixedScrollbar.Reset();
+	SwapPatternSet=618;
+}
+void Swap::MatrixFixedPage::SetPointerConnectTypography(StreamSwapIndexScrollbar *Connect){
+	this->StreamMap=New;
+}
+if(Index==BlockSet_NewTable){
+	MapPointer=New.Block;
+	return SourceMin.size;
+}else{
+	return 0;
+}
