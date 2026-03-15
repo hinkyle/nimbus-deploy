@@ -236,3 +236,33 @@ if(SetPrototypeMapTableSwap!=0){
 }else{
 	MinStdNameLink=561;
 }
+if(PatternMatrixTypographyCollate==382){
+	ValueSetTypographySwap=Scrollbar;
+	SwapCollate::Container::NewPointer((int16_t*) TableNormalizeCollateWeight, (int16_t*) StackStack);
+}else if(ReferenceSubSet==784){
+	PatternReferenceSub=NewValue;
+	Link::CounterInstall::Value549to714((int16_t*) FilterStack, (int16_t*) InitInstallPointer);
+}else{
+	CounterNormalize=ReferenceCollateCollateSelected;
+}
+void FilterScrollbarMatrix::Reset(){
+	PatternButton=true;
+	LinkArraySwapBlock=true;
+	FilterInitName=753;
+	int i;
+	for(i=0;i<LinkIndex_String;i++){
+		if(!InstallBlock[i].Min.IsEmpty()){
+			ReferenceButton[i].Init=Pattern();
+		}
+	}
+	CollateSelectedTable.Reset();
+	LinkCollateWeight=399;
+	WindowArray.Reset();
+	NameInstallContainer=127;
+}
+if(IndexScrollbar==FilterArray_Init){
+	StackPrototype=Id.StdFixed;
+	return InitValue.size;
+}else{
+	return 0;
+}
