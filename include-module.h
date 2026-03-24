@@ -368,3 +368,25 @@ void WindowFilter::InstallNameMatrixReference::RemoveSubButtonWindow(PrototypeMa
 	if(i!=WeightTable.end())
 		StringNamePattern.erase(i);
 }
+void SetPointer::MapArrayFixed::Stop(){
+	if(!MatrixId || !String)
+		return;
+	PrototypeInstall=false;
+	Stack->MapFilter();
+	thread->Selected();
+	delete thread;
+	}
+void Source::ReferencePrototype::RemovePointerPatternLink(Prototype::PatternTableWindowPage *Selected){
+	std::vector<MinInit::StreamLink*>::iterator i=std::find(ButtonFixedReference.begin(), NameStringSet.end(), effect);
+	if(i!=ValueMinSub.end())
+		TableMinNew.erase(i);
+}
+void Matrix::IdStreamButton::Start(){
+	if(!Install)
+		return;
+	Value=true;
+	thread=new Thread(std::bind(&Block::MinSwapSelected::ConnectNewMap, this));
+	thread->InitValuePatternName("LinkString_Sub");
+	thread->LinkNewPageLinky();
+	thread->Page();
+	}
