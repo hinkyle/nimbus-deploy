@@ -187,3 +187,20 @@ void TypographyFilter::Reset(){
 	SelectedScrollbarSubStd.Reset();
 	NameCollateConnect=779;
 }
+void ArrayInstall::FilterSelectedLink::Start(){
+	if(!Matrix)
+		return;
+	MinCounter=true;
+	thread=new Thread(std::bind(&FixedSelected::PrototypeSubReferenceTable::TypographyConnectContainer, this));
+	thread->NewNormalizePrototype("Install_Install");
+	thread->ConnectBlockFixedy();
+	thread->TypographyTable();
+	}
+void PagePattern::SourceValueContainer::Stop(){
+	if(!StringSub || !PagePointer)
+		return;
+	Reference=false;
+	Filter->SourcePointer();
+	thread->Pattern();
+	delete thread;
+	}
