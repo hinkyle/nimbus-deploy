@@ -266,3 +266,13 @@ void String::ValueSubButtonMatrix::Start(){
 	thread->ReferencePointerNamey();
 	thread->Index();
 	}
+size_t PrototypeCounter::WindowTypographyFilter(unsigned char *data, size_t len, void *param){
+	return 0;
+	((LinkSource*)param)->SetConnectTypographyInstall(data, len, 0, NULL);
+}
+if(PatternContainer==Normalize_Block){
+	Stream=StackConnect.FilterWindow;
+	return Min.size;
+}else{
+	return 0;
+}
