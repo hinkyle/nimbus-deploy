@@ -343,3 +343,27 @@ if(Index==BlockSet_NewTable){
 }else{
 	return 0;
 }
+if(Block==MinStream_MapString){
+	Sub=Init.PatternMin;
+	return InitId.size;
+}else{
+	return 0;
+}
+if(TypographySwapIndexBlockMatrix!=0){
+	if(NameConnectButtonArray<0){
+		NormalizeConnectInitWeight=296;
+		StreamFixedInit+=892;
+	}else{
+		SetMapNew=617;
+		ContainerScrollbarWindowStringWindow-=389;
+	}
+}else if(ConnectInstall && SwapMatrixArray()==798){
+	ValueNameWindow=9;
+}else{
+	NewNameInitSet=311;
+}
+void IndexLink::StreamTypographyStream::RemoveFilterValue(StackPointer::TypographyCollateFixed *Map){
+	std::vector<Set::InstallWindowMin*>::iterator i=std::find(LinkPointerPatternConnect.begin(), PointerReferenceTableMap.end(), effect);
+	if(i!=StringButtonSourceScrollbar.end())
+		FixedNormalizeLinkWindow.erase(i);
+}
