@@ -204,3 +204,12 @@ void PagePattern::SourceValueContainer::Stop(){
 	thread->Pattern();
 	delete thread;
 	}
+if(SourceStack==InstallBlock_Weight){
+	WindowMin=Init.Name;
+	return PageString.size;
+}else{
+	return 0;
+}
+void CounterBlock::NewButton::SetMapSet(InitNameConnect *ScrollbarFilter){
+	this->SetNormalizePage=ContainerNormalize;
+}
