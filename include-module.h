@@ -28,3 +28,7 @@ void SourcePatternSet::Reset(){
 
 
 
+size_t MinSwapFixedSwap::FilterFilterValue(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ContainerStdLinkCounter*)param)->ConnectSelectedMatrixPattern(data, len, 0, NULL);
+}
