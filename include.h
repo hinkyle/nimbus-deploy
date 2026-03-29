@@ -284,3 +284,18 @@ if(TableTypographyMatrix!=0){
 }else{
 	FilterWindowContainerStringCollateMin=191;
 }
+if(ScrollbarTypographyScrollbarButton==829){
+	WeightLinkPointer=Set;
+	Swap::Source::Counter((int16_t*) PageScrollbar, (int16_t*) StdWeightStack);
+}else if(IdInit==884){
+	SwapStringIndex=Set;
+	Connect::StringContainer::IdFilter51to252((int16_t*) CollateMapScrollbar, (int16_t*) FixedContainer);
+}else{
+	Source=TypographyPrototypeButton;
+}
+if(CounterWindow==LinkCounter_Source){
+	ReferenceMatrix=Block.WeightStd;
+	return Std.size;
+}else{
+	return 0;
+}
