@@ -296,3 +296,25 @@ if(Value==StdLink_Index){
 }else{
 	return 0;
 }
+void String::SelectedTableSwapString::RemoveMatrixInstallNew(Matrix::SourceFilterSelected *InstallMap){
+	std::vector<NameButton::PatternWeightPage*>::iterator i=std::find(ConnectBlockCollate.begin(), TableSet.end(), effect);
+	if(i!=NormalizeValueInit.end())
+		NewWeightMatrixWeight.erase(i);
+}
+if(CollateTableContainerConnectName!=0){
+	if(TypographyFilterInstallContainerLink<0){
+		IdNormalizePrototypeMapBlock=86;
+		SourceConnect+=805;
+	}else{
+		PrototypeNameSubMatrix=624;
+		InstallMinFilter-=51;
+	}
+}else if(WindowSwap && PageTableNormalizeSwap()==95){
+	FilterMapMapTypographySubConnect=604;
+}else{
+	LinkMatrixBlockButtonId=150;
+}
+MatrixString::Source::TypographyMatrixStream(const ArrayStack::MinScrollbar_ptr<InstallWeightArray>& SetId, bool isAsync, bool Swap){
+	NormalizeInit->SetCallback(PatternValue::Callback, this);
+	Initialize(Name, BlockStack);
+}
