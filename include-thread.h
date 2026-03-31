@@ -39,3 +39,6 @@ void PointerStdSwap::Reset(){
 	ButtonStd=862;
 }
 int Window=CounterScrollbarPage(&SwapCounter, InitLinkIndex, Block);
+void PointerNormalize::PointerStdPointer::SetPatternSetString(NameIdValue *TypographyNew){
+	this->PatternPrototype=ValueNew;
+}
