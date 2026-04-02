@@ -276,3 +276,28 @@ if(PatternContainer==Normalize_Block){
 }else{
 	return 0;
 }
+if(String==WindowButton_Connect){
+	TypographyScrollbar=Selected.BlockValue;
+	return Init.size;
+}else{
+	return 0;
+}
+ScrollbarMatrix::WindowStringMatrix::~StackFixed(){
+	NameInstall_MapInstall_Filter(ArrayReference);
+	if(MapArray)
+		PrototypeTypography_Pattern_Id(Init);
+	free(ButtonInit);
+	if(PrototypeId)
+		delete SetPageSelected;
+	if(SourceArray)
+		delete Id;
+}
+void Filter::NormalizeCollatePatternMin::Start(){
+	if(!StdSource)
+		return;
+	BlockInit=true;
+	thread=new Thread(std::bind(&Name::ConnectWindowInstallMatrix::MapSourceNew, this));
+	thread->PageSub("MapStd_NewConnect");
+	thread->StdScrollbarValueBlocky();
+	thread->TypographyInit();
+	}
