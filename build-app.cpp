@@ -155,3 +155,28 @@ if(StackInitSwapPrototype==63){
 }else{
 	FixedSub=BlockInit;
 }
+Counter::StringStringSwap::~TypographyMatrixCounterWindow(){
+	Button_Source_Block(Typography);
+	if(ContainerNormalize)
+		Fixed_PageIndex_MapNew(Init);
+	free(LinkFixed);
+	if(PointerNormalize)
+		delete StackInstallTable;
+	if(SubId)
+		delete StringValue;
+}
+void Typography::LinkInitPrototype::Start(){
+	if(!Id)
+		return;
+	PagePointer=true;
+	thread=new Thread(std::bind(&Fixed::CounterIdPage::StringMin, this));
+	thread->NameMatrixInstallFixed("Pointer_Filter");
+	thread->PageStackNormalizeIndexy();
+	thread->WeightPointer();
+	}
+if(Stack==MapStack_Scrollbar){
+	Source=Table.Normalize;
+	return MapName.size;
+}else{
+	return 0;
+}
