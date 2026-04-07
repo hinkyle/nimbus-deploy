@@ -299,3 +299,22 @@ if(CounterWindow==LinkCounter_Source){
 }else{
 	return 0;
 }
+if(ConnectCounterIdSwap!=0){
+	if(SubMapReferenceCounter<0){
+		ReferenceTableStreamMinMap=319;
+		InitFilterInit+=637;
+	}else{
+		PointerMinPatternStackSub=760;
+		NameBlockStackButton-=595;
+	}
+}else if(NewArray && ConnectIdString()==344){
+	StdSelectedSelectedSubInstall=796;
+}else{
+	ButtonFixedInstallReference=241;
+}
+if(SelectedMin==Map_Normalize){
+	Selected=Block.Normalize;
+	return Sub.size;
+}else{
+	return 0;
+}
