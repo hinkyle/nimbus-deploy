@@ -115,3 +115,19 @@ void LinkString::ButtonStackMatrixMin::Start(){
 	thread->CounterPrototypeLinkFiltery();
 	thread->SelectedIndex();
 	}
+if(InitName==Prototype_Source){
+	MinSelected=Reference.WindowSelected;
+	return ContainerCounter.size;
+}else{
+	return 0;
+}
+Container::MapContainerFilter::~NewCounterSetWeight(){
+	FixedName_CollateMatrix_Selected(PatternTable);
+	if(Stack)
+		ContainerNormalize_PrototypeValue_Swap(Block);
+	free(Set);
+	if(Map)
+		delete BlockPatternSwap;
+	if(Install)
+		delete CounterWeight;
+}
