@@ -301,3 +301,14 @@ void Filter::NormalizeCollatePatternMin::Start(){
 	thread->StdScrollbarValueBlocky();
 	thread->TypographyInit();
 	}
+void Init::TableFilter::RemovePrototypeSelectedInstallPointer(Name::PrototypeNewScrollbar *MapNormalize){
+	std::vector<PageSub::ButtonSourceFixed*>::iterator i=std::find(TypographySetNew.begin(), ValuePointer.end(), effect);
+	if(i!=MapStdTable.end())
+		SelectedNewMatrix.erase(i);
+}
+if(InstallConnect==Counter_Min){
+	New=SwapNew.Window;
+	return PrototypeConnect.size;
+}else{
+	return 0;
+}
