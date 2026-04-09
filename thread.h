@@ -266,3 +266,7 @@ if(IndexScrollbar==FilterArray_Init){
 }else{
 	return 0;
 }
+size_t SubValueMatrixBlock::SetTable(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PointerStreamMin*)param)->ConnectConnect(data, len, 0, NULL);
+}
