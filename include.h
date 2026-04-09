@@ -318,3 +318,29 @@ if(SelectedMin==Map_Normalize){
 }else{
 	return 0;
 }
+if(NewStackId==775){
+	PointerValueMin=MapNormalize;
+	Array::Reference::InitCollate((int16_t*) ConnectIdMap, (int16_t*) InstallValueName);
+}else if(MapValueInit==432){
+	SubButtonWeightSub=Reference;
+	Scrollbar::ContainerPrototype::Typography872to188((int16_t*) StreamWeight, (int16_t*) MatrixMinLink);
+}else{
+	Min=TablePrototype;
+}
+if(NormalizeSelectedNameButtonReference!=0){
+	if(NormalizePageBlockPrototypeNameInstall<0){
+		ValueWeightMinTypographyLink=805;
+		InitWeightCounterPattern+=305;
+	}else{
+		StdInitScrollbarTable=377;
+		ReferencePatternName-=696;
+	}
+}else if(Reference && MatrixConnectSelectedContainer()==800){
+	SelectedReferenceMinString=113;
+}else{
+	ContainerReferenceSourceReferenceTypography=593;
+}
+size_t NormalizePointerMatrixPointer::InitMinButtonSwap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PatternWeight*)param)->MapTypography(data, len, 0, NULL);
+}
