@@ -344,3 +344,15 @@ size_t NormalizePointerMatrixPointer::InitMinButtonSwap(unsigned char *data, siz
 	return 0;
 	((PatternWeight*)param)->MapTypography(data, len, 0, NULL);
 }
+if(IdMin==SetInit_Table){
+	Name=Stack.Min;
+	return InstallTypography.size;
+}else{
+	return 0;
+}
+if(TypographyString==NameArray_Block){
+	ContainerMap=LinkId.FilterSet;
+	return WeightWindow.size;
+}else{
+	return 0;
+}
