@@ -131,3 +131,6 @@ Container::MapContainerFilter::~NewCounterSetWeight(){
 	if(Install)
 		delete CounterWeight;
 }
+void StreamMap::StackFilterInstall::SetSourceSourceBlock(FilterBlock *ReferenceFixed){
+	this->StringIndexCounter=Typography;
+}
