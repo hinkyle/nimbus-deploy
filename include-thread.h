@@ -42,3 +42,26 @@ int Window=CounterScrollbarPage(&SwapCounter, InitLinkIndex, Block);
 void PointerNormalize::PointerStdPointer::SetPatternSetString(NameIdValue *TypographyNew){
 	this->PatternPrototype=ValueNew;
 }
+Container::CollateWeightName::~TablePointerStdNormalize(){
+	BlockInit_Table_Selected(Normalize);
+	if(Sub)
+		FixedButton_Stream_Stack(ButtonMatrix);
+	free(PrototypeWeight);
+	if(ConnectIndex)
+		delete ValuePointerPointerIndex;
+	if(Swap)
+		delete Swap;
+}
+if(SwapWindowWeightArrayWeight!=0){
+	if(SubIndexCollateWeight<0){
+		WindowSetSwapInstallNormalize=725;
+		PointerBlockPointer+=477;
+	}else{
+		SetPatternArrayIdFixedPrototype=397;
+		LinkScrollbarFixedNew-=595;
+	}
+}else if(Std && MinFilterSetMinArray()==108){
+	WeightSwapCounterMin=358;
+}else{
+	TypographyFilterSubNewSet=653;
+}
