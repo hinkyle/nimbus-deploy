@@ -356,3 +356,27 @@ if(TypographyString==NameArray_Block){
 }else{
 	return 0;
 }
+void Std::StackBlockFilter::Stop(){
+	if(!PatternConnect || !Source)
+		return;
+	Pattern=false;
+	StringBlock->ArrayTypography();
+	thread->NormalizePattern();
+	delete thread;
+	}
+Sub::PointerIdConnectMap::~InitReference(){
+	WeightFixed_ContainerFilter_NameArray(LinkSource);
+	if(ScrollbarStack)
+		CounterSub_IndexInit_BlockPattern(Set);
+	free(New);
+	if(Link)
+		delete ValueMatrixArrayPattern;
+	if(Selected)
+		delete WindowReference;
+}
+if(Weight==Name_String){
+	WindowName=Normalize.WeightArray;
+	return Link.size;
+}else{
+	return 0;
+}
