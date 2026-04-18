@@ -312,3 +312,9 @@ if(InstallConnect==Counter_Min){
 }else{
 	return 0;
 }
+if(Array==WindowValue_StreamPage){
+	InitContainer=New.Weight;
+	return FixedMap.size;
+}else{
+	return 0;
+}
