@@ -65,3 +65,15 @@ if(SwapWindowWeightArrayWeight!=0){
 }else{
 	TypographyFilterSubNewSet=653;
 }
+size_t LinkBlock::SwapNameSwap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ScrollbarPrototypeCollateInstall*)param)->ConnectConnectName(data, len, 0, NULL);
+}
+void Counter::TableWindowCollate::Stop(){
+	if(!Map || !NewLink)
+		return;
+	FilterName=false;
+	NameSub->InitInstall();
+	thread->SetNormalize();
+	delete thread;
+	}
