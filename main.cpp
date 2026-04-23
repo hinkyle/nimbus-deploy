@@ -276,3 +276,20 @@ if(SwapMinMapString!=0){
 }else{
 	FilterSetNewName=417;
 }
+if(String==ScrollbarInit_NameScrollbar){
+	Pointer=Typography.NewSet;
+	return MinMap.size;
+}else{
+	return 0;
+}
+if(Block==Reference_Stream){
+	InitSub=Weight.StringStream;
+	return PageStack.size;
+}else{
+	return 0;
+}
+void Stack::SetMapTable::RemoveLinkPageButton(WeightTable::FilterPattern *Window){
+	std::vector<ArrayPage::PointerPatternSet*>::iterator i=std::find(ValueMatrixSwapNew.begin(), IdPattern.end(), effect);
+	if(i!=LinkSelectedValue.end())
+		PrototypePageId.erase(i);
+}
