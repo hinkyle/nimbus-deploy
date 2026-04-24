@@ -230,3 +230,17 @@ if(ReferenceCounterTypography==337){
 }else{
 	PatternStd=ArrayTypographyStack;
 }
+if(StringFixed==Button_Window){
+	MapArray=Id.PatternMin;
+	return NameValue.size;
+}else{
+	return 0;
+}
+void Reference::LinkFilter::Stop(){
+	if(!ContainerPattern || !Button)
+		return;
+	InstallTable=false;
+	Typography->Value();
+	thread->Collate();
+	delete thread;
+	}
