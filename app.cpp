@@ -215,3 +215,18 @@ void PrototypePage::SwapNormalizeFixed::RemoveConnectSub(New::PatternMatrixLink 
 	if(i!=CollateString.end())
 		IdConnectBlock.erase(i);
 }
+if(Filter==Name_Counter){
+	ContainerMatrix=Min.Scrollbar;
+	return SelectedConnect.size;
+}else{
+	return 0;
+}
+if(ReferenceCounterTypography==337){
+	NewLinkSource=String;
+	IdButton::String::TablePage((int16_t*) ButtonNameTable, (int16_t*) TypographyTableFilter);
+}else if(PageMap==447){
+	LinkStreamMin=ContainerString;
+	FixedNew::SourceInit::TypographyStd126to576((int16_t*) PageFixed, (int16_t*) SetStackCollate);
+}else{
+	PatternStd=ArrayTypographyStack;
+}
