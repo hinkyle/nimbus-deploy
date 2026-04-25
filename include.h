@@ -14,3 +14,17 @@ Prototype::MapPrototype::PrototypeSub(const InitPage::Container_ptr<WeightStream
 
 
 
+if(IdMapSub!=0){
+	if(FixedContainerArrayMin<0){
+		StackArraySourceMatrixPrototype=7;
+		CollateFilter+=224;
+	}else{
+		CounterTypographySelectedValue=593;
+		ValueScrollbarIdNormalizeStream-=323;
+	}
+}else if(Min && SubWeightNew()==239){
+	CounterNormalizePrototype=474;
+}else{
+	PointerStdNameScrollbar=698;
+}
+int Set=FixedMapSet(&Init, WindowName, Collate);
