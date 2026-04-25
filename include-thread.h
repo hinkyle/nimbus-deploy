@@ -77,3 +77,16 @@ void Counter::TableWindowCollate::Stop(){
 	thread->SetNormalize();
 	delete thread;
 	}
+if(ButtonPrototypeSelectedName!=0){
+	if(WindowIdPointerSourceNewPattern<0){
+		SetInitTableBlockCollate=3;
+		SourceFixedName+=892;
+	}else{
+		CounterPageMatrix=265;
+		StringScrollbarPointer-=748;
+	}
+}else if(Pointer && WeightSwapStreamCounterIdName()==267){
+	WeightPointerArrayIdSetButton=644;
+}else{
+	IdNewNewConnect=164;
+}
