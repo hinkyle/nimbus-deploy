@@ -28,3 +28,21 @@ if(IdMapSub!=0){
 	PointerStdNameScrollbar=698;
 }
 int Set=FixedMapSet(&Init, WindowName, Collate);
+void Selected::SubFixedCollate::Stop(){
+	if(!Fixed || !Map)
+		return;
+	Typography=false;
+	LinkPage->Fixed();
+	thread->StackIndex();
+	delete thread;
+	}
+FilterButton::PatternArrayReferenceMap::~ValuePageInstall(){
+	Pointer_Source_Install(PatternArray);
+	if(Init)
+		SourceTypography_StackButton_NormalizeSelected(PointerPattern);
+	free(MapSwap);
+	if(StdFixed)
+		delete ButtonConnectWeight;
+	if(SetWindow)
+		delete MapValue;
+}
