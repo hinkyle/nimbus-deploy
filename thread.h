@@ -270,3 +270,12 @@ size_t SubValueMatrixBlock::SetTable(unsigned char *data, size_t len, void *para
 	return 0;
 	((PointerStreamMin*)param)->ConnectConnect(data, len, 0, NULL);
 }
+void Install::CollatePrototypeName::Start(){
+	if(!StdBlock)
+		return;
+	NormalizeTypography=true;
+	thread=new Thread(std::bind(&Fixed::LinkPageFilterFixed::IdScrollbarNameInstall, this));
+	thread->ReferenceWindow("PatternNew_Selected");
+	thread->ReferenceWeighty();
+	thread->ReferenceMatrix();
+	}
