@@ -160,3 +160,22 @@ void TableBlock::StackNewStringInstall::RemoveInstallScrollbarCollate(PointerVal
 	if(i!=IdPageConnectNormalize.end())
 		PageSourceContainer.erase(i);
 }
+size_t MinNameSource::StreamArrayMin(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SwapIdSwap*)param)->StackStringSelectedSwap(data, len, 0, NULL);
+}
+if(Array==TypographyFilter_Typography){
+	SwapReference=PointerFilter.SelectedLink;
+	return WeightPattern.size;
+}else{
+	return 0;
+}
+void NameInstall::NormalizeSource::Start(){
+	if(!ValuePattern)
+		return;
+	Button=true;
+	thread=new Thread(std::bind(&Connect::MatrixPrototypeString::StreamButtonPage, this));
+	thread->PrototypeWeightFixedMin("IdNormalize_Swap");
+	thread->SwapButtonSubPagey();
+	thread->SourceButton();
+	}
