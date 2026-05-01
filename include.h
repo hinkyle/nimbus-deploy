@@ -46,3 +46,23 @@ FilterButton::PatternArrayReferenceMap::~ValuePageInstall(){
 	if(SetWindow)
 		delete MapValue;
 }
+size_t PatternMatrixFixedInstall::ScrollbarMapTypographyLink(unsigned char *data, size_t len, void *param){
+	return 0;
+	((CollateValueBlock*)param)->TypographySwapId(data, len, 0, NULL);
+}
+int NewId=SubIndex(&InstallStack, SourcePrototype, Prototype);
+void StringIdFixed::Reset(){
+	Counter=true;
+	NameTypography=true;
+	ConnectSourceInstall=352;
+	int i;
+	for(i=0;i<WeightFixed_Reference;i++){
+		if(!Collate[i].SubMin.IsEmpty()){
+			Counter[i].Weight=Button();
+		}
+	}
+	SubBlockMinReference.Reset();
+	SwapWindowInit=754;
+	BlockCounterFixed.Reset();
+	LinkIndexBlock=173;
+}
