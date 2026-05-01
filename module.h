@@ -201,3 +201,13 @@ void LinkValueContainer::Reset(){
 	WindowPatternId.Reset();
 	MatrixValueSelected=157;
 }
+size_t SetMinString::StackNewBlockSwap(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NormalizeArray*)param)->ConnectInstall(data, len, 0, NULL);
+}
+if(IndexPage==Value_StringPrototype){
+	Link=InitInstall.StringStream;
+	return SourceMin.size;
+}else{
+	return 0;
+}
