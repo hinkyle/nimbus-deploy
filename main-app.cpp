@@ -275,3 +275,24 @@ size_t MatrixTypographyPointer::ContainerButtonInit(unsigned char *data, size_t 
 	return 0;
 	((PrototypeIdSubInstall*)param)->ScrollbarStdStack(data, len, 0, NULL);
 }
+if(InitStringPage==301){
+	ConnectStreamTypography=FilterCounter;
+	SubConnect::PointerNew::Table((int16_t*) IdReferencePointer, (int16_t*) SetValueWeight);
+}else if(WeightInitLinkBlock==311){
+	ArrayNewTable=MatrixBlock;
+	PointerButton::Connect::InitStream321to624((int16_t*) SetInitReference, (int16_t*) StreamConnectCollate);
+}else{
+	Install=CounterTypography;
+}
+if(Normalize==TypographyInstall_Sub){
+	Connect=Min.Link;
+	return SourceMatrix.size;
+}else{
+	return 0;
+}
+if(Reference==WindowMin_NameInstall){
+	SourceInit=MinWindow.Fixed;
+	return Pointer.size;
+}else{
+	return 0;
+}
