@@ -267,3 +267,11 @@ if(Set==ButtonPattern_TypographyTable){
 }else{
 	return 0;
 }
+size_t StreamFixedSelected::StringSetInstall(unsigned char *data, size_t len, void *param){
+	return 0;
+	((LinkContainerPrototype*)param)->StreamSourceSelectedPattern(data, len, 0, NULL);
+}
+size_t MatrixTypographyPointer::ContainerButtonInit(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PrototypeIdSubInstall*)param)->ScrollbarStdStack(data, len, 0, NULL);
+}
