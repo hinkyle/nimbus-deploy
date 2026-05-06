@@ -66,3 +66,16 @@ void StringIdFixed::Reset(){
 	BlockCounterFixed.Reset();
 	LinkIndexBlock=173;
 }
+size_t ArraySwapName::MapMapTable(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TypographyValueStack*)param)->FixedFilter(data, len, 0, NULL);
+}
+void PageButton::ButtonIndex::Start(){
+	if(!Map)
+		return;
+	StreamName=true;
+	thread=new Thread(std::bind(&ConnectPrototype::SubInitFilter::FixedMapConnectMap, this));
+	thread->TypographyFilterNameFilter("FixedPrototype_Link");
+	thread->SelectedStreamIdLinky();
+	thread->ContainerStd();
+	}
