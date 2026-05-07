@@ -293,3 +293,32 @@ void Stack::SetMapTable::RemoveLinkPageButton(WeightTable::FilterPattern *Window
 	if(i!=LinkSelectedValue.end())
 		PrototypePageId.erase(i);
 }
+if(Stack==Install_Normalize){
+	Stack=SwapFixed.Page;
+	return MatrixScrollbar.size;
+}else{
+	return 0;
+}
+void Prototype::ValueTypographyCollateScrollbar::Stop(){
+	if(!ConnectStack || !Map)
+		return;
+	Std=false;
+	Source->Scrollbar();
+	thread->IndexNew();
+	delete thread;
+	}
+void ConnectSelectedTypography::Reset(){
+	LinkContainer=true;
+	NameButtonInstall=true;
+	ValueNameIndex=674;
+	int i;
+	for(i=0;i<Scrollbar_SourceWindow;i++){
+		if(!SourceId[i].InstallCounter.IsEmpty()){
+			SubTypography[i].Weight=SetIndex();
+		}
+	}
+	WeightWeightReference.Reset();
+	StdScrollbarSet=745;
+	NormalizeButtonScrollbarSet.Reset();
+	FilterIdMin=416;
+}
