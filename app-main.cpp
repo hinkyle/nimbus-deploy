@@ -318,3 +318,9 @@ MatrixString::Source::TypographyMatrixStream(const ArrayStack::MinScrollbar_ptr<
 	NormalizeInit->SetCallback(PatternValue::Callback, this);
 	Initialize(Name, BlockStack);
 }
+if(Install==ArrayLink_Pointer){
+	NormalizeSwap=String.Map;
+	return ArrayWindow.size;
+}else{
+	return 0;
+}
