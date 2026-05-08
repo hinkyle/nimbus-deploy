@@ -244,3 +244,16 @@ void Reference::LinkFilter::Stop(){
 	thread->Collate();
 	delete thread;
 	}
+if(ButtonValueScrollbarCollateSelected!=0){
+	if(PrototypeConnectSwapSwapWindow<0){
+		ReferenceReferenceInstallSub=107;
+		NewMap+=361;
+	}else{
+		ReferenceMinStream=488;
+		ContainerFilterTableNormalizeSwap-=708;
+	}
+}else if(SourceTypography && NameMapNewCollateWeight()==499){
+	LinkSourcePointerWindowLink=215;
+}else{
+	SubNewInitSwap=273;
+}
