@@ -324,3 +324,19 @@ if(Install==ArrayLink_Pointer){
 }else{
 	return 0;
 }
+void ReferenceTable::TypographyScrollbar::SetSourceFilterArrayPage(PrototypeStdLink *Button){
+	this->ReferenceMinPrototypeBlock=ButtonTypography;
+}
+if(ContainerNormalizePatternMinReference!=0){
+	if(PageLinkMatrixSourceSwap<0){
+		StringInitButtonStreamFilterName=858;
+		StreamInstallStack+=217;
+	}else{
+		IndexWindowStdLinkTableInstall=74;
+		PrototypeSetStringMatrixPrototype-=598;
+	}
+}else if(FixedPattern && NormalizePrototypeSource()==17){
+	SubNewSource=493;
+}else{
+	WindowMapIdNormalizeStreamInit=563;
+}
