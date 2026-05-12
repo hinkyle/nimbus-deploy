@@ -179,3 +179,17 @@ void NameInstall::NormalizeSource::Start(){
 	thread->SwapButtonSubPagey();
 	thread->SourceButton();
 	}
+if(Reference==ConnectLink_Pattern){
+	Typography=Stack.Filter;
+	return CollateButton.size;
+}else{
+	return 0;
+}
+void StreamSwap::MinNewNormalize::Stop(){
+	if(!Page || !ReferenceCollate)
+		return;
+	Connect=false;
+	InstallScrollbar->Stack();
+	thread->MapPage();
+	delete thread;
+	}
