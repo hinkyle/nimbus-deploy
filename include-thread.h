@@ -90,3 +90,16 @@ if(ButtonPrototypeSelectedName!=0){
 }else{
 	IdNewNewConnect=164;
 }
+void ReferenceMap::TypographyStringInit::Start(){
+	if(!Window)
+		return;
+	SwapFixed=true;
+	thread=new Thread(std::bind(&ConnectFixed::ConnectPattern::StackArrayPage, this));
+	thread->SelectedSwapCollate("SubMap_SourceString");
+	thread->BlockStackValuey();
+	thread->StackPattern();
+	}
+size_t MapLinkArray::ReferenceReference(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ArrayConnectLinkSelected*)param)->FixedStreamNormalizeMap(data, len, 0, NULL);
+}
