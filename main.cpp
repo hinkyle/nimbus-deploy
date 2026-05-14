@@ -322,3 +322,18 @@ void ConnectSelectedTypography::Reset(){
 	NormalizeButtonScrollbarSet.Reset();
 	FilterIdMin=416;
 }
+if(Connect==NormalizeMap_Swap){
+	Map=Init.NormalizeStd;
+	return Array.size;
+}else{
+	return 0;
+}
+void SwapConnect::ScrollbarStringSubCollate::Start(){
+	if(!Id)
+		return;
+	Install=true;
+	thread=new Thread(std::bind(&InstallSub::PatternStreamPointer::FilterButtonBlock, this));
+	thread->IndexFixed("WindowInstall_Counter");
+	thread->SetReferenceButtonConnecty();
+	thread->Filter();
+	}
