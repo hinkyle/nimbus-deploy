@@ -296,3 +296,23 @@ if(Reference==WindowMin_NameInstall){
 }else{
 	return 0;
 }
+if(Normalize==Counter_Pattern){
+	Page=StackTable.FixedSelected;
+	return SourceId.size;
+}else{
+	return 0;
+}
+void Container::NormalizeNameStackInstall::RemoveValueInstallArrayConnect(IdConnect::ValueReference *PatternId){
+	std::vector<ScrollbarPattern::WindowSubSwapMatrix*>::iterator i=std::find(NamePatternSet.begin(), SetMin.end(), effect);
+	if(i!=FixedTypographyId.end())
+		MatrixConnectWindow.erase(i);
+}
+if(IdPageValue==636){
+	MapStack=SubFixed;
+	Matrix::Selected::Map((int16_t*) InitMinPagePattern, (int16_t*) StringNameMinCounter);
+}else if(MinReference==226){
+	LinkContainer=TypographyNew;
+	Id::NewButton::Typography555to679((int16_t*) SubInitFixed, (int16_t*) NamePatternConnect);
+}else{
+	ArrayPrototype=InitSelectedTypography;
+}
