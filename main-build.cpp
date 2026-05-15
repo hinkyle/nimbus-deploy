@@ -134,3 +134,9 @@ Container::MapContainerFilter::~NewCounterSetWeight(){
 void StreamMap::StackFilterInstall::SetSourceSourceBlock(FilterBlock *ReferenceFixed){
 	this->StringIndexCounter=Typography;
 }
+if(Array==Typography_Weight){
+	Id=Filter.Table;
+	return Install.size;
+}else{
+	return 0;
+}
