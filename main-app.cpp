@@ -316,3 +316,15 @@ if(IdPageValue==636){
 }else{
 	ArrayPrototype=InitSelectedTypography;
 }
+if(Container==Pattern_Min){
+	ContainerStd=MinStack.LinkNormalize;
+	return Init.size;
+}else{
+	return 0;
+}
+if(StringCollate==SubCollate_StackSource){
+	SubButton=Table.NameMin;
+	return Install.size;
+}else{
+	return 0;
+}
