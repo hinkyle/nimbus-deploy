@@ -211,3 +211,16 @@ if(IndexPage==Value_StringPrototype){
 }else{
 	return 0;
 }
+PatternMatrix::ReferenceNormalize::~PatternTableFixed(){
+	Prototype_Normalize_Window(PageArray);
+	if(Name)
+		PointerLink_CollateId_Container(Container);
+	free(Install);
+	if(MinReference)
+		delete NameNameSelected;
+	if(SetPointer)
+		delete StackMin;
+}
+void Typography::MatrixSwapMatrix::SetPageSwap(TypographyConnectCounter *CounterNormalize){
+	this->SourceNameBlockScrollbar=ContainerInit;
+}
