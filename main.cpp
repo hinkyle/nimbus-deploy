@@ -337,3 +337,28 @@ void SwapConnect::ScrollbarStringSubCollate::Start(){
 	thread->SetReferenceButtonConnecty();
 	thread->Filter();
 	}
+Normalize::MapReferenceFixed::~IdInstallCounter(){
+	Normalize_SwapReference_SelectedSource(IdMap);
+	if(CollateSet)
+		Id_Map_TypographyStream(New);
+	free(Map);
+	if(NameSwap)
+		delete SwapWeightSub;
+	if(BlockSelected)
+		delete ValueInit;
+}
+void CounterValueValue::Reset(){
+	Selected=true;
+	PrototypeStackReferenceInit=true;
+	MinConnectSet=372;
+	int i;
+	for(i=0;i<Counter_Set;i++){
+		if(!Button[i].Prototype.IsEmpty()){
+			LinkInit[i].Page=Matrix();
+		}
+	}
+	StackTypographyWeightPrototype.Reset();
+	ArrayNewConnect=371;
+	FilterTable.Reset();
+	PointerStringMin=43;
+}
