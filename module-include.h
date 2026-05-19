@@ -193,3 +193,27 @@ void StreamSwap::MinNewNormalize::Stop(){
 	thread->MapPage();
 	delete thread;
 	}
+if(SelectedContainerCollate==451){
+	MatrixStdMapContainer=ButtonPage;
+	Source::CounterNormalize::BlockSelected((int16_t*) LinkCollate, (int16_t*) ScrollbarConnectStringConnect);
+}else if(NormalizeConnectMatrix==457){
+	StackSwapPointer=Window;
+	MapId::NameCounter::LinkCollate657to482((int16_t*) CounterBlockCounterFixed, (int16_t*) IdFilterCounterSelected);
+}else{
+	SourceStd=IndexStackString;
+}
+void TypographyCounterInit::Reset(){
+	Container=true;
+	CollateNameInstall=true;
+	ValueWindowScrollbarTypography=839;
+	int i;
+	for(i=0;i<Prototype_Fixed;i++){
+		if(!NameSwap[i].ReferenceStack.IsEmpty()){
+			PrototypeBlock[i].CollateContainer=Container();
+		}
+	}
+	CollatePageArray.Reset();
+	ContainerButtonInstall=72;
+	WeightTypographyNew.Reset();
+	StreamValueInstall=439;
+}
