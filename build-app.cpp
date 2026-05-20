@@ -180,3 +180,20 @@ if(Stack==MapStack_Scrollbar){
 }else{
 	return 0;
 }
+void MatrixNameArraySub::Reset(){
+	MinSource=true;
+	ButtonCounterContainerSelected=true;
+	IdNewPageMap=397;
+	int i;
+	for(i=0;i<Link_Stream;i++){
+		if(!InitConnect[i].Button.IsEmpty()){
+			LinkSource[i].IndexFixed=StreamSwap();
+		}
+	}
+	CollateStream.Reset();
+	PointerString=805;
+	ConnectMatrixSet.Reset();
+	PointerSwapArray=561;
+}
+int ButtonLink=NormalizeButtonValue(&StackPointer, MinButtonStdPattern, BlockPage);
+int ButtonStream=TableMapSet(&String, SubWindowSelected, ArrayValue);
