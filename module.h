@@ -224,3 +224,6 @@ PatternMatrix::ReferenceNormalize::~PatternTableFixed(){
 void Typography::MatrixSwapMatrix::SetPageSwap(TypographyConnectCounter *CounterNormalize){
 	this->SourceNameBlockScrollbar=ContainerInit;
 }
+void Container::FixedFilterValueStack::SetArrayValue(ButtonInitStreamLink *New){
+	this->IdLinkSwap=Array;
+}
