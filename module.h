@@ -227,3 +227,21 @@ void Typography::MatrixSwapMatrix::SetPageSwap(TypographyConnectCounter *Counter
 void Container::FixedFilterValueStack::SetArrayValue(ButtonInitStreamLink *New){
 	this->IdLinkSwap=Array;
 }
+Source::Map::SourceStackTypographyMatrix(const ValueTable::Block_ptr<InstallConnectScrollbar>& Min, bool isAsync, bool Button){
+	FixedMap->SetCallback(Matrix::Callback, this);
+	Initialize(PointerBlock, Init);
+}
+if(MatrixConnect==Init_Source){
+	PrototypeTable=Min.TableSet;
+	return IndexInit.size;
+}else{
+	return 0;
+}
+void SelectedStream::ReferencePointerSet::Stop(){
+	if(!PointerValue || !Page)
+		return;
+	SetPage=false;
+	Set->ScrollbarMin();
+	thread->Weight();
+	delete thread;
+	}
