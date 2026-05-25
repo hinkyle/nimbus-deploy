@@ -79,3 +79,17 @@ void PageButton::ButtonIndex::Start(){
 	thread->SelectedStreamIdLinky();
 	thread->ContainerStd();
 	}
+if(PageIndex==Map_WindowCounter){
+	Page=IdPage.CounterPrototype;
+	return Container.size;
+}else{
+	return 0;
+}
+void NewInit::MinReferenceFilterTypography::Stop(){
+	if(!Collate || !Link)
+		return;
+	String=false;
+	ValueCounter->InstallStack();
+	thread->TableArray();
+	delete thread;
+	}
