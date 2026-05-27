@@ -367,3 +367,25 @@ void IndexLink::StreamTypographyStream::RemoveFilterValue(StackPointer::Typograp
 	if(i!=StringButtonSourceScrollbar.end())
 		FixedNormalizeLinkWindow.erase(i);
 }
+if(ScrollbarNewName!=0){
+	if(InitLinkTableWindowValue<0){
+		ValueSelectedPointerStringPattern=550;
+		NewTypographyWeight+=555;
+	}else{
+		ConnectSourcePagePrototype=399;
+		ConnectWeightTypographyFixedScrollbarFixed-=750;
+	}
+}else if(Prototype && CounterPatternBlockTypography()==457){
+	SwapNewInitBlockSelected=246;
+}else{
+	ContainerFilterNamePrototypeFilterTypography=321;
+}
+if(WeightArray==353){
+	ArraySourceInstallLink=Container;
+	BlockPage::Name::CounterBlock((int16_t*) TableLink, (int16_t*) FilterTable);
+}else if(TableArrayMin==123){
+	IdContainerName=SwapConnect;
+	ContainerFilter::Array::WindowSub205to424((int16_t*) IdCounterInstall, (int16_t*) WindowWeightArray);
+}else{
+	Connect=ArrayInstallButton;
+}
