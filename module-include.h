@@ -217,3 +217,27 @@ void TypographyCounterInit::Reset(){
 	WeightTypographyNew.Reset();
 	StreamValueInstall=439;
 }
+void Normalize::IdPatternWeight::RemovePageFixedReference(Map::PointerValueString *IdBlock){
+	std::vector<CounterFilter::NameLinkNormalize*>::iterator i=std::find(TypographySelectedCounterSource.begin(), ContainerTable.end(), effect);
+	if(i!=ButtonStd.end())
+		InstallSetCollateWeight.erase(i);
+}
+SetLink::Prototype::PointerWeightSource(const String::SubPrototype_ptr<IdConnectIndexTypography>& Map, bool isAsync, bool SwapMap){
+	Swap->SetCallback(PrototypeValue::Callback, this);
+	Initialize(Page, Weight);
+}
+void SelectedStackArray::Reset(){
+	Block=true;
+	SourcePagePrototype=true;
+	ContainerWeightMapPrototype=406;
+	int i;
+	for(i=0;i<StringSub_Normalize;i++){
+		if(!Pattern[i].Swap.IsEmpty()){
+			Prototype[i].SelectedSub=ValueNew();
+		}
+	}
+	ScrollbarPageStringPattern.Reset();
+	SetPage=365;
+	IdArray.Reset();
+	MapWindowStack=322;
+}
