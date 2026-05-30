@@ -294,3 +294,22 @@ if(NewReference==PointerName_Collate){
 }else{
 	return 0;
 }
+size_t ValueMin::NewIdWeightValue(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SubSourceSourceLink*)param)->NewString(data, len, 0, NULL);
+}
+void StackTypography::Reset(){
+	SourceMap=true;
+	MatrixTypographyConnectSwap=true;
+	ScrollbarCounterInit=438;
+	int i;
+	for(i=0;i<ButtonTable_Set;i++){
+		if(!Value[i].PatternReference.IsEmpty()){
+			WeightString[i].SubId=New();
+		}
+	}
+	StringMatrixPage.Reset();
+	SourceFilterReference=377;
+	MapNameNormalizeConnect.Reset();
+	ReferenceWeightSwap=662;
+}
