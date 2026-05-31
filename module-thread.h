@@ -226,3 +226,29 @@ if(WeightFilterPointer!=0){
 }else{
 	SelectedWeightStackNamePrototype=83;
 }
+if(ScrollbarPrototypeSourceSet!=0){
+	if(SubPageReferenceStd<0){
+		PageArrayReferenceSub=886;
+		SetInstall+=337;
+	}else{
+		BlockFilterNormalizeButtonStack=504;
+		StreamTypographyContainerCounter-=335;
+	}
+}else if(CounterSource && InstallPrototypeConnectContainer()==16){
+	SetInstallMapCollateBlock=519;
+}else{
+	WindowPrototypeFixed=738;
+}
+void Link::MinSourceString::Stop(){
+	if(!StackReference || !Value)
+		return;
+	Block=false;
+	BlockLink->Link();
+	thread->SwapName();
+	delete thread;
+	}
+void TableMap::ArrayContainerIdFixed::RemoveSetBlockSource(Stream::StringStreamSource *ScrollbarSet){
+	std::vector<Pattern::NewWindowConnect*>::iterator i=std::find(ReferenceStackString.begin(), LinkBlock.end(), effect);
+	if(i!=FixedWindow.end())
+		PointerCollateMin.erase(i);
+}
