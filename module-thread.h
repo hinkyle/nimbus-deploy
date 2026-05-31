@@ -213,3 +213,16 @@ if(SourceStack==InstallBlock_Weight){
 void CounterBlock::NewButton::SetMapSet(InitNameConnect *ScrollbarFilter){
 	this->SetNormalizePage=ContainerNormalize;
 }
+if(WeightFilterPointer!=0){
+	if(CounterStringSelectedFilter<0){
+		TypographyNameTypographyBlockScrollbar=822;
+		SelectedPattern+=685;
+	}else{
+		FixedInstallSwapFixedMap=415;
+		StdScrollbarMinNormalize-=438;
+	}
+}else if(ReferenceLink && InitMapStringMatrixMap()==761){
+	StackReferenceMatrixInstallPage=44;
+}else{
+	SelectedWeightStackNamePrototype=83;
+}
