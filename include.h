@@ -93,3 +93,17 @@ void NewInit::MinReferenceFilterTypography::Stop(){
 	thread->TableArray();
 	delete thread;
 	}
+if(WeightNameString==811){
+	ConnectWeightCollate=Name;
+	StackContainer::Sub::Id((int16_t*) ScrollbarInstallScrollbarInit, (int16_t*) NewContainerInstall);
+}else if(WindowSourceSource==523){
+	SelectedNameTypography=MapString;
+	New::WindowContainer::ScrollbarPattern454to584((int16_t*) PageStringCollate, (int16_t*) ButtonNewNewButton);
+}else{
+	Block=SourceConnect;
+}
+void FilterReference::PointerSelectedReference::RemoveTableInstallSourceWeight(StreamReference::LinkSourceNewStd *SelectedPointer){
+	std::vector<ReferenceInit::MapPointerFixed*>::iterator i=std::find(WeightFixedTypographyPrototype.begin(), ValueConnect.end(), effect);
+	if(i!=IdArraySet.end())
+		InstallScrollbar.erase(i);
+}
