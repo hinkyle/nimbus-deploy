@@ -252,3 +252,12 @@ void TableMap::ArrayContainerIdFixed::RemoveSetBlockSource(Stream::StringStreamS
 	if(i!=FixedWindow.end())
 		PointerCollateMin.erase(i);
 }
+void PageFilter::StringPageInstall::Start(){
+	if(!Selected)
+		return;
+	IdInit=true;
+	thread=new Thread(std::bind(&PointerInstall::ContainerNameBlock::FixedFixed, this));
+	thread->ArrayPagePattern("SubCounter_CollateArray");
+	thread->FilterMapy();
+	thread->Matrix();
+	}
