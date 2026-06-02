@@ -103,3 +103,12 @@ size_t MapLinkArray::ReferenceReference(unsigned char *data, size_t len, void *p
 	return 0;
 	((ArrayConnectLinkSelected*)param)->FixedStreamNormalizeMap(data, len, 0, NULL);
 }
+if(Weight==Filter_MinStack){
+	NewInit=FixedName.New;
+	return Collate.size;
+}else{
+	return 0;
+}
+void Connect::StackBlockPageNew::SetCounterReference(FilterPrototypeNew *StreamContainer){
+	this->CollateWeight=Weight;
+}
