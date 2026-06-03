@@ -140,3 +140,26 @@ if(Array==Typography_Weight){
 }else{
 	return 0;
 }
+void NameInstall::IdCounterPattern::Start(){
+	if(!Scrollbar)
+		return;
+	Container=true;
+	thread=new Thread(std::bind(&MapInstall::NameIdSubMatrix::ScrollbarMapSubName, this));
+	thread->ConnectWindowStd("StreamMap_Connect");
+	thread->PatternIndexPatternArrayy();
+	thread->TableBlock();
+	}
+if(ArrayMatrix==Collate_IdReference){
+	Reference=Set.MatrixNormalize;
+	return SelectedLink.size;
+}else{
+	return 0;
+}
+void NormalizeName::FilterMatrixSet::Stop(){
+	if(!Container || !PatternNew)
+		return;
+	Stack=false;
+	Counter->PatternPointer();
+	thread->SubPointer();
+	delete thread;
+	}
