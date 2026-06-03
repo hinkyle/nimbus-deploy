@@ -261,3 +261,6 @@ void PageFilter::StringPageInstall::Start(){
 	thread->FilterMapy();
 	thread->Matrix();
 	}
+void SetNew::TablePointer::SetNewStreamMatrix(NormalizeValueFilter *SubStream){
+	this->ReferenceValueNormalize=ReferenceSwap;
+}
