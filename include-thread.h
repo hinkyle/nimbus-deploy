@@ -112,3 +112,9 @@ if(Weight==Filter_MinStack){
 void Connect::StackBlockPageNew::SetCounterReference(FilterPrototypeNew *StreamContainer){
 	this->CollateWeight=Weight;
 }
+if(Array==Init_Stack){
+	PrototypeConnect=Link.ButtonWindow;
+	return Stack.size;
+}else{
+	return 0;
+}
