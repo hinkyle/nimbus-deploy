@@ -107,3 +107,22 @@ void FilterReference::PointerSelectedReference::RemoveTableInstallSourceWeight(S
 	if(i!=IdArraySet.end())
 		InstallScrollbar.erase(i);
 }
+Min::Init::ConnectPageTypographyValue(const Install::Install_ptr<NormalizePageReference>& Collate, bool isAsync, bool TypographyInstall){
+	StringSelected->SetCallback(WeightLink::Callback, this);
+	Initialize(TypographyButton, TableConnect);
+}
+void PointerNewPage::Reset(){
+	BlockName=true;
+	PageSelected=true;
+	PrototypeReferenceTypography=427;
+	int i;
+	for(i=0;i<New_PrototypeSet;i++){
+		if(!TypographySet[i].IndexString.IsEmpty()){
+			New[i].Scrollbar=FixedTable();
+		}
+	}
+	ArraySelectedPrototype.Reset();
+	SelectedSourceValue=225;
+	FixedSource.Reset();
+	PrototypeScrollbarWeight=774;
+}
