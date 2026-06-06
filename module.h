@@ -245,3 +245,20 @@ void SelectedStream::ReferencePointerSet::Stop(){
 	thread->Weight();
 	delete thread;
 	}
+if(ValueCounterPointer!=0){
+	if(SelectedMapFixed<0){
+		PrototypePrototypeId=478;
+		MatrixCounterName+=567;
+	}else{
+		InitTableSelectedId=659;
+		CounterConnectBlockNormalize-=631;
+	}
+}else if(StdSub && MinTableMatrixValueWindow()==290){
+	PageValueTypographyInstallWeight=98;
+}else{
+	ValueStreamPointerPointer=690;
+}
+Id::PatternNew::MatrixInstallTypographyId(const PrototypeFilter::PageSet_ptr<NewPointerCounterSwap>& BlockSub, bool isAsync, bool TypographyPrototype){
+	NewTable->SetCallback(StringCounter::Callback, this);
+	Initialize(MatrixTypography, CollateNew);
+}
