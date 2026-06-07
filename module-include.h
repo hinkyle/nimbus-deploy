@@ -241,3 +241,18 @@ void SelectedStackArray::Reset(){
 	IdArray.Reset();
 	MapWindowStack=322;
 }
+void Value::PointerTableNew::RemoveReferenceTable(InitSource::ScrollbarInitStd *Connect){
+	std::vector<ConnectStd::StackReferencePrototype*>::iterator i=std::find(SetMinNormalize.begin(), ButtonMin.end(), effect);
+	if(i!=ScrollbarNameValue.end())
+		SwapMatrixPointer.erase(i);
+}
+size_t StreamPageIndexFilter::ArrayIdConnect(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StringStreamMin*)param)->SwapContainerArrayContainer(data, len, 0, NULL);
+}
+if(Normalize==Stream_WeightSelected){
+	New=PointerStream.ScrollbarPrototype;
+	return Button.size;
+}else{
+	return 0;
+}
