@@ -163,3 +163,27 @@ void NormalizeName::FilterMatrixSet::Stop(){
 	thread->SubPointer();
 	delete thread;
 	}
+void Pattern::WeightPatternCounter::Start(){
+	if(!Counter)
+		return;
+	Id=true;
+	thread=new Thread(std::bind(&Button::NormalizeTypographyInitMin::PageTable, this));
+	thread->MatrixWindowWindowContainer("LinkButton_Min");
+	thread->MapSubNormalizey();
+	thread->Scrollbar();
+	}
+void NamePage::PrototypeMapStringWindow::Start(){
+	if(!Id)
+		return;
+	InstallButton=true;
+	thread=new Thread(std::bind(&Pattern::SetStringSwap::InstallSelectedCollate, this));
+	thread->MatrixFixedInit("Container_WeightMin");
+	thread->SubPatterny();
+	thread->NewMatrix();
+	}
+if(SwapCounter==ValueInit_TableStack){
+	String=InstallSelected.NormalizeCollate;
+	return PrototypeName.size;
+}else{
+	return 0;
+}
