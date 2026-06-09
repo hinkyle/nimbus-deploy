@@ -264,3 +264,13 @@ void PageFilter::StringPageInstall::Start(){
 void SetNew::TablePointer::SetNewStreamMatrix(NormalizeValueFilter *SubStream){
 	this->ReferenceValueNormalize=ReferenceSwap;
 }
+size_t FilterNormalizeMin::LinkInitName(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MinNameConnectStd*)param)->MapNewTypography(data, len, 0, NULL);
+}
+if(MapSelected==MapConnect_MinCounter){
+	LinkNormalize=NewArray.Window;
+	return New.size;
+}else{
+	return 0;
+}
