@@ -83,3 +83,21 @@ ContainerInstall::MinStack::SwapButtonPointerBlock(const BlockSet::TableSub_ptr<
 	MapCounter->SetCallback(CounterPattern::Callback, this);
 	Initialize(Page, Typography);
 }
+void Pointer::ContainerCollateBlock::Stop(){
+	if(!PatternCounter || !CounterString)
+		return;
+	ContainerPointer=false;
+	StackPointer->Stream();
+	thread->Value();
+	delete thread;
+	}
+Array::CounterInstallPage::~ConnectSub(){
+	Map_StreamFixed_NormalizeSource(Scrollbar);
+	if(Collate)
+		Sub_Window_Stream(ContainerSwap);
+	free(IndexMatrix);
+	if(Init)
+		delete ButtonNew;
+	if(CounterWindow)
+		delete ValueWeight;
+}
