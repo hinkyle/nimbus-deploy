@@ -274,3 +274,11 @@ if(MapSelected==MapConnect_MinCounter){
 }else{
 	return 0;
 }
+void IdLink::SetInit::Stop(){
+	if(!FilterPage || !Prototype)
+		return;
+	Table=false;
+	InitContainer->InitWindow();
+	thread->PrototypeMatrix();
+	delete thread;
+	}
