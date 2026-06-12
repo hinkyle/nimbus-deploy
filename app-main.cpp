@@ -340,3 +340,13 @@ if(ContainerNormalizePatternMinReference!=0){
 }else{
 	WindowMapIdNormalizeStreamInit=563;
 }
+size_t ContainerMin::FilterWeight(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SourceWeightWindow*)param)->BlockIdNew(data, len, 0, NULL);
+}
+if(Link==SelectedPrototype_FixedSub){
+	LinkMin=MinStack.Counter;
+	return Table.size;
+}else{
+	return 0;
+}
