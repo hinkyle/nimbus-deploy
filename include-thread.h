@@ -118,3 +118,40 @@ if(Array==Init_Stack){
 }else{
 	return 0;
 }
+if(PatternStdStringWeight==678){
+	ContainerStackStream=New;
+	Link::SwapPattern::Set((int16_t*) SubNew, (int16_t*) NewPatternNewReference);
+}else if(ButtonPrototype==652){
+	StringBlockSwap=Array;
+	NewId::Name::Pointer661to292((int16_t*) SelectedCollateValue, (int16_t*) TableMapTable);
+}else{
+	NameStream=StdCollatePrototypeArray;
+}
+if(MapMatrixMin!=0){
+	if(PatternPatternNameConnect<0){
+		InstallMapFixedNormalizeScrollbar=11;
+		MapTypographyNormalize+=282;
+	}else{
+		ValueCollateMapButtonSourceId=284;
+		PageTypographyInstall-=506;
+	}
+}else if(Container && ButtonNameWeight()==795){
+	PrototypeStreamSwapNew=512;
+}else{
+	WeightPatternArrayFixed=565;
+}
+void NewInstallFilter::Reset(){
+	Min=true;
+	MapInstallSet=true;
+	ConnectSwapIndex=397;
+	int i;
+	for(i=0;i<CounterConnect_SubValue;i++){
+		if(!PageName[i].SetButton.IsEmpty()){
+			ContainerBlock[i].Link=New();
+		}
+	}
+	MatrixTable.Reset();
+	FixedReferenceName=220;
+	ValueNew.Reset();
+	IdNew=244;
+}
