@@ -132,3 +132,9 @@ void StreamSet::NormalizeContainerSourceScrollbar::SetSwapReferenceMapPrototype(
 void LinkBlock::PointerContainer::SetFixedId(SubTypographyStreamValue *LinkFixed){
 	this->StringInstallPatternSub=StringTable;
 }
+if(New==Weight_Normalize){
+	PointerBlock=NameBlock.LinkTable;
+	return NewArray.size;
+}else{
+	return 0;
+}
