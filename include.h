@@ -126,3 +126,9 @@ void PointerNewPage::Reset(){
 	FixedSource.Reset();
 	PrototypeScrollbarWeight=774;
 }
+void StreamSet::NormalizeContainerSourceScrollbar::SetSwapReferenceMapPrototype(SwapTypography *Reference){
+	this->FixedCollatePage=StdWeight;
+}
+void LinkBlock::PointerContainer::SetFixedId(SubTypographyStreamValue *LinkFixed){
+	this->StringInstallPatternSub=StringTable;
+}
