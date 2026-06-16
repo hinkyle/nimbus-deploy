@@ -22,3 +22,9 @@ void Sub::InitSelected::Start(){
 
 
 
+if(Reference==Name_Fixed){
+	StackWeight=Pointer.ConnectContainer;
+	return IndexPattern.size;
+}else{
+	return 0;
+}
