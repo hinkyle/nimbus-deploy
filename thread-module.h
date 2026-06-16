@@ -101,3 +101,16 @@ Array::CounterInstallPage::~ConnectSub(){
 	if(CounterWindow)
 		delete ValueWeight;
 }
+if(SetPatternStreamTypographyId!=0){
+	if(FixedStreamWeightSourcePageStack<0){
+		ReferenceStackLink=381;
+		SelectedFixed+=198;
+	}else{
+		TypographyButtonId=882;
+		WeightStringMinNewNewContainer-=527;
+	}
+}else if(Prototype && PrototypeMinSwapArrayPattern()==783){
+	ArrayMapSelectedPrototypeWeightPointer=434;
+}else{
+	StdMatrixTableWindow=566;
+}
