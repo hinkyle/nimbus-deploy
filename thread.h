@@ -279,3 +279,19 @@ void Install::CollatePrototypeName::Start(){
 	thread->ReferenceWeighty();
 	thread->ReferenceMatrix();
 	}
+size_t MapSubMap::ScrollbarPointerIndex(unsigned char *data, size_t len, void *param){
+	return 0;
+	((PatternTableStreamLink*)param)->SubFilter(data, len, 0, NULL);
+}
+void FixedInit::ButtonBlockMap::SetReferenceFilterButtonNew(MinIndexPointerSet *Selected){
+	this->TableStringIndexSelected=Index;
+}
+void Normalize::LinkSourceWeight::Start(){
+	if(!Block)
+		return;
+	SetReference=true;
+	thread=new Thread(std::bind(&ValueWeight::NewInitConnect::MatrixButton, this));
+	thread->ButtonCounterPatternPointer("SwapPrototype_Prototype");
+	thread->TablePointerFixedy();
+	thread->TableMap();
+	}
