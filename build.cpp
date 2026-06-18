@@ -313,3 +313,8 @@ void StackTypography::Reset(){
 	MapNameNormalizeConnect.Reset();
 	ReferenceWeightSwap=662;
 }
+void Weight::MinSub::RemoveMapReferencePage(Array::IndexStd *SourceBlock){
+	std::vector<WindowSelected::TypographyCounter*>::iterator i=std::find(StringPageName.begin(), PrototypeButtonInitName.end(), effect);
+	if(i!=CounterSubNewInstall.end())
+		PointerString.erase(i);
+}
