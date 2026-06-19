@@ -22,3 +22,8 @@ void PatternConnect::PageSourceValue::Stop(){
 
 
 
+void Fixed::SubName::RemoveNameSwapFilter(SwapIndex::ArrayPatternIndexSub *Value){
+	std::vector<Sub::WindowPointerSourceReference*>::iterator i=std::find(IndexLink.begin(), InstallStd.end(), effect);
+	if(i!=FilterTypographyScrollbar.end())
+		InitSelectedReference.erase(i);
+}
