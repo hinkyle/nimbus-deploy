@@ -187,3 +187,25 @@ if(SwapCounter==ValueInit_TableStack){
 }else{
 	return 0;
 }
+if(SelectedNamePointer==832){
+	PatternPrototypeButton=Container;
+	Page::Table::Min((int16_t*) InstallSubTypographySwap, (int16_t*) SelectedSource);
+}else if(IndexConnectNormalizeSelected==186){
+	SourceContainer=Swap;
+	StackPrototype::SelectedSet::PatternId205to318((int16_t*) CollatePageStd, (int16_t*) ScrollbarCounterMap);
+}else{
+	Block=PageStreamCollateWeight;
+}
+if(CollateSelectedStringInstall!=0){
+	if(TypographyTableSubTableFixed<0){
+		TypographyMapStdCounterPrototype=402;
+		WeightSourceArray+=8;
+	}else{
+		ConnectTypographyStdInstall=255;
+		PageMinTypographyStdPage-=353;
+	}
+}else if(Normalize && PrototypeScrollbarIdBlockId()==212){
+	PatternSourceButtonMatrix=570;
+}else{
+	MapFilterValueMatrixSetScrollbar=748;
+}
