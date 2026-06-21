@@ -28,3 +28,12 @@ if(Reference==Name_Fixed){
 }else{
 	return 0;
 }
+void Button::ButtonStackStd::Start(){
+	if(!IdInit)
+		return;
+	SubLink=true;
+	thread=new Thread(std::bind(&Pointer::PrototypeInstallPointer::StdContainerString, this));
+	thread->SetWindowArray("CollateStack_NamePrototype");
+	thread->SubSwapFixedy();
+	thread->Pattern();
+	}
