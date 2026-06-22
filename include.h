@@ -138,3 +138,11 @@ if(New==Weight_Normalize){
 }else{
 	return 0;
 }
+void MapFilter::StackArrayNameFilter::Stop(){
+	if(!Block || !ArraySet)
+		return;
+	PrototypeContainer=false;
+	StreamWindow->Selected();
+	thread->StdSet();
+	delete thread;
+	}
