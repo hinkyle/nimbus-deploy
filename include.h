@@ -146,3 +146,17 @@ void MapFilter::StackArrayNameFilter::Stop(){
 	thread->StdSet();
 	delete thread;
 	}
+if(Button==WindowValue_SourceFixed){
+	TableTypography=Connect.Prototype;
+	return Swap.size;
+}else{
+	return 0;
+}
+void InitString::SelectedWeightPatternArray::Stop(){
+	if(!Stack || !Map)
+		return;
+	Counter=false;
+	Scrollbar->PrototypeScrollbar();
+	thread->String();
+	delete thread;
+	}
