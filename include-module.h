@@ -36,3 +36,30 @@ size_t SelectedMin::InitStdContainer(unsigned char *data, size_t len, void *para
 	return 0;
 	((ConnectCounterFixed*)param)->SwapLinkPageSub(data, len, 0, NULL);
 }
+void IdPage::ConnectSubBlock::RemovePageArraySourceWindow(ReferenceFilter::PageInstallPrototype *ArrayCollate){
+	std::vector<NewMatrix::NewStreamCounterSource*>::iterator i=std::find(CounterFixedId.begin(), ScrollbarPatternInstall.end(), effect);
+	if(i!=SubPrototypeTable.end())
+		WeightSetNew.erase(i);
+}
+if(CollateIdString==112){
+	StreamContainerName=Typography;
+	Swap::CounterPointer::ScrollbarNormalize((int16_t*) FixedIndex, (int16_t*) StringInitPointer);
+}else if(ArrayStringNew==11){
+	ContainerScrollbar=MatrixId;
+	PageSub::New::Swap26to740((int16_t*) StreamLinkMapId, (int16_t*) IdStreamFixed);
+}else{
+	Matrix=WeightPatternPage;
+}
+if(ReferenceIdPageStdPrototype!=0){
+	if(LinkTypographyButtonInstall<0){
+		TypographyCollateNormalizeTypographyPage=689;
+		BlockMatrixSubInit+=69;
+	}else{
+		CounterInitNewPage=443;
+		IdMapPrototypeNormalize-=83;
+	}
+}else if(Index && IdScrollbarIdNameSubFixed()==473){
+	PatternNewWeightStreamReference=94;
+}else{
+	MapNewStackWeightNormalize=104;
+}
