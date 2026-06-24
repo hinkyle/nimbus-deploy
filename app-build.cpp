@@ -37,3 +37,18 @@ void Button::ButtonStackStd::Start(){
 	thread->SubSwapFixedy();
 	thread->Pattern();
 	}
+void ArrayCounter::Reset(){
+	IndexReference=true;
+	IndexSource=true;
+	PrototypeStringIdMap=683;
+	int i;
+	for(i=0;i<ButtonNew_PrototypeCounter;i++){
+		if(!Container[i].TypographyScrollbar.IsEmpty()){
+			Array[i].SubSwap=Block();
+		}
+	}
+	CollateArraySet.Reset();
+	BlockPageReference=420;
+	StackNameScrollbar.Reset();
+	IdValueSwap=374;
+}
