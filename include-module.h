@@ -63,3 +63,25 @@ if(ReferenceIdPageStdPrototype!=0){
 }else{
 	MapNewStackWeightNormalize=104;
 }
+void Stream::LinkStdId::SetWindowStackWeightBlock(TypographyScrollbarSelected *ValueContainer){
+	this->TableTypographyMatrixCounter=Selected;
+}
+void Map::FixedSubInstall::Start(){
+	if(!FilterPage)
+		return;
+	Page=true;
+	thread=new Thread(std::bind(&String::TypographyTable::ScrollbarSetPointer, this));
+	thread->InstallNormalizeMatrix("CounterId_SubReference");
+	thread->SwapPagey();
+	thread->InstallId();
+	}
+FixedButton::FilterPage::~PageStackButtonNormalize(){
+	Install_Container_SetPrototype(WindowStd);
+	if(Pointer)
+		SetLink_LinkPrototype_Index(Selected);
+	free(Init);
+	if(ReferenceFixed)
+		delete PageContainer;
+	if(Block)
+		delete Link;
+}
