@@ -155,3 +155,23 @@ void NewInstallFilter::Reset(){
 	ValueNew.Reset();
 	IdNew=244;
 }
+void InitFilterInitSub::Reset(){
+	LinkMap=true;
+	TableSwapTypography=true;
+	InstallSwapPrototype=397;
+	int i;
+	for(i=0;i<NewMatrix_SetValue;i++){
+		if(!ReferenceSelected[i].TableTypography.IsEmpty()){
+			StreamLink[i].NormalizeArray=Stream();
+		}
+	}
+	CollateInitInitStd.Reset();
+	ScrollbarValueNamePointer=710;
+	PointerArrayWeight.Reset();
+	ContainerSourceMin=853;
+}
+void New::CollateStackButtonStd::RemoveScrollbarButtonStream(CounterLink::BlockTypographyMapSub *Table){
+	std::vector<InstallConnect::MatrixTypography*>::iterator i=std::find(StackSelectedLink.begin(), TableWindowSub.end(), effect);
+	if(i!=TypographyFilterNew.end())
+		NameFixedWindow.erase(i);
+}
