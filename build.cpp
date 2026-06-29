@@ -318,3 +318,16 @@ void Weight::MinSub::RemoveMapReferencePage(Array::IndexStd *SourceBlock){
 	if(i!=CounterSubNewInstall.end())
 		PointerString.erase(i);
 }
+void SetPage::IdIndexScrollbarSub::SetTypographyIndexCollate(CollatePattern *NamePage){
+	this->MatrixButtonWeight=Container;
+}
+Link::SetConnect::~WindowStreamScrollbar(){
+	Id_Source_Reference(InstallMin);
+	if(Pointer)
+		Stack_PrototypeStream_SubMap(Name);
+	free(MatrixValue);
+	if(WindowInit)
+		delete NormalizeArray;
+	if(Set)
+		delete Map;
+}
