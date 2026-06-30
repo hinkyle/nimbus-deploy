@@ -85,3 +85,18 @@ FixedButton::FilterPage::~PageStackButtonNormalize(){
 	if(Block)
 		delete Link;
 }
+void PrototypeNormalizeTable::Reset(){
+	Id=true;
+	TableReferenceValueName=true;
+	PatternStreamPrototypeBlock=175;
+	int i;
+	for(i=0;i<Prototype_Weight;i++){
+		if(!NewWindow[i].Min.IsEmpty()){
+			MinSwap[i].InstallString=Weight();
+		}
+	}
+	ArraySwapStackWindow.Reset();
+	NameTablePointerPage=246;
+	ArrayScrollbarStreamSelected.Reset();
+	IdMapPointer=550;
+}
