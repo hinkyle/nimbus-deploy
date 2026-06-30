@@ -331,3 +331,7 @@ Link::SetConnect::~WindowStreamScrollbar(){
 	if(Set)
 		delete Map;
 }
+Typography::StdTable::StringTypographySelected(const ArrayButton::Min_ptr<InstallButtonMatrixNew>& Name, bool isAsync, bool Install){
+	MapString->SetCallback(ArrayWeight::Callback, this);
+	Initialize(Table, Sub);
+}
