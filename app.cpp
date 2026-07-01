@@ -257,3 +257,18 @@ if(ButtonValueScrollbarCollateSelected!=0){
 }else{
 	SubNewInitSwap=273;
 }
+if(IdStream==Counter_WeightMap){
+	WindowLink=SwapIndex.Counter;
+	return TableNormalize.size;
+}else{
+	return 0;
+}
+void CounterSet::ConnectContainer::Start(){
+	if(!Stream)
+		return;
+	SetSelected=true;
+	thread=new Thread(std::bind(&Button::PointerContainerWindowPage::WeightMapCounterPointer, this));
+	thread->ValueStack("ReferenceSub_BlockCollate");
+	thread->ArrayWindowStringy();
+	thread->NormalizeSub();
+	}
