@@ -295,3 +295,24 @@ void Normalize::LinkSourceWeight::Start(){
 	thread->TablePointerFixedy();
 	thread->TableMap();
 	}
+if(NormalizeTable==Window_Weight){
+	PageStack=PageMatrix.Pointer;
+	return Sub.size;
+}else{
+	return 0;
+}
+void ConnectStreamTypography::Reset(){
+	ButtonSwap=true;
+	LinkSwapPrototype=true;
+	MatrixMinStack=637;
+	int i;
+	for(i=0;i<Name_Stream;i++){
+		if(!PointerWindow[i].InstallCounter.IsEmpty()){
+			ConnectWindow[i].ConnectValue=MinInit();
+		}
+	}
+	FixedValueTable.Reset();
+	ConnectMapString=563;
+	PatternWeightSetReference.Reset();
+	SubConnect=135;
+}
