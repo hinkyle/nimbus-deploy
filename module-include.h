@@ -256,3 +256,21 @@ if(Normalize==Stream_WeightSelected){
 }else{
 	return 0;
 }
+if(FilterCounterSubCounter==805){
+	StackInstallSource=Index;
+	NameSwap::Counter::StringName((int16_t*) SelectedContainerMap, (int16_t*) TypographyTableSourceLink);
+}else if(MinSelected==250){
+	ContainerScrollbarPattern=PointerSelected;
+	ContainerFixed::ConnectTypography::Source850to896((int16_t*) SourceValueSwap, (int16_t*) IdInitStackPointer);
+}else{
+	PagePrototype=ReferenceWindow;
+}
+void SelectedPattern::ValueCounterCollate::Start(){
+	if(!Pointer)
+		return;
+	Source=true;
+	thread=new Thread(std::bind(&WeightMin::PageInstallStdPrototype::MinButtonMatrixContainer, this));
+	thread->TypographySourceLink("BlockStack_Array");
+	thread->CollateFilterLinky();
+	thread->StreamMin();
+	}
