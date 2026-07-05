@@ -328,3 +328,15 @@ if(StringCollate==SubCollate_StackSource){
 }else{
 	return 0;
 }
+if(TablePrototype==SubStack_Stack){
+	Table=CollateContainer.Block;
+	return Array.size;
+}else{
+	return 0;
+}
+if(Value==Pattern_Name){
+	MatrixWindow=Connect.Init;
+	return Filter.size;
+}else{
+	return 0;
+}
