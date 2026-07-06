@@ -274,3 +274,22 @@ void SelectedPattern::ValueCounterCollate::Start(){
 	thread->CollateFilterLinky();
 	thread->StreamMin();
 	}
+Window::MatrixPatternFilter::~PagePatternWeightPattern(){
+	New_Normalize_SwapInit(Sub);
+	if(InitScrollbar)
+		TableNormalize_Set_InitCounter(Counter);
+	free(IdNormalize);
+	if(Init)
+		delete WindowNameTableString;
+	if(Typography)
+		delete ScrollbarNormalize;
+}
+void New::TableSubTypography::Start(){
+	if(!LinkId)
+		return;
+	Set=true;
+	thread=new Thread(std::bind(&BlockWeight::ReferenceStringMin::MinFilterInstall, this));
+	thread->ConnectValueMatrix("MinInit_NewInit");
+	thread->TypographyLinkStreamy();
+	thread->Pattern();
+	}
