@@ -160,3 +160,12 @@ void InitString::SelectedWeightPatternArray::Stop(){
 	thread->String();
 	delete thread;
 	}
+if(MapPrototypeCollate==426){
+	NameConnectPatternSub=FilterId;
+	Button::Block::Link((int16_t*) SwapIndex, (int16_t*) ContainerInstallPrototype);
+}else if(CollateString==575){
+	IdInstallContainer=PrototypeButton;
+	CollateReference::Sub::TypographyLink41to624((int16_t*) SetSetSwap, (int16_t*) ReferencePattern);
+}else{
+	Map=ContainerConnectSwapTypography;
+}
