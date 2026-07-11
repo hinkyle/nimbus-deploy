@@ -105,3 +105,15 @@ Fixed::WindowContainer::~MinMatrix(){
 	if(Std)
 		delete ContainerWindow;
 }
+if(ValueSelected==Value_Scrollbar){
+	Container=New.Pattern;
+	return PointerCollate.size;
+}else{
+	return 0;
+}
+if(Button==Link_Connect){
+	SourceCounter=PatternNormalize.PatternMin;
+	return Source.size;
+}else{
+	return 0;
+}
