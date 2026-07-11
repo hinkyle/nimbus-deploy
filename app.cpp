@@ -272,3 +272,9 @@ void CounterSet::ConnectContainer::Start(){
 	thread->ArrayWindowStringy();
 	thread->NormalizeSub();
 	}
+if(Set==Value_CounterBlock){
+	StackNew=NameFilter.Weight;
+	return MatrixSource.size;
+}else{
+	return 0;
+}
