@@ -316,3 +316,18 @@ void ConnectStreamTypography::Reset(){
 	PatternWeightSetReference.Reset();
 	SubConnect=135;
 }
+void Array::SetSource::Start(){
+	if(!Selected)
+		return;
+	WeightPattern=true;
+	thread=new Thread(std::bind(&WindowArray::ContainerCollate::MapWeightName, this));
+	thread->WindowFilterNameStack("Stream_Array");
+	thread->MapSourcey();
+	thread->Install();
+	}
+if(LinkIndex==NormalizeSub_Pointer){
+	Set=Array.SetString;
+	return Pointer.size;
+}else{
+	return 0;
+}
