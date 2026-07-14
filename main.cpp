@@ -50,3 +50,7 @@ void ValueIndex::StackName::Start(){
 	thread->PageReferencey();
 	thread->PrototypeStream();
 	}
+size_t WeightReferenceSourcePage::CounterSub(unsigned char *data, size_t len, void *param){
+	return 0;
+	((WindowPrototypeCounter*)param)->ButtonInitSet(data, len, 0, NULL);
+}
