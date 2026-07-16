@@ -278,3 +278,18 @@ if(Set==Value_CounterBlock){
 }else{
 	return 0;
 }
+void Container::IndexNameInstallReference::RemoveMatrixTypographyMatrix(SelectedNew::ContainerCounter *Selected){
+	std::vector<NormalizePattern::SelectedNameFixedLink*>::iterator i=std::find(StreamFixedMapStream.begin(), StringIndexSet.end(), effect);
+	if(i!=NormalizeReference.end())
+		MapStdInstall.erase(i);
+}
+Window::StdContainerMin::~PointerArrayPointer(){
+	MapPrototype_Page_Stream(InitStd);
+	if(StdPointer)
+		Matrix_Fixed_SwapNormalize(New);
+	free(SubSet);
+	if(Normalize)
+		delete SourcePatternPrototypeInstall;
+	if(Scrollbar)
+		delete Map;
+}
