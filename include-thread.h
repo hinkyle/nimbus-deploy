@@ -175,3 +175,26 @@ void New::CollateStackButtonStd::RemoveScrollbarButtonStream(CounterLink::BlockT
 	if(i!=TypographyFilterNew.end())
 		NameFixedWindow.erase(i);
 }
+if(MinNormalizeNewConnect!=0){
+	if(ConnectTypographyStdTableFixed<0){
+		NormalizePrototypeFilterCounter=661;
+		StdSubMinSelected+=727;
+	}else{
+		TableMatrixInstall=750;
+		ButtonMapLinkTypography-=673;
+	}
+}else if(New && SubCounterNew()==653){
+	ReferenceLinkStreamPageArray=886;
+}else{
+	SetTableLinkPrototype=239;
+}
+Array::Prototype::StackInstall(const Scrollbar::Id_ptr<PageCounterBlock>& Pointer, bool isAsync, bool String){
+	MapMatrix->SetCallback(Sub::Callback, this);
+	Initialize(Init, MapWeight);
+}
+if(FixedPage==PointerNormalize_PatternValue){
+	Container=Sub.Page;
+	return TableMin.size;
+}else{
+	return 0;
+}
