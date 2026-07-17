@@ -114,3 +114,29 @@ if(SetPatternStreamTypographyId!=0){
 }else{
 	StdMatrixTableWindow=566;
 }
+void Std::WeightCollateInstall::SetButtonValueSourceLink(TypographyInstall *FixedInstall){
+	this->ButtonBlock=NameCounter;
+}
+void ConnectSelectedButtonInstall::Reset(){
+	PrototypeConnect=true;
+	CollateSwapSetNew=true;
+	StringInstallInstall=217;
+	int i;
+	for(i=0;i<NewScrollbar_SubPage;i++){
+		if(!Page[i].ValueWindow.IsEmpty()){
+			SubStack[i].Prototype=StreamSelected();
+		}
+	}
+	MapWindow.Reset();
+	PointerPrototypeStd=516;
+	PatternNew.Reset();
+	ReferenceMatrixIndex=315;
+}
+void Sub::CounterStreamNew::Stop(){
+	if(!Connect || !SwapSource)
+		return;
+	PrototypeName=false;
+	Init->PatternSet();
+	thread->SelectedBlock();
+	delete thread;
+	}
