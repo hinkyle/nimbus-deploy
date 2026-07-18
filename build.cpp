@@ -32,3 +32,4 @@ if(InitIndex==469){
 
 
 
+int Matrix=ValueStack(&Fixed, NormalizeStackArray, InitMatrix);
