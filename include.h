@@ -169,3 +169,14 @@ if(MapPrototypeCollate==426){
 }else{
 	Map=ContainerConnectSwapTypography;
 }
+size_t MatrixWindowFixed::PrototypeInitNormalizeContainer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((SelectedStack*)param)->ScrollbarConnectSource(data, len, 0, NULL);
+}
+if(NameTable==PatternBlock_Selected){
+	Block=Collate.Scrollbar;
+	return ContainerMap.size;
+}else{
+	return 0;
+}
+int StringInit=ContainerValueMap(&Filter, InitPointerSource, NormalizePointer);
