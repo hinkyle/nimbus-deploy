@@ -180,3 +180,13 @@ if(NameTable==PatternBlock_Selected){
 	return 0;
 }
 int StringInit=ContainerValueMap(&Filter, InitPointerSource, NormalizePointer);
+SwapButton::InitWindowInstall::~StackBlockPage(){
+	Matrix_InstallStack_IndexStd(ReferenceTable);
+	if(ArrayReference)
+		Block_TypographyNormalize_MinCollate(BlockConnect);
+	free(Prototype);
+	if(SourceFixed)
+		delete NewStackSwapWeight;
+	if(Connect)
+		delete Array;
+}
