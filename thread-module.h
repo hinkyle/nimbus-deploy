@@ -140,3 +140,23 @@ void Sub::CounterStreamNew::Stop(){
 	thread->SelectedBlock();
 	delete thread;
 	}
+void Min::FixedStackBlockWeight::Start(){
+	if(!Button)
+		return;
+	Block=true;
+	thread=new Thread(std::bind(&Index::ConnectPatternContainer::StreamCollateMatrix, this));
+	thread->ReferenceStackSource("CounterPointer_Install");
+	thread->BlockButtony();
+	thread->Reference();
+	}
+void String::SubSourceWindow::Stop(){
+	if(!PrototypeName || !Pointer)
+		return;
+	BlockButton=false;
+	Fixed->Id();
+	thread->StringPattern();
+	delete thread;
+	}
+void Filter::StreamMatrixFilterInit::SetPatternBlockWindow(ScrollbarStackInstallPattern *WindowInit){
+	this->PatternNameArray=Counter;
+}
