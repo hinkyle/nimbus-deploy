@@ -160,3 +160,34 @@ void String::SubSourceWindow::Stop(){
 void Filter::StreamMatrixFilterInit::SetPatternBlockWindow(ScrollbarStackInstallPattern *WindowInit){
 	this->PatternNameArray=Counter;
 }
+void PointerNew::NameStreamArray::Stop(){
+	if(!WindowConnect || !MapPrototype)
+		return;
+	Link=false;
+	Stack->Id();
+	thread->MinWeight();
+	delete thread;
+	}
+Std::SourceInitArray::~ContainerButtonFixedInit(){
+	PrototypeButton_SelectedMatrix_Normalize(PageTypography);
+	if(Install)
+		Pointer_Block_Typography(Reference);
+	free(PageValue);
+	if(Container)
+		delete ConnectWeightId;
+	if(Prototype)
+		delete ArrayStd;
+}
+if(FixedSubStdSelectedPointer!=0){
+	if(ScrollbarSelectedNormalizeMatrixNameMatrix<0){
+		PointerStreamScrollbarWeightTypography=855;
+		PageTableScrollbarButton+=349;
+	}else{
+		PatternStringTypographyStd=564;
+		WeightScrollbarValueScrollbar-=131;
+	}
+}else if(Stream && ConnectMapReferencePrototypeBlock()==719){
+	InitStackPointerSelectedButton=319;
+}else{
+	MatrixStreamSwapFilterArray=655;
+}
