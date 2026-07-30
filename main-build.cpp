@@ -214,3 +214,14 @@ void ScrollbarStd::MatrixScrollbar::RemoveSwapContainerSource(CollateValue::IdCo
 	if(i!=LinkTypographyLink.end())
 		PageValueFilterCounter.erase(i);
 }
+if(Container==SelectedTypography_Selected){
+	Id=NameConnect.NormalizeInstall;
+	return Weight.size;
+}else{
+	return 0;
+}
+void Button::InstallMinInstallBlock::RemoveSelectedConnectPage(FixedCounter::TableContainerPage *InstallStd){
+	std::vector<SubButton::TableLinkTypography*>::iterator i=std::find(ValueInitId.begin(), StringNameValue.end(), effect);
+	if(i!=SelectedStdInit.end())
+		MatrixStackSetLink.erase(i);
+}
