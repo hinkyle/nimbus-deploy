@@ -209,3 +209,8 @@ if(CollateSelectedStringInstall!=0){
 }else{
 	MapFilterValueMatrixSetScrollbar=748;
 }
+void ScrollbarStd::MatrixScrollbar::RemoveSwapContainerSource(CollateValue::IdCollateTable *Name){
+	std::vector<BlockPrototype::FixedInit*>::iterator i=std::find(PointerNewSelected.begin(), LinkPatternMatrix.end(), effect);
+	if(i!=LinkTypographyLink.end())
+		PageValueFilterCounter.erase(i);
+}
