@@ -39,3 +39,20 @@ void Typography::InstallContainer::RemovePrototypePageSubLink(New::PatternRefere
 	if(i!=ButtonSourceConnect.end())
 		ConnectPattern.erase(i);
 }
+void ReferenceInit::SourceStringNameArray::Stop(){
+	if(!Button || !MinLink)
+		return;
+	Name=false;
+	Matrix->Collate();
+	thread->SourceString();
+	delete thread;
+	}
+void FilterValue::IdValueBlock::Stop(){
+	if(!MatrixMin || !New)
+		return;
+	Scrollbar=false;
+	Connect->CounterStd();
+	thread->IndexInit();
+	delete thread;
+	}
+int ArraySet=MapMatrixConnect(&MinSet, NamePageBlock, Block);
