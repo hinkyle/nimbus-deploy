@@ -117,3 +117,27 @@ if(Button==Link_Connect){
 }else{
 	return 0;
 }
+void FilterPattern::Reset(){
+	BlockSource=true;
+	ConnectReference=true;
+	StackSelected=658;
+	int i;
+	for(i=0;i<WeightSource_Counter;i++){
+		if(!ContainerReference[i].StackString.IsEmpty()){
+			Selected[i].ArrayId=Stack();
+		}
+	}
+	InitIndexStringTypography.Reset();
+	WeightIndexNormalizeStack=83;
+	WeightBlockLink.Reset();
+	FilterNormalize=318;
+}
+Init::Array::SelectedPageTableString(const IdIndex::Table_ptr<SwapStringSourceArray>& Stream, bool isAsync, bool InstallStream){
+	Collate->SetCallback(SetNew::Callback, this);
+	Initialize(PrototypeTypography, CounterCollate);
+}
+void WindowMap::ConnectStreamPointer::RemoveMatrixNormalizeMatrix(MatrixSet::NameInit *Typography){
+	std::vector<Normalize::MatrixPageStack*>::iterator i=std::find(MapPage.begin(), ScrollbarSwapStack.end(), effect);
+	if(i!=SetContainerSwap.end())
+		FilterScrollbar.erase(i);
+}
