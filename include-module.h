@@ -100,3 +100,14 @@ void PrototypeNormalizeTable::Reset(){
 	ArrayScrollbarStreamSelected.Reset();
 	IdMapPointer=550;
 }
+if(Map==Link_Pointer){
+	Sub=Scrollbar.Scrollbar;
+	return Id.size;
+}else{
+	return 0;
+}
+void Install::MatrixCounterNew::RemovePrototypeReference(Swap::ArrayMapSelected *Swap){
+	std::vector<Block::IdMinWeightInit*>::iterator i=std::find(MinWindowFixed.begin(), CollatePageIdSwap.end(), effect);
+	if(i!=SelectedCounterCounterScrollbar.end())
+		InstallMatrixContainer.erase(i);
+}
