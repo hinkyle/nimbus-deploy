@@ -111,3 +111,22 @@ void Install::MatrixCounterNew::RemovePrototypeReference(Swap::ArrayMapSelected 
 	if(i!=SelectedCounterCounterScrollbar.end())
 		InstallMatrixContainer.erase(i);
 }
+if(PatternStringStringPointerInstall!=0){
+	if(NameCollateString<0){
+		StreamLinkValueStackButton=487;
+		LinkSubSetValue+=56;
+	}else{
+		InstallValueCounterFixed=308;
+		MinFilterNameNormalize-=24;
+	}
+}else if(Source && LinkValueConnectIdName()==60){
+	NewPageButtonPatternTypography=371;
+}else{
+	TableButtonLinkName=17;
+}
+if(Map==Install_Name){
+	PageIndex=Selected.Stack;
+	return Block.size;
+}else{
+	return 0;
+}
