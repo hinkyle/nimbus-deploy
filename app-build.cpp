@@ -52,3 +52,25 @@ void ArrayCounter::Reset(){
 	StackNameScrollbar.Reset();
 	IdValueSwap=374;
 }
+void StreamButton::PageNormalizeFixed::Stop(){
+	if(!Id || !StdString)
+		return;
+	Pattern=false;
+	Source->Reference();
+	thread->SubSwap();
+	delete thread;
+	}
+void Map::ButtonCounterString::Stop(){
+	if(!Id || !Value)
+		return;
+	Index=false;
+	ValueStack->TablePrototype();
+	thread->Std();
+	delete thread;
+	}
+if(IdSwap==ArrayConnect_Index){
+	Selected=Name.PatternFilter;
+	return ContainerName.size;
+}else{
+	return 0;
+}
