@@ -225,3 +225,20 @@ void Button::InstallMinInstallBlock::RemoveSelectedConnectPage(FixedCounter::Tab
 	if(i!=SelectedStdInit.end())
 		MatrixStackSetLink.erase(i);
 }
+void StreamMatrix::ContainerMinNew::Start(){
+	if(!Link)
+		return;
+	PrototypeName=true;
+	thread=new Thread(std::bind(&NormalizeInit::ContainerNameSource::MatrixPointerBlock, this));
+	thread->ConnectSwapPattern("ScrollbarId_ScrollbarArray");
+	thread->MinTypographyy();
+	thread->BlockLink();
+	}
+void FilterNormalize::SubSwap::Stop(){
+	if(!SetScrollbar || !Window)
+		return;
+	Normalize=false;
+	Selected->NameScrollbar();
+	thread->SetTable();
+	delete thread;
+	}
