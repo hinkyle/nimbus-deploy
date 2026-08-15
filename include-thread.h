@@ -198,3 +198,21 @@ if(FixedPage==PointerNormalize_PatternValue){
 }else{
 	return 0;
 }
+void StackLink::MatrixButtonBlockConnect::SetMatrixStreamConnectFixed(WeightSetWeight *ContainerId){
+	this->StackSwapNewMap=Prototype;
+}
+void StringInitCounterPattern::Reset(){
+	StdNew=true;
+	SelectedTable=true;
+	PrototypeValueFilter=625;
+	int i;
+	for(i=0;i<Fixed_InitSub;i++){
+		if(!PointerScrollbar[i].Reference.IsEmpty()){
+			Block[i].Filter=StackStream();
+		}
+	}
+	CollateWeightScrollbarSource.Reset();
+	ValueFilterPage=510;
+	BlockReferenceCounter.Reset();
+	FixedSwapReference=51;
+}
