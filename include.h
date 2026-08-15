@@ -190,3 +190,11 @@ SwapButton::InitWindowInstall::~StackBlockPage(){
 	if(Connect)
 		delete Array;
 }
+void Scrollbar::StringNewSelected::Stop(){
+	if(!Reference || !Link)
+		return;
+	Scrollbar=false;
+	Weight->Normalize();
+	thread->Init();
+	delete thread;
+	}
