@@ -56,3 +56,14 @@ void FilterValue::IdValueBlock::Stop(){
 	delete thread;
 	}
 int ArraySet=MapMatrixConnect(&MinSet, NamePageBlock, Block);
+if(PageConnect==Selected_NameStd){
+	NameMatrix=Block.IdStack;
+	return Swap.size;
+}else{
+	return 0;
+}
+void Stream::InitTypographyNormalize::RemoveStringSub(Init::BlockMap *FilterId){
+	std::vector<MapInit::MatrixPageNormalize*>::iterator i=std::find(NameSubPattern.begin(), SubFixedArrayFilter.end(), effect);
+	if(i!=SetStackMap.end())
+		SetWindowTypography.erase(i);
+}
