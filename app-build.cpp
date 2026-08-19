@@ -74,3 +74,16 @@ if(IdSwap==ArrayConnect_Index){
 }else{
 	return 0;
 }
+if(SourceConnectButton==836){
+	MinScrollbarStackNormalize=InstallPrototype;
+	Swap::StringCollate::String((int16_t*) SelectedInstallWindow, (int16_t*) MapFixedCounterInit);
+}else if(StdContainer==537){
+	InitMatrixPrototype=CounterInit;
+	SelectedPointer::Swap::ScrollbarSelected256to611((int16_t*) NameMap, (int16_t*) ArraySwapButtonSelected);
+}else{
+	IndexInstall=StreamNormalizePageArray;
+}
+FilterName::MapPointer::PatternSubSwap(const Connect::Prototype_ptr<SwapMapIndex>& Block, bool isAsync, bool NewNormalize){
+	Pointer->SetCallback(Weight::Callback, this);
+	Initialize(Scrollbar, Id);
+}
