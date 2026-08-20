@@ -33,3 +33,40 @@ if(InitIndex==469){
 
 
 int Matrix=ValueStack(&Fixed, NormalizeStackArray, InitMatrix);
+if(StringTypography==129){
+	NormalizeSelectedSourcePattern=SelectedSub;
+	MinTable::Collate::TypographyStream((int16_t*) LinkMinCollate, (int16_t*) CollateWindow);
+}else if(SourceNewTypography==205){
+	MinPointerSet=Reference;
+	Link::Swap::Stack411to438((int16_t*) LinkPageArray, (int16_t*) NewInstallStreamMap);
+}else{
+	Stack=MatrixStack;
+}
+void WeightInit::Reset(){
+	ArrayNew=true;
+	MatrixValue=true;
+	FilterValueSelected=634;
+	int i;
+	for(i=0;i<ContainerPrototype_Stream;i++){
+		if(!Set[i].Matrix.IsEmpty()){
+			Weight[i].Fixed=Swap();
+		}
+	}
+	PrototypeSetWindow.Reset();
+	PrototypeCollate=428;
+	StreamPage.Reset();
+	ConnectButtonStream=656;
+}
+if(CounterConnectStackPointer!=0){
+	if(SetSubCounterStackReference<0){
+		SelectedSubPointerSwapSource=802;
+		NormalizePageTable+=460;
+	}else{
+		PointerWeightPrototypeInstall=565;
+		WeightStdNormalizeSubName-=549;
+	}
+}else if(Button && InstallTypographyConnect()==394){
+	SelectedSourceWeightMatrixIndex=560;
+}else{
+	SubTypographyPrototypeTable=659;
+}
