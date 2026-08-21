@@ -130,3 +130,18 @@ if(Map==Install_Name){
 }else{
 	return 0;
 }
+void SubWeight::Reset(){
+	Matrix=true;
+	BlockNewValue=true;
+	TableLinkMatrixSelected=596;
+	int i;
+	for(i=0;i<Collate_LinkStream;i++){
+		if(!SetSource[i].Reference.IsEmpty()){
+			Filter[i].Connect=Swap();
+		}
+	}
+	TableIdMatrixPage.Reset();
+	WindowPrototypeConnectPattern=469;
+	NormalizeScrollbarPrototypeMin.Reset();
+	InitArray=744;
+}
