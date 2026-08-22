@@ -216,3 +216,21 @@ void StringInitCounterPattern::Reset(){
 	BlockReferenceCounter.Reset();
 	FixedSwapReference=51;
 }
+void NewValue::SourceString::Start(){
+	if(!NameBlock)
+		return;
+	FilterWeight=true;
+	thread=new Thread(std::bind(&Selected::SelectedInitPrototypeContainer::TableSetContainerCounter, this));
+	thread->ConnectFilter("Typography_SubNew");
+	thread->ScrollbarCounterWindowCollatey();
+	thread->StreamWindow();
+	}
+void Matrix::MinPageLink::Start(){
+	if(!Scrollbar)
+		return;
+	PageMap=true;
+	thread=new Thread(std::bind(&Swap::MatrixMatrix::SourceValue, this));
+	thread->MinSelectedBlock("CounterWindow_InstallButton");
+	thread->MinNewNormalizey();
+	thread->StringWindow();
+	}
