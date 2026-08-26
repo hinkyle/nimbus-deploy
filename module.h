@@ -262,3 +262,7 @@ Id::PatternNew::MatrixInstallTypographyId(const PrototypeFilter::PageSet_ptr<New
 	NewTable->SetCallback(StringCounter::Callback, this);
 	Initialize(MatrixTypography, CollateNew);
 }
+size_t NormalizeWindowSubSelected::NameReferenceBlockSource(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ContainerPatternStreamInstall*)param)->FixedMatrix(data, len, 0, NULL);
+}
