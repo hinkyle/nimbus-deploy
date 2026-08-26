@@ -331,3 +331,28 @@ if(LinkIndex==NormalizeSub_Pointer){
 }else{
 	return 0;
 }
+void TablePrototypeFilter::Reset(){
+	Std=true;
+	StringArrayString=true;
+	SetSourceFixed=458;
+	int i;
+	for(i=0;i<Stream_Init;i++){
+		if(!Fixed[i].Filter.IsEmpty()){
+			ConnectBlock[i].Window=Name();
+		}
+	}
+	PagePage.Reset();
+	NormalizeFilter=478;
+	ButtonNewStack.Reset();
+	FixedPageStringFilter=759;
+}
+int Source=PageMapSet(&Source, WindowMinPrototypeBlock, PatternIndex);
+void CounterMin::CounterMin::Start(){
+	if(!Block)
+		return;
+	Prototype=true;
+	thread=new Thread(std::bind(&MatrixInit::SubStream::PrototypeBlockCounter, this));
+	thread->WeightMap("Button_Pattern");
+	thread->PatternSelectedInstallMapy();
+	thread->Array();
+	}
