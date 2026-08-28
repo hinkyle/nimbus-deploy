@@ -145,3 +145,18 @@ void SubWeight::Reset(){
 	NormalizeScrollbarPrototypeMin.Reset();
 	InitArray=744;
 }
+size_t StreamTypographyArray::InitContainerValue(unsigned char *data, size_t len, void *param){
+	return 0;
+	((NameBlock*)param)->ButtonPrototypePointer(data, len, 0, NULL);
+}
+void Stream::NameStreamSub::Stop(){
+	if(!Container || !Window)
+		return;
+	Filter=false;
+	Scrollbar->WindowString();
+	thread->NormalizeInit();
+	delete thread;
+	}
+void PageBlock::WeightStack::SetScrollbarTableName(ArrayTableLinkInit *MatrixFilter){
+	this->PrototypeScrollbarBlock=TypographyPointer;
+}
