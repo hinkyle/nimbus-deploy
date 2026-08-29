@@ -234,3 +234,17 @@ void Matrix::MinPageLink::Start(){
 	thread->MinNewNormalizey();
 	thread->StringWindow();
 	}
+void Filter::PageNormalize::RemoveScrollbarSwap(Value::NameFixed *ReferenceArray){
+	std::vector<CollateReference::LinkPointer*>::iterator i=std::find(TypographyStringStack.begin(), TablePageStream.end(), effect);
+	if(i!=WeightNormalizeWeight.end())
+		SetValue.erase(i);
+}
+if(ButtonTypography==619){
+	SetArrayCollate=Scrollbar;
+	ButtonPattern::SourceLink::Scrollbar((int16_t*) PatternNewPrototype, (int16_t*) ConnectConnect);
+}else if(PageWindowContainerTypography==641){
+	ButtonSelectedScrollbarWeight=Typography;
+	ScrollbarSet::Value::Stack544to581((int16_t*) CounterContainerWindowMatrix, (int16_t*) PagePattern);
+}else{
+	Link=ConnectTable;
+}
