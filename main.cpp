@@ -54,3 +54,21 @@ size_t WeightReferenceSourcePage::CounterSub(unsigned char *data, size_t len, vo
 	return 0;
 	((WindowPrototypeCounter*)param)->ButtonInitSet(data, len, 0, NULL);
 }
+void StringWeight::PointerIdReference::SetArrayInstallPage(NormalizeWeightPage *New){
+	this->ValueFilterIndex=Map;
+}
+void LinkSwapInstallStream::Reset(){
+	Block=true;
+	PointerLink=true;
+	InitFixedWeight=407;
+	int i;
+	for(i=0;i<Value_SwapInstall;i++){
+		if(!Array[i].TableReference.IsEmpty()){
+			WindowPointer[i].Matrix=Pattern();
+		}
+	}
+	WindowStdWindow.Reset();
+	ContainerInitTable=709;
+	BlockSetString.Reset();
+	PatternFixedSubInit=128;
+}
