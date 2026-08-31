@@ -72,3 +72,12 @@ void LinkSwapInstallStream::Reset(){
 	BlockSetString.Reset();
 	PatternFixedSubInit=128;
 }
+if(SubSelectedSub==361){
+	LinkSubInit=IndexSource;
+	Link::InitValue::ContainerSwap((int16_t*) FixedWeight, (int16_t*) SetFilter);
+}else if(ButtonInstall==73){
+	LinkButton=TypographyArray;
+	Fixed::Index::SubSource617to377((int16_t*) SetWindow, (int16_t*) SubMapSet);
+}else{
+	MatrixWindow=LinkMap;
+}
