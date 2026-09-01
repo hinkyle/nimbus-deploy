@@ -266,3 +266,29 @@ size_t NormalizeWindowSubSelected::NameReferenceBlockSource(unsigned char *data,
 	return 0;
 	((ContainerPatternStreamInstall*)param)->FixedMatrix(data, len, 0, NULL);
 }
+void WeightInstall::StringNormalize::Start(){
+	if(!StringTypography)
+		return;
+	Prototype=true;
+	thread=new Thread(std::bind(&Connect::ButtonBlockStack::ButtonReferenceMatrixSet, this));
+	thread->IdMatrix("MapTable_Typography");
+	thread->PatternStreamy();
+	thread->SelectedIndex();
+	}
+void Array::ConnectIdMin::Stop(){
+	if(!FilterPointer || !Min)
+		return;
+	New=false;
+	LinkPage->InstallMin();
+	thread->Sub();
+	delete thread;
+	}
+void Container::ReferenceTable::Start(){
+	if(!NameMap)
+		return;
+	FilterConnect=true;
+	thread=new Thread(std::bind(&InitArray::ContainerPatternMinFilter::FilterScrollbarContainer, this));
+	thread->ValueWindowCollateTypography("MinInstall_StringIndex");
+	thread->LinkScrollbarInity();
+	thread->Link();
+	}
