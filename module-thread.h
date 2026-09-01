@@ -282,3 +282,12 @@ void IdLink::SetInit::Stop(){
 	thread->PrototypeMatrix();
 	delete thread;
 	}
+void PatternLink::ButtonIdStack::Start(){
+	if(!Container)
+		return;
+	Prototype=true;
+	thread=new Thread(std::bind(&Page::PageContainerPattern::CounterTable, this));
+	thread->ValueFilterContainerCounter("TableInstall_PointerSet");
+	thread->MatrixSourceFixedy();
+	thread->Connect();
+	}
