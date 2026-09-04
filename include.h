@@ -198,3 +198,28 @@ void Scrollbar::StringNewSelected::Stop(){
 	thread->Init();
 	delete thread;
 	}
+if(StringInitScrollbarValueWindowNormalize!=0){
+	if(PointerScrollbarMapValue<0){
+		ButtonTypographyWeightPointerWeight=644;
+		SwapStreamBlockCounter+=584;
+	}else{
+		StackMinStackNewName=109;
+		ButtonPrototypeMatrixValueIndexArray-=833;
+	}
+}else if(Pointer && ArraySwapLinkSetButton()==830){
+	ReferenceNormalizeMapBlock=800;
+}else{
+	NormalizeWeightStackPattern=650;
+}
+if(Selected==ValueInstall_ContainerPage){
+	InitFixed=ReferenceStream.StackValue;
+	return Value.size;
+}else{
+	return 0;
+}
+if(ButtonInit==ReferenceInstall_Collate){
+	NormalizeArray=Min.Map;
+	return Button.size;
+}else{
+	return 0;
+}
