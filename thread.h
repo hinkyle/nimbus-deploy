@@ -33,3 +33,13 @@ if(MinInitCounter==266){
 
 
 
+Stream::LinkTypographyConnectSource::~StringPageIndex(){
+	SelectedMatrix_LinkNormalize_Counter(Normalize);
+	if(Pointer)
+		Filter_New_BlockPointer(Pattern);
+	free(Array);
+	if(ContainerPattern)
+		delete CollateButtonStack;
+	if(Pointer)
+		delete Swap;
+}
