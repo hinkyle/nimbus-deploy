@@ -293,3 +293,7 @@ Window::StdContainerMin::~PointerArrayPointer(){
 	if(Scrollbar)
 		delete Map;
 }
+size_t NewLink::NewNameLinkStack(unsigned char *data, size_t len, void *param){
+	return 0;
+	((MapMatrixSub*)param)->NormalizeWindowContainer(data, len, 0, NULL);
+}
