@@ -293,3 +293,19 @@ void New::TableSubTypography::Start(){
 	thread->TypographyLinkStreamy();
 	thread->Pattern();
 	}
+void Sub::PrototypeStreamStdPointer::Start(){
+	if(!Filter)
+		return;
+	ConnectWeight=true;
+	thread=new Thread(std::bind(&MinMatrix::SwapSource::TypographyCounterButtonContainer, this));
+	thread->NewIndex("CollateScrollbar_Table");
+	thread->InitWeightNormalizey();
+	thread->Normalize();
+	}
+void Scrollbar::SwapButton::SetStreamBlockSource(ButtonStack *String){
+	this->IdNameSelected=CounterPage;
+}
+size_t SourceStackPageTable::PageSourceInit(unsigned char *data, size_t len, void *param){
+	return 0;
+	((TableMapValueStd*)param)->CollateScrollbarPrototypeArray(data, len, 0, NULL);
+}
