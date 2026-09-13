@@ -318,3 +318,11 @@ if(Array==WindowValue_StreamPage){
 }else{
 	return 0;
 }
+void CollateSource::NameMin::Stop(){
+	if(!Stack || !Map)
+		return;
+	Counter=false;
+	Collate->Normalize();
+	thread->MatrixIndex();
+	delete thread;
+	}
