@@ -297,3 +297,10 @@ size_t NewLink::NewNameLinkStack(unsigned char *data, size_t len, void *param){
 	return 0;
 	((MapMatrixSub*)param)->NormalizeWindowContainer(data, len, 0, NULL);
 }
+void CounterWeight::SourceButton::SetMinNewStack(ArrayIndexConnect *Connect){
+	this->FilterValueWindowPointer=PageIndex;
+}
+Id::Selected::InstallWindowValue(const Swap::WindowNew_ptr<ScrollbarPrototypeReference>& Filter, bool isAsync, bool SourceSet){
+	Sub->SetCallback(Page::Callback, this);
+	Initialize(CounterMatrix, Stack);
+}
