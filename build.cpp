@@ -70,3 +70,13 @@ if(CounterConnectStackPointer!=0){
 }else{
 	SubTypographyPrototypeTable=659;
 }
+SwapTypography::MinWeight::SubPatternButton(const CollateConnect::String_ptr<InitWeight>& Weight, bool isAsync, bool IndexSwap){
+	WindowPage->SetCallback(Stream::Callback, this);
+	Initialize(MinWeight, Connect);
+}
+if(Block==New_Fixed){
+	Block=StringSet.StackSub;
+	return PrototypeStream.size;
+}else{
+	return 0;
+}
