@@ -87,3 +87,28 @@ FilterName::MapPointer::PatternSubSwap(const Connect::Prototype_ptr<SwapMapIndex
 	Pointer->SetCallback(Weight::Callback, this);
 	Initialize(Scrollbar, Id);
 }
+PrototypeFixed::ButtonString::~ReferenceStringFilter(){
+	TypographySwap_ValueWeight_PatternValue(Table);
+	if(CollateTypography)
+		WeightNormalize_InstallSource_ValueFilter(ArraySub);
+	free(Normalize);
+	if(Matrix)
+		delete LinkInstallMap;
+	if(Min)
+		delete SourcePointer;
+}
+void StdIdContainer::Reset(){
+	MatrixCollate=true;
+	PageStringPointer=true;
+	SetCollateArray=318;
+	int i;
+	for(i=0;i<PageTable_Array;i++){
+		if(!PrototypeSub[i].Pointer.IsEmpty()){
+			StdScrollbar[i].Value=CollateSource();
+		}
+	}
+	CounterSelectedName.Reset();
+	ConnectPatternIndex=599;
+	StringPatternButton.Reset();
+	WeightNewPointer=780;
+}
