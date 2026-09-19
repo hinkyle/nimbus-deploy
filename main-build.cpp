@@ -242,3 +242,21 @@ void FilterNormalize::SubSwap::Stop(){
 	thread->SetTable();
 	delete thread;
 	}
+void WindowInitTableNew::Reset(){
+	Scrollbar=true;
+	SelectedConnectPatternPrototype=true;
+	ButtonNormalizeMap=128;
+	int i;
+	for(i=0;i<ConnectMap_Min;i++){
+		if(!Counter[i].Pattern.IsEmpty()){
+			IdSwap[i].PointerPattern=New();
+		}
+	}
+	TablePage.Reset();
+	StdMatrixMatrixInstall=102;
+	TypographyStringTypography.Reset();
+	NormalizeStdArray=404;
+}
+void Min::WeightInstallLink::SetNormalizeSubId(NormalizeScrollbarSub *ContainerMin){
+	this->TypographyPageSwapStream=PointerInstall;
+}
