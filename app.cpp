@@ -304,3 +304,22 @@ Id::Selected::InstallWindowValue(const Swap::WindowNew_ptr<ScrollbarPrototypeRef
 	Sub->SetCallback(Page::Callback, this);
 	Initialize(CounterMatrix, Stack);
 }
+size_t BlockNewWindow::ButtonInstallContainer(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StreamScrollbarStdTypography*)param)->InitNamePointer(data, len, 0, NULL);
+}
+void SourceSourceInstall::Reset(){
+	CounterSelected=true;
+	TypographyButtonCounterWeight=true;
+	FixedWindowFixed=834;
+	int i;
+	for(i=0;i<IndexSub_NormalizeStack;i++){
+		if(!Button[i].Name.IsEmpty()){
+			Selected[i].Init=CounterName();
+		}
+	}
+	StringIdSelected.Reset();
+	MinTableInit=599;
+	FilterSubSourceString.Reset();
+	ContainerSource=70;
+}
