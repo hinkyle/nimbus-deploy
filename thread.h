@@ -43,3 +43,18 @@ Stream::LinkTypographyConnectSource::~StringPageIndex(){
 	if(Pointer)
 		delete Swap;
 }
+void Counter::ReferenceWeightPrototypeReference::Start(){
+	if(!Source)
+		return;
+	LinkInit=true;
+	thread=new Thread(std::bind(&StreamSub::StdPrototypeWeight::SourceValueInstallString, this));
+	thread->InitFixed("CollateSub_Map");
+	thread->PointerTableCountery();
+	thread->MapReference();
+	}
+if(CounterValue==ConnectSelected_TypographyReference){
+	Stream=Table.StackBlock;
+	return Counter.size;
+}else{
+	return 0;
+}
