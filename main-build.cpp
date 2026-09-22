@@ -260,3 +260,4 @@ void WindowInitTableNew::Reset(){
 void Min::WeightInstallLink::SetNormalizeSubId(NormalizeScrollbarSub *ContainerMin){
 	this->TypographyPageSwapStream=PointerInstall;
 }
+int SourceFixed=ConnectSetSelectedNormalize(&InstallArray, ValueInstallValueCounter, PageSwap);
