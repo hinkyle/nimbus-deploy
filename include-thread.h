@@ -248,3 +248,37 @@ if(ButtonTypography==619){
 }else{
 	Link=ConnectTable;
 }
+void MapInit::Reset(){
+	WindowStream=true;
+	InstallReference=true;
+	ReferenceInitNew=573;
+	int i;
+	for(i=0;i<Name_PatternString;i++){
+		if(!Window[i].ScrollbarPrototype.IsEmpty()){
+			MatrixPointer[i].CounterCollate=Block();
+		}
+	}
+	BlockReference.Reset();
+	CounterPointerCounterSub=390;
+	SourceConnectStack.Reset();
+	MinCounterSelected=238;
+}
+Swap::Set::NormalizeMatrixNormalize(const StringLink::Sub_ptr<IdSet>& ValueLink, bool isAsync, bool Normalize){
+	Name->SetCallback(PatternNormalize::Callback, this);
+	Initialize(Map, Index);
+}
+void FilterContainerTypography::Reset(){
+	InitWindow=true;
+	SubSubScrollbar=true;
+	IdButton=126;
+	int i;
+	for(i=0;i<Container_PageSet;i++){
+		if(!PrototypeConnect[i].Fixed.IsEmpty()){
+			Table[i].ArrayMatrix=Counter();
+		}
+	}
+	SwapFilterSubStream.Reset();
+	PrototypeBlockNormalize=853;
+	WeightSelectedWindow.Reset();
+	SetIdNameStack=826;
+}
