@@ -160,3 +160,23 @@ void Stream::NameStreamSub::Stop(){
 void PageBlock::WeightStack::SetScrollbarTableName(ArrayTableLinkInit *MatrixFilter){
 	this->PrototypeScrollbarBlock=TypographyPointer;
 }
+void PrototypeConnect::SetNameFixed::Start(){
+	if(!Normalize)
+		return;
+	Index=true;
+	thread=new Thread(std::bind(&Id::InitPrototypeSource::PrototypeMin, this));
+	thread->SelectedSwapSwap("PointerName_Init");
+	thread->BlockSetPointerContainery();
+	thread->Std();
+	}
+if(Prototype==TableStack_StringPrototype){
+	Scrollbar=Fixed.LinkArray;
+	return Normalize.size;
+}else{
+	return 0;
+}
+void NewContainer::PatternNameStream::RemoveNameStdWindow(New::StreamMap *Reference){
+	std::vector<SubScrollbar::PatternSourceSetLink*>::iterator i=std::find(SourceNewInit.begin(), ValueWindowFilter.end(), effect);
+	if(i!=SelectedInitMap.end())
+		ScrollbarStack.erase(i);
+}
