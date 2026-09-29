@@ -261,3 +261,14 @@ void Min::WeightInstallLink::SetNormalizeSubId(NormalizeScrollbarSub *ContainerM
 	this->TypographyPageSwapStream=PointerInstall;
 }
 int SourceFixed=ConnectSetSelectedNormalize(&InstallArray, ValueInstallValueCounter, PageSwap);
+void StackPrototype::SubNew::Stop(){
+	if(!Page || !NormalizePattern)
+		return;
+	Prototype=false;
+	StackMin->Swap();
+	thread->NewTable();
+	delete thread;
+	}
+void ArrayMatrix::WindowSet::SetFilterSelectedReferenceWindow(ConnectPointer *CounterSource){
+	this->CounterStringValue=Index;
+}
