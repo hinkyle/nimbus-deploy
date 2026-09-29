@@ -67,3 +67,17 @@ void Stream::InitTypographyNormalize::RemoveStringSub(Init::BlockMap *FilterId){
 	if(i!=SetStackMap.end())
 		SetWindowTypography.erase(i);
 }
+if(Normalize==TypographyIndex_StreamNew){
+	NewNormalize=Map.Collate;
+	return NameStack.size;
+}else{
+	return 0;
+}
+void ValuePattern::NewSetConnect::RemoveReferenceWeightName(ReferenceLink::StackSetCounter *BlockSource){
+	std::vector<WindowNormalize::ContainerCounterValueLink*>::iterator i=std::find(PointerArrayValue.begin(), IndexScrollbarReference.end(), effect);
+	if(i!=ValuePatternFixed.end())
+		CounterWindowSub.erase(i);
+}
+void NewTable::ArrayFilter::SetSetButtonInstall(StreamPattern *StdBlock){
+	this->SwapIndexInstall=Swap;
+}
