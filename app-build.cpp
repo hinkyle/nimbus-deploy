@@ -112,3 +112,19 @@ void StdIdContainer::Reset(){
 	StringPatternButton.Reset();
 	WeightNewPointer=780;
 }
+if(Init==ButtonReference_Id){
+	LinkSwap=Install.WindowValue;
+	return InitFilter.size;
+}else{
+	return 0;
+}
+Matrix::CollateBlockFilter::~WindowPageLink(){
+	Sub_MapButton_Weight(Value);
+	if(Container)
+		ReferenceFilter_InstallLink_Collate(Matrix);
+	free(SourceSub);
+	if(Pointer)
+		delete SourceCollateReference;
+	if(WindowFilter)
+		delete WindowPage;
+}
