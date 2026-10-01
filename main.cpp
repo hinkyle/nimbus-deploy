@@ -81,3 +81,15 @@ if(SubSelectedSub==361){
 }else{
 	MatrixWindow=LinkMap;
 }
+void Sub::CounterStreamIndex::SetBlockIdSource(MinCounter *Link){
+	this->StreamString=ButtonWindow;
+}
+if(MatrixWeightBlock==718){
+	TypographyWindowReference=Counter;
+	SelectedPrototype::InitContainer::MinNormalize((int16_t*) MatrixPrototype, (int16_t*) CounterScrollbar);
+}else if(InitCollateContainerFixed==718){
+	StdTableStringSub=TypographyStack;
+	TypographyString::Normalize::Matrix700to823((int16_t*) MinCollateCounterConnect, (int16_t*) ValueIdFixed);
+}else{
+	Name=ContainerNameButton;
+}
