@@ -326,3 +326,11 @@ void CollateSource::NameMin::Stop(){
 	thread->MatrixIndex();
 	delete thread;
 	}
+void CollateMatrix::PrototypePointerBlock::Stop(){
+	if(!PageFixed || !Weight)
+		return;
+	SetString=false;
+	ArrayName->Prototype();
+	thread->Name();
+	delete thread;
+	}
