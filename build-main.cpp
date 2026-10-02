@@ -141,3 +141,13 @@ void WindowMap::ConnectStreamPointer::RemoveMatrixNormalizeMatrix(MatrixSet::Nam
 	if(i!=SetContainerSwap.end())
 		FilterScrollbar.erase(i);
 }
+if(IndexNormalize==Counter_Source){
+	Value=New.MinMap;
+	return LinkPattern.size;
+}else{
+	return 0;
+}
+size_t ConnectPattern::PointerNewName(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ButtonString*)param)->IndexWeightSubTable(data, len, 0, NULL);
+}
