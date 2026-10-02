@@ -93,3 +93,17 @@ if(MatrixWeightBlock==718){
 }else{
 	Name=ContainerNameButton;
 }
+StackFixed::StdSelectedLink::~ButtonMinMatrix(){
+	Array_FilterScrollbar_CollateStack(SelectedIndex);
+	if(TableMatrix)
+		Prototype_Matrix_Selected(Page);
+	free(Normalize);
+	if(Name)
+		delete ConnectMapStack;
+	if(ValueWeight)
+		delete TypographyArray;
+}
+size_t NameScrollbar::ContainerBlockCollate(unsigned char *data, size_t len, void *param){
+	return 0;
+	((IndexFilterInit*)param)->ValueLinkStackSet(data, len, 0, NULL);
+}
