@@ -323,3 +323,14 @@ void SourceSourceInstall::Reset(){
 	FilterSubSourceString.Reset();
 	ContainerSource=70;
 }
+if(Filter==PrototypeTable_Set){
+	StringConnect=PrototypeSub.StreamString;
+	return NamePointer.size;
+}else{
+	return 0;
+}
+void PageScrollbar::ArrayConnect::RemoveScrollbarStringScrollbarWeight(Stream::MapReferenceButton *SourceLink){
+	std::vector<ButtonStack::ConnectReferencePage*>::iterator i=std::find(TypographySelectedInstall.begin(), ContainerMap.end(), effect);
+	if(i!=PatternInstallContainer.end())
+		NewLink.erase(i);
+}
