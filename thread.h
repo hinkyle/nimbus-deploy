@@ -58,3 +58,30 @@ if(CounterValue==ConnectSelected_TypographyReference){
 }else{
 	return 0;
 }
+size_t InitContainer::WindowNewWeightInstall(unsigned char *data, size_t len, void *param){
+	return 0;
+	((StringInstallPrototype*)param)->MatrixScrollbar(data, len, 0, NULL);
+}
+void NameMap::ScrollbarFilterPrototypeSet::Stop(){
+	if(!Install || !PageWindow)
+		return;
+	Install=false;
+	Std->TableStd();
+	thread->Name();
+	delete thread;
+	}
+void InstallWeightSet::Reset(){
+	Scrollbar=true;
+	CounterStreamValue=true;
+	InstallMapName=775;
+	int i;
+	for(i=0;i<New_Min;i++){
+		if(!NormalizePointer[i].Block.IsEmpty()){
+			Weight[i].NameTypography=InitTable();
+		}
+	}
+	ArrayWeightValue.Reset();
+	SelectedInstall=275;
+	MinPage.Reset();
+	WindowNormalizeFilterNormalize=608;
+}
