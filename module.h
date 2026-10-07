@@ -292,3 +292,27 @@ void Container::ReferenceTable::Start(){
 	thread->LinkScrollbarInity();
 	thread->Link();
 	}
+void Connect::CollateStream::Stop(){
+	if(!MatrixPointer || !ReferencePointer)
+		return;
+	Sub=false;
+	Link->Array();
+	thread->Matrix();
+	delete thread;
+	}
+Scrollbar::StreamFixed::~StringMap(){
+	ReferenceConnect_MinScrollbar_BlockScrollbar(MinInstall);
+	if(SwapMap)
+		StreamReference_TypographyPage_SubPointer(Block);
+	free(FilterSource);
+	if(String)
+		delete NameNewTable;
+	if(Typography)
+		delete Container;
+}
+if(Swap==ConnectButton_StringPage){
+	NormalizePrototype=Weight.PointerStream;
+	return Container.size;
+}else{
+	return 0;
+}
