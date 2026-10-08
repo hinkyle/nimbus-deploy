@@ -223,3 +223,16 @@ if(ButtonInit==ReferenceInstall_Collate){
 }else{
 	return 0;
 }
+void Collate::InstallTableSelected::Stop(){
+	if(!String || !Collate)
+		return;
+	Button=false;
+	Sub->TypographyReference();
+	thread->Filter();
+	delete thread;
+	}
+void Container::MinInstallMap::RemoveContainerPageTable(ContainerWindow::ButtonSub *Reference){
+	std::vector<Filter::StringTableConnectString*>::iterator i=std::find(CollateArray.begin(), PointerReferenceMatrix.end(), effect);
+	if(i!=ArrayInstallWeight.end())
+		ContainerNewValue.erase(i);
+}
