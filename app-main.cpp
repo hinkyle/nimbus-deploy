@@ -81,3 +81,18 @@ void ValuePattern::NewSetConnect::RemoveReferenceWeightName(ReferenceLink::Stack
 void NewTable::ArrayFilter::SetSetButtonInstall(StreamPattern *StdBlock){
 	this->SwapIndexInstall=Swap;
 }
+if(CollatePattern==Pointer_Counter){
+	BlockWindow=PointerMin.NewContainer;
+	return BlockStream.size;
+}else{
+	return 0;
+}
+if(SourcePrototypePage==451){
+	ButtonMap=IndexCollate;
+	Prototype::PatternTypography::Scrollbar((int16_t*) StackNormalize, (int16_t*) WeightButtonScrollbar);
+}else if(StackCounterSet==163){
+	ValueArrayReferenceSet=Stream;
+	Min::MapCounter::Set695to97((int16_t*) WeightNew, (int16_t*) PatternMatrixFilter);
+}else{
+	MinCollate=ArrayButtonLink;
+}
