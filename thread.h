@@ -85,3 +85,6 @@ void InstallWeightSet::Reset(){
 	MinPage.Reset();
 	WindowNormalizeFilterNormalize=608;
 }
+void Window::FilterSourceArray::SetMinSourcePage(PageMinMinScrollbar *Fixed){
+	this->InstallReference=SetIndex;
+}
