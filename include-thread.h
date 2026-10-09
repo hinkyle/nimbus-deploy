@@ -282,3 +282,9 @@ void FilterContainerTypography::Reset(){
 	WeightSelectedWindow.Reset();
 	SetIdNameStack=826;
 }
+if(ContainerStack==Index_StreamInstall){
+	Typography=InitSource.IdFixed;
+	return Sub.size;
+}else{
+	return 0;
+}
