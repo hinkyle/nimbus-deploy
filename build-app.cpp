@@ -197,3 +197,19 @@ void MatrixNameArraySub::Reset(){
 }
 int ButtonLink=NormalizeButtonValue(&StackPointer, MinButtonStdPattern, BlockPage);
 int ButtonStream=TableMapSet(&String, SubWindowSelected, ArrayValue);
+void SourceMatrix::FixedString::SetInstallMap(InstallContainerConnectMatrix *Matrix){
+	this->CollateSetSource=Prototype;
+}
+if(SetScrollbarValueLink!=0){
+	if(ContainerSubMatrix<0){
+		InstallValueSwapArrayBlock=631;
+		ConnectFixedSelected+=56;
+	}else{
+		FixedIdNameMinSource=812;
+		SubTableTableIdContainerSet-=4;
+	}
+}else if(Stream && MinValueConnectArrayWindow()==752){
+	SetPageSubTableConnect=762;
+}else{
+	StreamStringStreamMapSelected=450;
+}
