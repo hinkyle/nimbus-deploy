@@ -291,3 +291,15 @@ void PatternLink::ButtonIdStack::Start(){
 	thread->MatrixSourceFixedy();
 	thread->Connect();
 	}
+void BlockCounter::WindowStdReference::Stop(){
+	if(!SubCounter || !Pattern)
+		return;
+	Window=false;
+	SubString->PrototypeTable();
+	thread->Stream();
+	delete thread;
+	}
+Counter::Array::StackLinkConnect(const SelectedIndex::ScrollbarTypography_ptr<PointerStringArray>& BlockId, bool isAsync, bool Set){
+	ContainerPage->SetCallback(Pointer::Callback, this);
+	Initialize(ArrayMap, TypographyPrototype);
+}
