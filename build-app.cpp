@@ -213,3 +213,46 @@ if(SetScrollbarValueLink!=0){
 }else{
 	StreamStringStreamMapSelected=450;
 }
+void FilterStringNormalizeMap::Reset(){
+	Scrollbar=true;
+	LinkArrayConnect=true;
+	IdBlockSelected=352;
+	int i;
+	for(i=0;i<ButtonInit_MatrixSwap;i++){
+		if(!MatrixStream[i].MinMatrix.IsEmpty()){
+			New[i].Counter=Sub();
+		}
+	}
+	FixedSubMap.Reset();
+	NewCollateValue=720;
+	SourceSelected.Reset();
+	TablePointer=220;
+}
+if(NewInstallSourceInstallReference!=0){
+	if(NameMatrixNewStream<0){
+		StackMinNewButton=195;
+		MinMapTable+=406;
+	}else{
+		NormalizeIndexMapConnectStdPattern=379;
+		WeightInstallConnectPageNormalize-=655;
+	}
+}else if(PagePattern && MapTypographyStreamReference()==881){
+	NewWeightInstallMin=676;
+}else{
+	ContainerSubIdTypography=403;
+}
+void CollateSetArray::Reset(){
+	MatrixNew=true;
+	SelectedInit=true;
+	PointerFixed=566;
+	int i;
+	for(i=0;i<Min_Normalize;i++){
+		if(!Button[i].New.IsEmpty()){
+			Button[i].Counter=ConnectMin();
+		}
+	}
+	TableMatrixWindow.Reset();
+	PointerNormalizeArray=858;
+	ReferenceContainer.Reset();
+	FilterPrototype=874;
+}
