@@ -236,3 +236,9 @@ void Container::MinInstallMap::RemoveContainerPageTable(ContainerWindow::ButtonS
 	if(i!=ArrayInstallWeight.end())
 		ContainerNewValue.erase(i);
 }
+if(NormalizeTypography==StreamId_Sub){
+	MatrixId=PatternPrototype.SwapTable;
+	return Map.size;
+}else{
+	return 0;
+}
