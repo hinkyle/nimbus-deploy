@@ -88,3 +88,6 @@ void InstallWeightSet::Reset(){
 void Window::FilterSourceArray::SetMinSourcePage(PageMinMinScrollbar *Fixed){
 	this->InstallReference=SetIndex;
 }
+void ReferenceLink::LinkIdName::SetValueCollate(BlockIdScrollbar *Stack){
+	this->IdStringMin=LinkName;
+}
