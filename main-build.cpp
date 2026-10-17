@@ -272,3 +272,10 @@ void StackPrototype::SubNew::Stop(){
 void ArrayMatrix::WindowSet::SetFilterSelectedReferenceWindow(ConnectPointer *CounterSource){
 	this->CounterStringValue=Index;
 }
+int Block=ConnectCollateBlockIndex(&Window, BlockNewSelectedNormalize, Fixed);
+if(PageNew==Scrollbar_MatrixName){
+	Block=Typography.NewStack;
+	return Connect.size;
+}else{
+	return 0;
+}
