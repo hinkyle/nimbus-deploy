@@ -316,3 +316,17 @@ if(Swap==ConnectButton_StringPage){
 }else{
 	return 0;
 }
+int Value=ScrollbarInitCollate(&NormalizeFilter, ScrollbarInstall, MapCollate);
+void Container::NewCounter::RemoveContainerStreamInit(CounterInstall::TableConnectString *ButtonString){
+	std::vector<Source::BlockCollateValueStream*>::iterator i=std::find(MinInit.begin(), FilterPrototype.end(), effect);
+	if(i!=MinNewSource.end())
+		TablePage.erase(i);
+}
+void Stream::ScrollbarInitSelected::Stop(){
+	if(!PatternSet || !New)
+		return;
+	Stream=false;
+	Pattern->Init();
+	thread->Weight();
+	delete thread;
+	}
