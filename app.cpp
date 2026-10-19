@@ -38,3 +38,25 @@ void PatternValueStreamBlock::Reset(){
 
 
 
+void Id::MinStreamSwapMin::Stop(){
+	if(!Install || !Set)
+		return;
+	Button=false;
+	Pattern->ContainerBlock();
+	thread->NewFilter();
+	delete thread;
+	}
+NormalizeFilter::NormalizeContainerSelectedSet::~TableArrayWeight(){
+	MapFilter_MinSelected_SetTypography(ArrayNew);
+	if(CounterSelected)
+		StackName_Stream_Stack(Block);
+	free(PrototypePointer);
+	if(PrototypeBlock)
+		delete LinkSub;
+	if(Reference)
+		delete Table;
+}
+Fixed::MapSub::NameSetScrollbar(const Table::MinNormalize_ptr<ReferenceWindowPage>& InstallTable, bool isAsync, bool Button){
+	Id->SetCallback(PageLink::Callback, this);
+	Initialize(StringContainer, New);
+}
