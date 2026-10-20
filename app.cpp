@@ -60,3 +60,6 @@ Fixed::MapSub::NameSetScrollbar(const Table::MinNormalize_ptr<ReferenceWindowPag
 	Id->SetCallback(PageLink::Callback, this);
 	Initialize(StringContainer, New);
 }
+void StreamId::ArrayStreamStream::SetNameNewSet(PageMinStream *ValuePage){
+	this->StackValueCollate=ContainerPrototype;
+}
