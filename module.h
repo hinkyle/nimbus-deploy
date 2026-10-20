@@ -330,3 +330,9 @@ void Stream::ScrollbarInitSelected::Stop(){
 	thread->Weight();
 	delete thread;
 	}
+if(Container==SwapBlock_Selected){
+	Sub=WeightCollate.Button;
+	return Map.size;
+}else{
+	return 0;
+}
