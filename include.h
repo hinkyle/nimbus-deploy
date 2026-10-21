@@ -242,3 +242,22 @@ if(NormalizeTypography==StreamId_Sub){
 }else{
 	return 0;
 }
+void Stream::MinFilterTypography::RemoveInstallTypographyNewStream(Table::SelectedMatrixInitPage *SetWindow){
+	std::vector<IdMatrix::IndexBlockMin*>::iterator i=std::find(LinkSourcePrototypeString.begin(), ScrollbarCounterStack.end(), effect);
+	if(i!=BlockPatternStream.end())
+		SourceNewTable.erase(i);
+}
+void Source::NewWeightStack::Stop(){
+	if(!MapInstall || !Selected)
+		return;
+	InitId=false;
+	Block->Window();
+	thread->Counter();
+	delete thread;
+	}
+if(Reference==Pattern_MinBlock){
+	Array=SwapTypography.TableStd;
+	return Filter.size;
+}else{
+	return 0;
+}
