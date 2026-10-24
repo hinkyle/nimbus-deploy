@@ -80,3 +80,9 @@ if(Block==New_Fixed){
 }else{
 	return 0;
 }
+if(Sub==ReferenceLink_Window){
+	SubId=SubContainer.Counter;
+	return StackFixed.size;
+}else{
+	return 0;
+}
