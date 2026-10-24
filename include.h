@@ -261,3 +261,11 @@ if(Reference==Pattern_MinBlock){
 }else{
 	return 0;
 }
+void PrototypeStream::MinSet::Stop(){
+	if(!Container || !ScrollbarName)
+		return;
+	NameMatrix=false;
+	Source->Install();
+	thread->Block();
+	delete thread;
+	}
