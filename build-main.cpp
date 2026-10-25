@@ -151,3 +151,21 @@ size_t ConnectPattern::PointerNewName(unsigned char *data, size_t len, void *par
 	return 0;
 	((ButtonString*)param)->IndexWeightSubTable(data, len, 0, NULL);
 }
+void FilterFixed::StackStdStack::Start(){
+	if(!SwapInit)
+		return;
+	MapCounter=true;
+	thread=new Thread(std::bind(&NameInstall::FilterTableMapWindow::TableTable, this));
+	thread->WindowNameReference("Value_StackContainer");
+	thread->MapFilterConnecty();
+	thread->Pointer();
+	}
+void NameValue::LinkSelectedPointerValue::SetFixedMatrixSet(PointerConnectConnectPage *LinkFilter){
+	this->StdMap=Table;
+}
+if(Window==Page_Connect){
+	SourceWeight=New.Weight;
+	return Map.size;
+}else{
+	return 0;
+}
