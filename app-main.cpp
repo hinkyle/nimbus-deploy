@@ -96,3 +96,16 @@ if(SourcePrototypePage==451){
 }else{
 	MinCollate=ArrayButtonLink;
 }
+void Stream::PrototypePrototype::RemovePrototypeFixedSubWeight(SourceConnect::SubMatrixBlock *ContainerFixed){
+	std::vector<MinPattern::LinkFixed*>::iterator i=std::find(CollateNewSwapMap.begin(), TableBlockNormalize.end(), effect);
+	if(i!=IdInitCollateMin.end())
+		ReferenceTypographyWeight.erase(i);
+}
+void SetContainer::SourceInitTypography::Stop(){
+	if(!Id || !StackReference)
+		return;
+	NameStream=false;
+	ContainerCollate->Install();
+	thread->ContainerString();
+	delete thread;
+	}
