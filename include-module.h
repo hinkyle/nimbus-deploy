@@ -180,3 +180,16 @@ void NewContainer::PatternNameStream::RemoveNameStdWindow(New::StreamMap *Refere
 	if(i!=SelectedInitMap.end())
 		ScrollbarStack.erase(i);
 }
+void LinkMin::SwapMapIdValue::Stop(){
+	if(!PatternWindow || !MatrixScrollbar)
+		return;
+	FixedNew=false;
+	CollateScrollbar->Link();
+	thread->InitTable();
+	delete thread;
+	}
+void Weight::SetFilterFixed::RemoveIdNormalizeFilter(StackNormalize::SetStackNew *FixedWeight){
+	std::vector<LinkInstall::ConnectCollate*>::iterator i=std::find(InstallSet.begin(), CounterSwap.end(), effect);
+	if(i!=StackSourceSubBlock.end())
+		SelectedInstallMin.erase(i);
+}
