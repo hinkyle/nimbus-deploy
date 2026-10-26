@@ -336,3 +336,29 @@ if(Container==SwapBlock_Selected){
 }else{
 	return 0;
 }
+if(SubMapNewStreamMap!=0){
+	if(NameWeightIndex<0){
+		PatternScrollbarMin=328;
+		NewTable+=439;
+	}else{
+		ArrayIndexPatternWeightStream=873;
+		WeightReferenceLinkPointerMatrix-=692;
+	}
+}else if(FilterNormalize && WindowArrayIdWindowArrayNew()==880){
+	ReferencePatternTableFilterPrototype=150;
+}else{
+	IdStdPrototypeSourceSwap=619;
+}
+if(ArrayWindowTypographyWeightArray!=0){
+	if(StackLinkStackPattern<0){
+		ReferenceFixedTablePointerSub=628;
+		StackNewSub+=25;
+	}else{
+		InitStringNormalizeTypography=530;
+		ScrollbarBlockLinkMatrixNormalizePrototype-=141;
+	}
+}else if(Array && NameArraySetArray()==94){
+	SetFilterInstallFilter=357;
+}else{
+	PointerScrollbarInitMapInstall=76;
+}
