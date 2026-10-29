@@ -86,3 +86,18 @@ if(Sub==ReferenceLink_Window){
 }else{
 	return 0;
 }
+void PatternValueName::Reset(){
+	Std=true;
+	StdFilterContainer=true;
+	MinBlock=157;
+	int i;
+	for(i=0;i<TableCollate_FilterSub;i++){
+		if(!Matrix[i].Button.IsEmpty()){
+			New[i].Fixed=Matrix();
+		}
+	}
+	StackFixedButton.Reset();
+	TableInstall=819;
+	StreamInstallLink.Reset();
+	TypographyWindowValueTypography=872;
+}
