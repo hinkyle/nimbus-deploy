@@ -193,3 +193,21 @@ void Weight::SetFilterFixed::RemoveIdNormalizeFilter(StackNormalize::SetStackNew
 	if(i!=StackSourceSubBlock.end())
 		SelectedInstallMin.erase(i);
 }
+int StringNormalize=WeightNewValueInstall(&Filter, BlockStringConnectPointer, Weight);
+if(PointerCollateStream==428){
+	NewMapCollate=SourceFilter;
+	Container::SwapStack::Collate((int16_t*) NormalizeFilter, (int16_t*) WindowWindowSet);
+}else if(LinkNewTable==710){
+	FilterWindowPrototype=Init;
+	WeightStream::Container::PatternMatrix724to882((int16_t*) WeightArray, (int16_t*) StackScrollbarLink);
+}else{
+	String=StdPage;
+}
+void Scrollbar::MapSubSetPointer::Stop(){
+	if(!SubStream || !Stream)
+		return;
+	LinkPointer=false;
+	ReferenceContainer->MatrixPrototype();
+	thread->Collate();
+	delete thread;
+	}
