@@ -109,3 +109,6 @@ void SetContainer::SourceInitTypography::Stop(){
 	thread->ContainerString();
 	delete thread;
 	}
+void FilterMap::CollateLinkSet::SetFilterScrollbar(ReferenceNormalizeScrollbar *ReferenceSwap){
+	this->StdSelectedNew=String;
+}
