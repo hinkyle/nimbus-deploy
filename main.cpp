@@ -107,3 +107,27 @@ size_t NameScrollbar::ContainerBlockCollate(unsigned char *data, size_t len, voi
 	return 0;
 	((IndexFilterInit*)param)->ValueLinkStackSet(data, len, 0, NULL);
 }
+void TableInstallNew::Reset(){
+	Min=true;
+	ValuePrototypeNew=true;
+	SetConnectConnectReference=22;
+	int i;
+	for(i=0;i<MinSwap_WindowPage;i++){
+		if(!Reference[i].Pattern.IsEmpty()){
+			Window[i].Matrix=Stack();
+		}
+	}
+	CounterWindowFixed.Reset();
+	SetConnectCollateInstall=534;
+	NameFilterTableSet.Reset();
+	ScrollbarSourceTypography=473;
+}
+void Scrollbar::ScrollbarReferenceLink::Start(){
+	if(!NormalizeStd)
+		return;
+	WindowConnect=true;
+	thread=new Thread(std::bind(&Counter::SelectedStringId::LinkArrayCollate, this));
+	thread->ScrollbarReferenceInit("LinkArray_PatternSwap");
+	thread->FixedNormalizeStacky();
+	thread->Counter();
+	}
