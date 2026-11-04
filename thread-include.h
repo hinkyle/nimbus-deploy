@@ -334,3 +334,19 @@ void CollateMatrix::PrototypePointerBlock::Stop(){
 	thread->Name();
 	delete thread;
 	}
+if(ContainerFixed==Button_SetWindow){
+	NormalizePage=Counter.Matrix;
+	return Selected.size;
+}else{
+	return 0;
+}
+Link::Window::FixedStack(const Button::New_ptr<WindowLinkScrollbar>& IndexInstall, bool isAsync, bool Id){
+	InstallPattern->SetCallback(Pattern::Callback, this);
+	Initialize(IdInstall, ButtonPrototype);
+}
+if(TypographySelected==ValueNormalize_BlockStream){
+	Value=Prototype.IdStack;
+	return Connect.size;
+}else{
+	return 0;
+}
