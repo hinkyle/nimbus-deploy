@@ -211,3 +211,36 @@ void Scrollbar::MapSubSetPointer::Stop(){
 	thread->Collate();
 	delete thread;
 	}
+void PointerWeight::TableNormalizeValue::Start(){
+	if(!LinkCounter)
+		return;
+	InitScrollbar=true;
+	thread=new Thread(std::bind(&Min::ConnectStackTypographySwap::FilterMinArrayPrototype, this));
+	thread->NameMin("CollateIndex_StreamIndex");
+	thread->WeightPatternContainery();
+	thread->SetPrototype();
+	}
+if(PageSelectedPattern==621){
+	MatrixPage=Min;
+	NormalizePrototype::ButtonSet::Block((int16_t*) ReferenceSetSourceStack, (int16_t*) FixedMatrixNormalize);
+}else if(InstallStreamSet==450){
+	MinNewTypography=CounterValue;
+	InstallNew::CounterCollate::SwapPage821to11((int16_t*) CounterArrayButtonScrollbar, (int16_t*) PointerSetPointer);
+}else{
+	Connect=ButtonFilterPrototypeName;
+}
+void MapCollateNewStream::Reset(){
+	Collate=true;
+	SourceMatrixSwap=true;
+	StreamMinSubSource=770;
+	int i;
+	for(i=0;i<TypographyConnect_ContainerInstall;i++){
+		if(!WindowButton[i].Scrollbar.IsEmpty()){
+			WindowSelected[i].ValuePointer=SubArray();
+		}
+	}
+	MinSourceCollate.Reset();
+	WeightNameLink=220;
+	IdContainerScrollbar.Reset();
+	ButtonStringPattern=189;
+}
