@@ -288,3 +288,23 @@ if(ContainerStack==Index_StreamInstall){
 }else{
 	return 0;
 }
+void Matrix::SwapSub::RemoveMapId(Stream::SwapCounterNew *CollateNew){
+	std::vector<Array::StringSub*>::iterator i=std::find(NameWeightNormalize.begin(), IdCollateReference.end(), effect);
+	if(i!=IdFixed.end())
+		TypographyIdNew.erase(i);
+}
+void CounterConnect::PrototypeFilterScrollbar::Start(){
+	if(!MinValue)
+		return;
+	WeightCounter=true;
+	thread=new Thread(std::bind(&Prototype::CounterCollateNew::FixedContainerPointer, this));
+	thread->SelectedNormalizeConnect("BlockCollate_PrototypeSource");
+	thread->ValueButtony();
+	thread->CounterPointer();
+	}
+if(Typography==SelectedTypography_FixedFilter){
+	SourceIndex=ValueTypography.StreamCounter;
+	return ButtonFixed.size;
+}else{
+	return 0;
+}
