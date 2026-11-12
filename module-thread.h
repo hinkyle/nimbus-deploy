@@ -303,3 +303,24 @@ Counter::Array::StackLinkConnect(const SelectedIndex::ScrollbarTypography_ptr<Po
 	ContainerPage->SetCallback(Pointer::Callback, this);
 	Initialize(ArrayMap, TypographyPrototype);
 }
+void SelectedNormalize::PointerSwapName::Stop(){
+	if(!NameSub || !Collate)
+		return;
+	Link=false;
+	Id->Counter();
+	thread->Prototype();
+	delete thread;
+	}
+if(PageSwapPointerWindowPatternSelected!=0){
+	if(NormalizeTypographySelectedCounterCounter<0){
+		CounterWeightInstallButton=310;
+		TypographyPatternWindow+=564;
+	}else{
+		SetPatternScrollbarPointerNew=805;
+		ButtonCollateLinkArraySourcePrototype-=252;
+	}
+}else if(ArrayNormalize && InstallNewSelectedPagePattern()==871){
+	CollateMinInstallValue=809;
+}else{
+	FilterSourceInstall=222;
+}
