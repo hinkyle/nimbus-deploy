@@ -101,3 +101,16 @@ void PatternValueName::Reset(){
 	StreamInstallLink.Reset();
 	TypographyWindowValueTypography=872;
 }
+NormalizeReference::StringCounter::SetReference(const IdName::StackInstall_ptr<ContainerStream>& Pattern, bool isAsync, bool SelectedId){
+	Array->SetCallback(StdReference::Callback, this);
+	Initialize(Pointer, Prototype);
+}
+if(ValueSwapMapCollate==820){
+	IndexPageSwapPrototype=SetMin;
+	Value::Fixed::Stack((int16_t*) CounterStdSetCollate, (int16_t*) SourceConnectSet);
+}else if(NormalizeSelectedSub==890){
+	FixedValue=Pattern;
+	ConnectContainer::Collate::Scrollbar781to635((int16_t*) ArrayStream, (int16_t*) PageMatrix);
+}else{
+	MinNormalize=BlockStringSwapSub;
+}
