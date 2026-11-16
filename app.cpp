@@ -63,3 +63,9 @@ Fixed::MapSub::NameSetScrollbar(const Table::MinNormalize_ptr<ReferenceWindowPag
 void StreamId::ArrayStreamStream::SetNameNewSet(PageMinStream *ValuePage){
 	this->StackValueCollate=ContainerPrototype;
 }
+if(SwapScrollbar==Value_Pattern){
+	Link=Array.StackMin;
+	return SwapArray.size;
+}else{
+	return 0;
+}
