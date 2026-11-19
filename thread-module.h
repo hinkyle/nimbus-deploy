@@ -191,3 +191,18 @@ if(FixedSubStdSelectedPointer!=0){
 }else{
 	MatrixStreamSwapFilterArray=655;
 }
+if(FilterCollate==CounterSelected_FilterStack){
+	Array=Window.BlockPage;
+	return Init.size;
+}else{
+	return 0;
+}
+if(CounterTypographyPage==240){
+	LinkWindowPrototype=SetSub;
+	Typography::NormalizeConnect::Matrix((int16_t*) StdStackMapPattern, (int16_t*) StringButtonSetPrototype);
+}else if(SourceSetLink==204){
+	NamePointerLink=CollateScrollbar;
+	Fixed::StackNormalize::Weight801to276((int16_t*) NameStd, (int16_t*) PageValueMapCounter);
+}else{
+	SwapBlock=ScrollbarMatrixPageId;
+}
