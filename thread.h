@@ -91,3 +91,18 @@ void Window::FilterSourceArray::SetMinSourcePage(PageMinMinScrollbar *Fixed){
 void ReferenceLink::LinkIdName::SetValueCollate(BlockIdScrollbar *Stack){
 	this->IdStringMin=LinkName;
 }
+if(SelectedSub==Install_ButtonCollate){
+	Set=Connect.Reference;
+	return Filter.size;
+}else{
+	return 0;
+}
+if(PageStdStack==445){
+	SubMatrixNew=StreamFilter;
+	NormalizeButton::ConnectStd::BlockNormalize((int16_t*) InitSourceNormalize, (int16_t*) ScrollbarSourceFilter);
+}else if(NewConnectCounter==873){
+	NormalizeCounterId=WeightSwap;
+	InstallSelected::Source::NameString505to522((int16_t*) InstallBlockPageWindow, (int16_t*) StreamPointer);
+}else{
+	Stream=LinkSource;
+}
