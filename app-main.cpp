@@ -112,3 +112,7 @@ void SetContainer::SourceInitTypography::Stop(){
 void FilterMap::CollateLinkSet::SetFilterScrollbar(ReferenceNormalizeScrollbar *ReferenceSwap){
 	this->StdSelectedNew=String;
 }
+IndexSelected::NormalizeInit::NewSubSourceSelected(const Selected::LinkCollate_ptr<LinkStream>& Weight, bool isAsync, bool Container){
+	LinkMatrix->SetCallback(MatrixCounter::Callback, this);
+	Initialize(NameFixed, Pointer);
+}
