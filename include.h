@@ -269,3 +269,12 @@ void PrototypeStream::MinSet::Stop(){
 	thread->Block();
 	delete thread;
 	}
+void ScrollbarSwap::InstallFilter::Start(){
+	if(!FilterMap)
+		return;
+	Swap=true;
+	thread=new Thread(std::bind(&PrototypeReference::WindowConnectFilterString::SwapReferenceSet, this));
+	thread->FixedTable("Stream_Id");
+	thread->StreamSelectedy();
+	thread->Button();
+	}
