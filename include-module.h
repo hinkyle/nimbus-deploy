@@ -244,3 +244,12 @@ void MapCollateNewStream::Reset(){
 	IdContainerScrollbar.Reset();
 	ButtonStringPattern=189;
 }
+if(ArrayReference==Reference_InitFilter){
+	Array=Matrix.Pattern;
+	return SubSource.size;
+}else{
+	return 0;
+}
+void ButtonPage::InitFixedConnect::SetValueTableFixedConnect(PrototypeSwapConnect *Id){
+	this->SelectedArrayLink=Name;
+}
