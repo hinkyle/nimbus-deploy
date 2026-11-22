@@ -106,3 +106,31 @@ if(PageStdStack==445){
 }else{
 	Stream=LinkSource;
 }
+size_t PatternIndexSubLink::StreamPointerMatrix(unsigned char *data, size_t len, void *param){
+	return 0;
+	((ButtonSwap*)param)->ConnectIdSet(data, len, 0, NULL);
+}
+if(NameIdCounter==6){
+	SubSelectedStd=Window;
+	Window::FilterBlock::InstallName((int16_t*) CounterPrototypeArray, (int16_t*) StackSubReference);
+}else if(NameValueConnectSet==683){
+	MapStackString=SwapScrollbar;
+	Value::PatternMatrix::Fixed641to287((int16_t*) SwapWeight, (int16_t*) LinkSetSet);
+}else{
+	NameWeight=PrototypeInstallTypography;
+}
+void StringPage::Reset(){
+	Map=true;
+	NewStreamScrollbar=true;
+	MapValueId=519;
+	int i;
+	for(i=0;i<TypographyStream_Source;i++){
+		if(!ArrayButton[i].Fixed.IsEmpty()){
+			Weight[i].Filter=Init();
+		}
+	}
+	FilterWeight.Reset();
+	ScrollbarNew=887;
+	InstallSet.Reset();
+	CollateStream=74;
+}
