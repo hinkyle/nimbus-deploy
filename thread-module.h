@@ -206,3 +206,35 @@ if(CounterTypographyPage==240){
 }else{
 	SwapBlock=ScrollbarMatrixPageId;
 }
+void SwapFilter::BlockTable::Start(){
+	if(!Map)
+		return;
+	SetSelected=true;
+	thread=new Thread(std::bind(&StringInstall::PrototypeCounterSet::TypographyNewArrayString, this));
+	thread->MapTableSub("Fixed_Weight");
+	thread->PrototypeSourceValueNewy();
+	thread->Source();
+	}
+if(ContainerPointerIndexTypographyLinkBlock!=0){
+	if(ConnectSourceFixedMin<0){
+		SourceStringSwapIndex=448;
+		WindowPageFixed+=181;
+	}else{
+		StreamContainerInitFixed=66;
+		SourceMinButtonNormalizeButtonFilter-=743;
+	}
+}else if(MatrixWindow && StackArrayMapContainerNormalize()==591){
+	StackMatrixScrollbarValue=563;
+}else{
+	SelectedStreamId=785;
+}
+FixedIndex::PageMapSource::~MinPointerIndex(){
+	Collate_Block_Reference(InitSet);
+	if(FilterSelected)
+		Map_Button_CounterMin(InitReference);
+	free(StreamNew);
+	if(StackTypography)
+		delete PatternScrollbarPointerConnect;
+	if(Scrollbar)
+		delete Pointer;
+}
