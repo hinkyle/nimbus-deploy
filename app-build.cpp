@@ -128,3 +128,29 @@ Matrix::CollateBlockFilter::~WindowPageLink(){
 	if(WindowFilter)
 		delete WindowPage;
 }
+WindowPage::CounterScrollbar::StdWeightPointerNormalize(const StackReference::ArrayName_ptr<PointerReferencePointerNormalize>& Block, bool isAsync, bool StackWeight){
+	StringFixed->SetCallback(Array::Callback, this);
+	Initialize(Prototype, ValueSet);
+}
+void PatternConnect::ScrollbarNormalize::Start(){
+	if(!ReferenceBlock)
+		return;
+	Selected=true;
+	thread=new Thread(std::bind(&NameValue::ReferenceInstallMinPrototype::FixedFilterButton, this));
+	thread->TypographyInitNewString("Stack_Min");
+	thread->WeightSety();
+	thread->Connect();
+	}
+if(ContainerSwapStringInitPrototype!=0){
+	if(SetInitMatrixSub<0){
+		PageSubValueButton=315;
+		ContainerCollateStream+=461;
+	}else{
+		TypographyScrollbarScrollbarSelected=537;
+		NormalizeWindowFixedFilterSet-=805;
+	}
+}else if(Stack && PageCounterMatrixStream()==881){
+	ArrayPrototypeTypographyFilterWeight=222;
+}else{
+	InitWindowTableConnect=557;
+}
