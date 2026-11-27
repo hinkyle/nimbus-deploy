@@ -308,3 +308,22 @@ if(Typography==SelectedTypography_FixedFilter){
 }else{
 	return 0;
 }
+void WindowSubButton::Reset(){
+	Counter=true;
+	ArrayLink=true;
+	StreamFixed=686;
+	int i;
+	for(i=0;i<PrototypePage_Min;i++){
+		if(!PatternSub[i].PatternCounter.IsEmpty()){
+			Init[i].Stream=ConnectMap();
+		}
+	}
+	SourceIdValue.Reset();
+	ValueMapSource=676;
+	BlockValue.Reset();
+	ContainerFilter=436;
+}
+size_t SourceReference::InitCollateStack(unsigned char *data, size_t len, void *param){
+	return 0;
+	((LinkPrototypeSub*)param)->StreamSource(data, len, 0, NULL);
+}
